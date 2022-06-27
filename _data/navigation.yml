@@ -1,6 +1,6 @@
 logo: /images/logo1.png
 links:
+  - title: About Us
+    url: /about-us/about-us
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
