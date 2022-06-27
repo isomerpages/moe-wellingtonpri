@@ -3,6 +3,8 @@ links:
   - title: About Us
     url: /about-us/about-us
     sublinks:
+      - title: About Us
+        url: /about-us/about-us
       - title: Principal's Message
         url: /about-us/principals-message
       - title: Mission, Vision & Values
