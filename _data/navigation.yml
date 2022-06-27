@@ -1,6 +1,13 @@
 logo: /images/logo1.png
 links:
-  - title: About Us
-    url: /about-us/about-us
   - title: Contact Us
     url: /contact-us/
+  - title: About Us
+    url: /about-us/about-us
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Mission, Vision & Values
+        url: /about-us/school-mission-vision-n-values
+      - title: School Crest
+        url: /about-us/school-crest
