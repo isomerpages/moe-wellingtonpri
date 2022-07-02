@@ -14,6 +14,5 @@ description: ""
 | Mr George Philip | Member |
 | Mr Wilson Tan Saw Chin | Member |
 | Mr Lim Tze Wei | Member |
-| | |
-
-Updated: February 2022
+|Updated: February 2022 | |
+| | | 
