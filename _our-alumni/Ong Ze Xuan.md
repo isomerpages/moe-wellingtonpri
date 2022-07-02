@@ -12,7 +12,7 @@ Ong Ze Xuan was from the graduating class of 2008. He is a graduate from NUS Hig
 <div>  
 <div style="float: left">  
 <img src="/images/alumni05.png" 
-     style="width:40%">
+     style="width:70%">
 </div>  
 <div></div>  
 </div>
