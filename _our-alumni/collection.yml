@@ -2,5 +2,5 @@ collections:
   our-alumni:
     output: true
     order:
-      - Aloysius Thum.md
       - Daveraj Sivasegaran.md
+      - Aloysius Thum.md
