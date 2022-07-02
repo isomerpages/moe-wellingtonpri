@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/School Leaders.md
-      - Our People/Our People.md
       - Our People/.keep
+      - Our People/Our People.md
+      - Our People/School Leaders.md
       - About Us.md
       - Principal's Message.md
       - School Mission, Vision & Values.md
