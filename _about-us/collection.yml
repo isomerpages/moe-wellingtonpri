@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements/Our Alumni.md
-      - Achievements/.keep
       - About Us.md
       - Principal's Message.md
       - School Mission, Vision & Values.md
@@ -18,3 +16,5 @@ collections:
       - Our People/Executive and Administrative Staff (EAS).md
       - School Safety Mission.md
       - School Discipline Vision & Mission.md
+      - Achievements/.keep
+      - Achievements/Our Alumni.md
