@@ -1,0 +1,4 @@
+collections:
+  our-educators:
+    output: true
+    order: []
