@@ -8,7 +8,7 @@ description: ""
 <div>  
 <div style="float: left">  
 <img src="/images/IMG20180326064128.jpg" 
-     style="width:50%">
+     style="width:25%"> 
 </div>  
 <div></div>  
 </div>
