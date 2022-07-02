@@ -12,7 +12,7 @@ As a young primary school boy, I was already involved in sports CCAs (Badminton 
 <div>  
 <div style="float: right">  
 <img src="/images/alumni03.png" 
-     style="width:90%">
+     style="width:100%">
 </div>  
 <div></div>  
 </div> Servant leadership was an inherent value that I brought with me in my endeavours. I graduated as the Distinguished Graduate in the St. John Officer Training Course, and continued to serve in the brigade of my alma mater, Maris Stella High, as a Corps Staff Officer, while juggling with my studies in JC, and serving national service.
