@@ -3,7 +3,7 @@ title: Nur Farah Amirah Frauder
 permalink: /about-us/achievements/our-alumni/nur-farah-amirah-frauder
 description: ""
 ---
-### A Memorable Dance Journey  <br> “Dance has allowed me to build up my character and discover what I am capable of. I am encouraged to try new things and not to be afraid of making mistakes.” “… building upon the strong foundation Wellington has laid for me, I am proud to have been part of the dance team which has achieved the first Distinction Award for my school (secondary) since it was founded over 60 years ago.”
+##### A Memorable Dance Journey  <br> “Dance has allowed me to build up my character and discover what I am capable of. I am encouraged to try new things and not to be afraid of making mistakes.” “… building upon the strong foundation Wellington has laid for me, I am proud to have been part of the dance team which has achieved the first Distinction Award for my school (secondary) since it was founded over 60 years ago.”
 
 Dance has been one of my many passions since I was very young. I started dancing at the age of three, when my mother enrolled me in a ballet class. I went for my first ballet recital at the age of four and discovered that I love to perform.
 
