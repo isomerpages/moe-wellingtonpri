@@ -14,6 +14,7 @@ third_nav_title: Our People
 | | |
 
 ##### MOE Kindergarten
+
 | Centre Head  |  Ms Latifah Abdullah |  latifah_abdullah@schools.gov.sg |
 |---|---|---|
 |  Deputy Centre Head  |  Ms Mayuri Loganathan |  mayuri_loganathan@schools.gov.sg |
@@ -21,6 +22,7 @@ third_nav_title: Our People
 | | |
 
 ##### Management Team
+
 | Head of Department English Language |  Mdm Wendy Au |  wendy_au_may_lee@moe.edu.sg |
 |---|---|---|
 | Head of Department Science |  Mdm Lata Menon |  lata_krishnan@moe.edu.sg |
