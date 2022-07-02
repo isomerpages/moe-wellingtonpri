@@ -16,6 +16,5 @@ We’ll share and care for every one <br>
 Empowerment through education <br>
 Our mentor Wellington Primary _Wellington!_
 
-_Play song:_
-
+_Play song:_ <br>
 </insert song>
