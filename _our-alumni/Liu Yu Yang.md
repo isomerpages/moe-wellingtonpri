@@ -13,7 +13,7 @@ He has written the poem to express his gratitude to the school for nurturing him
 	
 <p> <p/>
 	
-**W** ellington is special <br>
+<strong> W </strong> ellington is special <br>
 **E** ver since I came to Singapore I had this feeling that <br>
 **L** anguage challenges could not stop me from <br>
 **L** ater excelling under the care of the teachers. <br>
