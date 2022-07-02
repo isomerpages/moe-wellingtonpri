@@ -2,7 +2,6 @@ collections:
   our-alumni:
     output: true
     order:
-      - Eliza.md
       - Daveraj Sivasegaran.md
       - Aloysius Thum.md
       - Ong Ze Xuan.md
