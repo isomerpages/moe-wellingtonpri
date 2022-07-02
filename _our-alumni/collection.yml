@@ -1,4 +1,5 @@
 collections:
   our-alumni:
     output: true
-    order: []
+    order:
+      - Daveraj Sivasegaran.md
