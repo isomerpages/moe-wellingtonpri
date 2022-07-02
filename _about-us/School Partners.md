@@ -3,7 +3,6 @@ title: School Partners
 permalink: /about-us/school-partners
 description: ""
 ---
-
 | Name | Role |
 |---|---|
 | Mr Lim Zhee Long, Jimmy | Chairman |
@@ -15,4 +14,6 @@ description: ""
 | Mr George Philip | Member |
 | Mr Wilson Tan Saw Chin | Member |
 | Mr Lim Tze Wei | Member |
+| | |
+
 Updated: February 2022
