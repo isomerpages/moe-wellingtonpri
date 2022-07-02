@@ -9,7 +9,9 @@ description: ""
 
 <center>
 He has written the poem to express his gratitude to the school for nurturing him.  
-
+	
+<p>
+	
 **W** ellington is special <br>
 **E** ver since I came to Singapore I had this feeling that <br>
 **L** anguage challenges could not stop me from <br>
