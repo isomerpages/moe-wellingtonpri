@@ -4,7 +4,7 @@ permalink: /about-us/school-crest
 description: ""
 ---
 <img src="/images/WTPS%20121015.jpg" 
-     style="width:50%">
+     style="width:30%">
 
 Wellington crest embodies the spirit of a dynamic learning partnership between the school and its stakeholders in response to the emerging challenges in education.  
 
