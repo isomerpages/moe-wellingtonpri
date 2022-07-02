@@ -2,8 +2,8 @@ collections:
   our-alumni:
     output: true
     order:
-      - Liu Yu Yang.md
       - Daveraj Sivasegaran.md
       - Aloysius Thum.md
       - Ong Ze Xuan.md
       - Shearerlyn Mok.md
+      - Liu Yu Yang.md
