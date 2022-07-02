@@ -3,7 +3,7 @@ title: School Song
 permalink: /about-us/school-song
 description: ""
 ---
-Wellington Primary forever inviting <br>
+<center> Wellington Primary forever inviting <br>
 The place we learn to be innovative <br>
 Every day every way <br>
 Nurture talent and develop character <br>
