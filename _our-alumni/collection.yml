@@ -2,7 +2,7 @@ collections:
   our-alumni:
     output: true
     order:
-      - Shearerlyn Mok.md
       - Daveraj Sivasegaran.md
       - Aloysius Thum.md
       - Ong Ze Xuan.md
+      - Shearerlyn Mok.md
