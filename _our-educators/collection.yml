@@ -2,4 +2,5 @@ collections:
   our-educators:
     output: true
     order:
+      - Form Teachers/Form Teachers.md
       - Form Teachers/.keep
