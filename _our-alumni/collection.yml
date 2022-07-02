@@ -2,7 +2,6 @@ collections:
   our-alumni:
     output: true
     order:
-      - Eliza Ismail.md
       - Daveraj Sivasegaran.md
       - Aloysius Thum.md
       - Ong Ze Xuan.md
@@ -10,3 +9,4 @@ collections:
       - Liu Yu Yang.md
       - Belle Tan.md
       - Nur Farah Amirah Frauder.md
+      - Eliza Ismail.md
