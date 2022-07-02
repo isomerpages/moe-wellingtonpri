@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements/Achievements.md
+      - Achievements/Our Alumni.md
       - Achievements/.keep
       - About Us.md
       - Principal's Message.md
