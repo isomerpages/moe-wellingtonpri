@@ -10,3 +10,4 @@ third_nav_title: Our People
 | Vice Principal | Mdm Kong Yee Loon | [kong\_yee\_loon@schools.gov.sg](mailto:kong_yee_loon@schools.gov.sg) |
 | Vice Principal  |  Mrs Lau Whee Sien  | [hoong\_whee\_sien@schools.gov.sg](mailto:hoong_whee_sien@schools.gov.sg) |
 |  Vice Principal  |  Mr Ng Wee Ming Dennis | [ng\_wee\_ming\_dennis@schools.gov.sg](mailto:ng_wee_ming_dennis@schools.gov.sg) |
+| | |
