@@ -9,6 +9,7 @@ Every day every way <br>
 Nurture talent and develop character <br>
 This the place we’ll shine like a star in life
 
+	
 Confident creative and strong we will be <br>
 To take on challenges <br>
 Dear Wellington we’ll make you proud <br>
