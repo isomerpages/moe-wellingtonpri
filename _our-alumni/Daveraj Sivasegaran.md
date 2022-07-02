@@ -8,8 +8,7 @@ description: ""
 I remember the day I first stepped into Wellington Primary School 14 years ago. School was a daunting thing for me at the tender age of 7; many things were unknown to me at that time. I was a challenge for many of my teachers, but they stood by me from the start. The 6 years in primary school went by in a hurry. In that time, I met amazing friends, teachers, staff, and grew holistically as a person. Wellington always gave me opportunities to pursue my aspirations, and encouraged me to take part in activities that molded me into a well-rounded individual. One of the highlights of my time in Wellington was winning a Silver award at Elementz 2005, and getting to meet then-President S R Nathan the next year. Well, much more happened along the way but alas, all good things must come to an  end. The teachers at Wellington played a huge role in helping me realise my dreams and I am immensely thankful for their support. Without them, I would not be where I am today.
 
 <img src="/images/Capture.jpg" 
-     style="width:80%">
-
+     style="width:80%"> 
 Left: 2005 – Representing Wellington with classmates <br> 
 Right: 2015 – Representing NUS with fellow school mates
 
