@@ -5,7 +5,8 @@ description: ""
 ---
 ### Liu Yu Yang, who has a passion for Science, was the top PSLE student for the class of 2012 and is currently studying in Raffles Institution
 
-![](/images/alumni07.png)
+<img src="/images/alumni07.png" 
+     style="width:80%">
 
 <center>
 He has written the poem to express his gratitude to the school for nurturing him.  
@@ -22,3 +23,5 @@ He has written the poem to express his gratitude to the school for nurturing him
 **T** eachers in Wellington have given me confidence which helped me <br>
 **O** vercome so many obstacles. <br>
 **N** ot a single strand of memory here shall fade.
+	
+</center>
