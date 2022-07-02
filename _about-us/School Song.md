@@ -9,7 +9,8 @@ Every day every way <br>
 Nurture talent and develop character <br>
 This the place we’ll shine like a star in life
 
-	
+<p> 
+
 Confident creative and strong we will be <br>
 To take on challenges <br>
 Dear Wellington we’ll make you proud <br>
@@ -17,5 +18,7 @@ We’ll share and care for every one <br>
 Empowerment through education <br>
 Our mentor Wellington Primary _Wellington!_
 
+<p>
+	
 _Play song:_ <br>
 </insert song>
