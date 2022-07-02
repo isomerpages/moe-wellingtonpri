@@ -24,4 +24,3 @@ He has written the poem to express his gratitude to the school for nurturing him
 **O** vercome so many obstacles. <br>
 **N** ot a single strand of memory here shall fade.
 	
-</center>
