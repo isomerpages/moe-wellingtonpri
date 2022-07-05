@@ -27,6 +27,10 @@ links:
     collection: key-programmes
   - title: Our Departments & CCA
     url: /our-departments-and-cca/our-departments-and-cca
-    sublinks: []
+    sublinks:
+      - title: English
+        url: /our-departments-and-cca/english
+      - title: Mathematics
+        url: /our-departments-and-cca/mathematics
   - title: Contact Us
     url: /contact-us/
