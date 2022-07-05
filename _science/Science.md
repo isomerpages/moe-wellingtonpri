@@ -57,4 +57,5 @@ Our department believes in designing a rich environment where our students can s
 * Lower Primary Sharing
 ![](/images/16.jpg)
 
-![](/images/17.jpg)
+<img src="/images/17.jpg" 
+     style="width:89%">
