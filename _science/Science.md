@@ -35,3 +35,21 @@ This programme aims to help our students better visualise abstract ideas through
 ##### Learning Journey to Lee Kong Chian Natural History Museum
 
 This programme aims to help our students actively learn about Singapore’s rich biodiversity and various animal adaptations through a hands-on practical using museum specimen. This expands their intellectual horizon and link their theoretical knowledge in the classroom to experiential knowledge as students get a chance to handle actual museum specimens such as civet cat, mudskipper and octopus.
+
+![](/images/learning.jpg)
+
+##### Singapore Amazing Flying Competition
+
+This programme aims to put our students’ ideas to flight. Students can design and fold their own paper planes to achieve the longest, farthest or most accurate flights. The participating teams also learned soft skills such as collaboration, teamwork and presentation skills as they embark on this journey.
+
+![](/images/tables.jpg)
+
+##### Developing Champions in Science
+
+Our department believes in designing a rich environment where our students can showcase their leadership in Science. We aim to guide our students to be confident leaders of Science through various sharing with their younger peers about Science.
+
+* P2 Science Trail
+![](/images/p2%20trial.jpg)
+
+* MK Sharing
+![](/images/mk%20sharing.jpg)
