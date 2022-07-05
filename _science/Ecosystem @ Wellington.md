@@ -55,3 +55,45 @@ The following are areas in the school which have been aesthetically developed to
 
 Our Community Garden is a continuous programme to engage and educate children on the importance of caring for community and biodiversity. Residents, parents, staff and students have begun the planting of vegetables and fruit trees in the enclosed school compound that has been isolated from the main school building for sharing as a common free-access community area through a biometrically controlled gate creating the opportunity to care for the community, and bond together with a ‘kampong-like spirit’. Members of the school are now working more closely with residents interested in kampong farming right at their door step. Through this initiative, a mutual understanding and bonding will develop between the residents and the members of the school and our students are beginning to realise the benefit through their involvement in caring for flora and environment.
 
+![](/images/vegg.jpg)
+
+### HIGH-RISE VEGETABLE FARMING
+
+The development of the high-rise vegetable farming project on the 4th level is designed to help our science teachers provide our students with meaningful hands-on, outdoor education whereby the students are involved in investigating scientific problems in subjects such as plant growth requirements, land use, nutrition, food systems, origins and medicinal value. The programme aims to empower every student to take ownership of their own learning when are they are involved in active project-based group research and presentations.  
+
+The project will provide endless opportunities for experiential and discovery learning where our pupils can see, feel, touch and smell the plants around them. By creating a meaningful and fun learning experience, we hope that the pupils would have had an impactful learning.
+
+Ultimately, students will understand the overall aesthetic and physical benefits of having plants all around us, especially in a land-scarce country like ours.
+
+![](/images/pillar.jpg)
+
+### LUSH GARDENS (HERBS AND SPICES)
+
+A Spices and Herbs garden known as the LUSH (Learning using Spices and Herbs) garden was created last year by the science teachers. Pupils explored the garden for their “out of classroom learning” and had to source for the available herbs and spices that are planted around the school and transplanted them into the garden. As such, the pupils had to go online to research what are herbs and spices and then source and identify them in our schools.
+
+Pupils have to research on the conditions needed for the herbs and spices to grow and if they will need direct sunlight. They will then decide on the location to plant the herbs and spices in the garden (receive maximum sunlight/ minimum sunlight). This encourages them to be more green and sensitive to the needs of the plants.
+
+As for the aesthetic portion of the garden, pupils are not allowed to buy any new materials. They are encouraged to source around the school for materials to decorate the garden. As such, this teaches the pupils to be less wasteful and to reuse the available materials in our school.
+
+The pupils found an old fountain that is not used and some old boulders and used them to decorate the garden. They also made use of pebbles available in the school to line the walkways to make the borders more visible and outstanding.
+
+This programme (8 months) not only teaches the children to be green and understand more about the plants, it also leads them to innovate and create ideas when no fund is available to them for the decoration of the garden.
+
+### ‘Egg’cellent PET Vegetables Garden
+
+This is a “student-teacher’-made green habitat whereby PET bottles are innovatively reused to create a hanging garden. By maintaining the plants, students found out that egg shells make good fertilisers which release calcium and other minerals into the soil. The teachers encouraged the students to read up more on plant fertilisation. Some students found out that diluted milk can provide fertilisers faster to the plants as egg shells may take a longer time to decompose. Their first experiment involved the planting of lettuce and it turned out to be a great success. Through this project, the students not only understood the importance of reusing and recycling, they also learnt an interesting science fact on plant fertilisation and demonstrated to all that a beautiful hanging garden can be created using recycled materials if we use our imagination.
+
+### CONCLUSION
+
+Through this wonderful ecosystem that exists in Wellington, we, the staff and students at Wellington Primary School are able to experience the colours, the shapes and the smell of flora and fauna in an ecosystem that we helped to create and evolve on its own. Information posters, name placards of plants and information on notice boards provide the students and visitors to the school with information about plants that are grown here. The ultimate goal is to help children and adults get closer to nature, making them realize that humans, plants and animals can live all together in harmony, without damaging each other, thus understanding the important message of going green.
+
+### References
+
+1) http://www.thewaterpage.com/pond-ecosystem.htm <br>
+2) https://en.wikipedia.org/wiki/Ecosystem <br>
+3) A Guide to the Botanic Gardens Jungle (Publisher: Singapore Science Centre) <br>
+4) A Guide to the Bukit Timah Nature Reserve (Publisher: Singapore Science Centre) <br>
+5) A Guide to the Freshwater Life in Singapore (Publisher: Singapore Science Centre) <br>
+6) A Guide to Pond Life (Publisher: Singapore Science Centre)
+
+**Written by Mr Sivasegaran, School Staff Developer**
