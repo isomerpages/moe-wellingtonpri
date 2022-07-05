@@ -1,4 +1,5 @@
 collections:
   infocomm-technology:
     output: true
-    order: []
+    order:
+      - Infocomm Technology (ICT).md
