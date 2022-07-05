@@ -35,7 +35,8 @@ All organisms are affected by its immediate surroundings or environment. The env
 
 The environment may be divided into the biotic and abiotic environments. The biotic environment is made up of biotic factors, that is, all the living things in the environment. The abiotic environment is made up of all the physical factors that affect the organism. These include the air, temperature and amount of water and light in the environment.
 
-![](/images/SC01.png)
+<img src="/images/SC01.png" 
+     style="width:80%">
 
 The environment of our school’s gardens and mini-gardens is an example of a local environment. The abiotic environment of the eco-garden is determined by various physical factors such as air, water, light and temperature. Some of these factors change with the time of the day and year. The eco-garden receives more light during the day than at night. The amount of rain the eco-garden receives will vary according to the seasonal changes in the wind directions. Physical conditions may vary in the different locations of the eco-garden. For example, the open areas near our entrance of school and near the carpark receive more sunlight than the shady areas at our community and lush gardens and in our vertical green walls.   
 
@@ -43,11 +44,13 @@ Soil is also part of the abiotic environment of the eco-garden. Soil factors inc
 
 The biotic environment of the eco-garden is made up of organisms living in the eco-garden. These include plants, animals, fungi and micro-organisms such as bacteria. The common land plants which can be found in our eco-gardens and indoor gardens is shown in the table below:
 
-![](/images/sc02.png)
+<img src="/images/sc02.png" 
+     style="width:80%">
 
 The table below shows some examples of animals commonly found in our eco-garden during the day.
 
-![](/images/sc03.png)
+<img src="/images/sc03.png" 
+     style="width:80%">
 
 The following are areas in the school which have been aesthetically developed to give it the luscious greenery which provides the habitats for the animals above:  
 
