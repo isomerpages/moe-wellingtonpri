@@ -23,8 +23,12 @@ The objective of this project is to:
 2. Pupils will be able to bring these skills into their secondary school life and share it with fellow pupils 
 3. Educators will be trained and explore the possibility of using Game Creation in their curriculum teaching.
 
-<figure>  
-<img src="/images/canal.jpg" 
-     style="width:80%">
-<figcaption> 7th National Primary Photography Competition (Budding Category)<strong> <br>Awarded: Gold </strong> </figcaption>  
-</figure>
+![](/images/canal%201.jpg)
+
+![](/images/award.jpg)
+
+![](/images/award%202.jpg)
+
+![](/images/award%203.jpg)
+
+![](/images/award%204.jpg)
