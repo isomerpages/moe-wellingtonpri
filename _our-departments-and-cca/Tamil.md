@@ -32,7 +32,8 @@ Some of our participation and achievements were:
 * MaGo Tamil Story Telling Olympiad
 * Tamil Fest @ UPTLC (Fancy dress, Library quiz and other competitions)e
 
-![](/images/tamil.jpg)
+<img src="/images/tamil.jpg" 
+     style="width:80%">
 
 ### Our Programmes
 
@@ -40,7 +41,8 @@ The Tamil department aims to provide pupils with a wide range of experience. We 
 
 ##### Amazing Race @ SINDA (Primary 5 and 6)
 
-![](/images/amazing%20race.jpg)
+<img src="/images/amazing%20race.jpg" 
+     style="width:80%">
 
 In March this year, Primary 5 and 6 pupils took part in the ‘Amazing Race’ carried out by SINDA. The pupils got the chance to explore the Singapore Zoological gardens. The activities carried out during contributed to the bonding amongst pupils and the feeling that they are one Wellington. These pupils are now able confidently carry a conversation about the Zoo in Tamil Language and their pool of Tamil words associated with the Zoo has increased as well.
 
@@ -68,5 +70,7 @@ This was a day full of fun and learning activities. Pupils learned to express th
 
 As a department we look at the needs of the pupils and design programmes for them as well. Some of our Primary 1 and Primary 2 pupils face difficulties in speaking in Tamil and thus in writing as well. The ‘Tamil is Fun!’ programme is designed to help such pupils. Our WePN members come in every Friday morning to help these pupils in fun ways such as doing jigsaw puzzles to spell the right word. With a ratio of 1 Parent is to 3 or 4 pupils, there is more attention given to them.
 
-![](/images/tamil%20class.jpg)
+<img src="/images/tamil%20class.jpg" 
+     style="width:80%">
+
 ‘We can Write’ concentrates on helping our pupils write better compositions. Our teachers conceptualised and conducted workshops for Primary 3 and Primary 4 pupils. 100% of pupils felt that the workshops were useful and they are looking forward to more such sessions.
