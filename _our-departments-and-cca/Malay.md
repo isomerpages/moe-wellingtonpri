@@ -51,9 +51,24 @@ During full home-based learning, students learn the language in a fun and enjoya
 
 This year’s Hari Raya Aidilfitri celebration was held on 5th June. The primary 1-3 students had theirs via Zoom with their Form Teachers during Home Based Learning. Other than learning about Hari Raya tradition, the students also got to watch videos to understand the festival is celebrated differently this year due to the COVID-19 situation. Nevertheless, the students enjoyed themselves especially when watching the Malay Dance video put together from individual recordings done by the Malay Dance students. The session ended with a craft activity in which students get to make either green packets, ketupat weaving or greeting cards. 
 
-##### Bicara Berirama  
+##### *Bicara Berirama*  
 **Choral Speaking**
 
 ![](/images/Picture1.jpg)
 
 ![](/images/IMG_5096.jpg)
+
+*‘Bicara Berirama’* or Choral Speaking is a poetic language group presentation. The team will form a thematic choir that embraces the passion or themes related to Malay language and culture to the audience. This activity involves various forms of individual voices that are united to deliver the messages.
+
+The *‘Bicara Berirama’* aims to build confidence and enhance the language mastery of our pupils. The programme instil perseverance, diligence and teamwork which is necessary in equipping pupils with the 21st century skills.
+
+##### Rakan Bahasa
+**Malay Language Ambassador**
+
+![](/images/PHOTO-2019-09-07-13-39-35.jpg)
+
+![](/images/PHOTO-2019-09-07-11-56-44.jpg)
+
+Rakan Bahasa is an initiative by the Malay Language Council, Singapore (MLCS) or Majlis Bahasa Melayu Singapura (MBMS) to encourage students who excel in Malay Language to spread the love of the language to their peers, friends and families.
+
+Our Rakan Bahasa will undergo trainings with National Heritage Board (NHB) so that they are able to contribute back to the society through sharing sessions or performances related to the Malay Language. This role has helped boost their confidence and aid their interaction skills.
