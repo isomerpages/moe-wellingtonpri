@@ -15,17 +15,14 @@ To enable every Wellingtonian to be future ready by developing him / her to be a
 
 ![](/images/ELDEPT-01.png)
 
-|  Every Wellingtonian An English J.E.W.E.L |  |  |
-|---|---|---|
-| An Empathetic <br>Communicator |  A Discerning <br>Reader |  A Creative <br>Enquirer |
-| who possesses the values,<br>dispositions and skills to<br>listen actively to different<br>perspectives; communicates<br>confidently, effectively and<br>sensitively while collaborating<br>with others to work towards<br>shared goals; and balances an appreciation of the Singapore spirit with multi-ethnic and multicultural sensitivities. | who possesses broad worldviews by staying well informed and self-directed in the use of information, and is able to distinguish fact from falsehood by processing and evaluating<br>information, critically and<br>with discernment according<br>to purpose, audience, context and culture. | who explores and evaluates<br>real-world issues and multiple perspectives as well as gather and synthesises information<br>from diverse print, non-print and digital networked sources, so as to co-create knowledge and solutions in familiar or new contexts. |
-| | | | 
+![](/images/jewel.jpg)
 
 ##### English Language Teaching & Learning Approach @ Wellington  
 
 The school’s approach to teaching and learning of the English Language is undergirded by the EL teaching processes (ACoLADE) in our EL classrooms to ensure effective and affective language use for all Wellingtonians by honing their EL skills, strategies, attitude and behaviour delineated in the following diagram.
 
-![](/images/ELDEPT-02.png)
+<img src="/images/ELDEPT-02.png" 
+     style="width:80%">
 
 The EL approach is enacted through our department’s G.L.A.D. framework to equip our Wellingtonians to:  
 1. Listen to, read and view critically and with accuracy, understanding and appreciation a wide, array of literary and informational texts in standard English from print, non-print and digital networked sources.
