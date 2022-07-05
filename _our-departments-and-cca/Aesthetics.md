@@ -47,3 +47,19 @@ Through the different platforms provided, students will be able to confidently i
 
 ##### P5 Chinese Painting Programme
 ![](/images/p5%20chinese%20painting.jpg)
+
+##### P4 Museum-Based Learning Journey
+![](/images/p4%20trip.jpg)
+
+##### Singapore Youth Festival (SYF)
+![](/images/SYF%201.jpg)
+
+![](/images/SYF%202.jpg)
+
+![](/images/syf%203.jpg)
+
+##### Music Enrichment Programme
+![](/images/music%20enrichment.jpg)
+
+##### Green Ambassadors Art Programme
+![](/images/Green%20Ambassador%201.jpg)
