@@ -24,3 +24,14 @@ We aim to provide a curriculum which engages, motivates and inspires confidence 
 
 The Science Department focuses on equipping our young scientists with specific skills and approaches in helping them to understand and relate their scientific concepts better. To that end, the Team uses the RICE technique to help students understand the questions, the topic coverage and answer them in a constructive manner.
 
+### Our Programmes
+
+##### Learning Journey to Science Centre
+
+This programme aims to help our students better visualise abstract ideas through the observations of a variety of insect specimens under the microscope. Students learn about the typical life cycles of an insect and the various adaptations of insects to their environment. This helps to inject meaning to students’ learning so that it becomes real and concrete.
+
+![](/images/learning%20journey.jpg)
+
+##### Learning Journey to Lee Kong Chian Natural History Museum
+
+This programme aims to help our students actively learn about Singapore’s rich biodiversity and various animal adaptations through a hands-on practical using museum specimen. This expands their intellectual horizon and link their theoretical knowledge in the classroom to experiential knowledge as students get a chance to handle actual museum specimens such as civet cat, mudskipper and octopus.
