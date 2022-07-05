@@ -2,5 +2,5 @@ collections:
   key-programmes:
     output: true
     order:
-      - Learning Through New Media (ALP).md
       - Student Leadership.md
+      - Learning Through New Media (ALP).md
