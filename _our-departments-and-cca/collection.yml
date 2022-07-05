@@ -2,6 +2,7 @@ collections:
   our-departments-and-cca:
     output: true
     order:
+      - Aesthetics.md
       - Our Departments & CCA.md
       - English.md
       - Mathematics.md
