@@ -34,3 +34,26 @@ A wide range of activities are organised which include activities such as langua
 Leveraging on ICT, we made learning of the Malay language and culture more exciting even during the Circuit Breaker period. the Malay Department collaborated with the Aesthetic Department and encouraged students to submit a Mother Tongue Fortnight presentation in the online Well-ympics Challenge. The pupils enthusiastically submitted through the Student Learning Space (SLS) their lively performance which they recorded at the comfort of their home.
 
 ##### Infusing ICT in the Teaching and Learning of Malay Language
+
+![](/images/Adjustments.jpg)
+
+![](/images/deck.png)
+
+When students are motivated to learn, they will naturally be engaged in learning and will yearn to learn more. Infusing ICT in the lesson not only enables students to collaborate, it also provides opportunities for them to explore further as information is more accessible.  
+
+During full home-based learning, students learn the language in a fun and enjoyable manner. Games and webinars allows students to challenge themselves to be more proficient and effective language users.  
+
+##### Cov-EID Celebration <br> Celebrating Hari Raya differently in 2020
+
+![](/images/pasted%20image%200%20(4).png)
+
+![](/images/pasted%20image%200%20(5).png)
+
+This year’s Hari Raya Aidilfitri celebration was held on 5th June. The primary 1-3 students had theirs via Zoom with their Form Teachers during Home Based Learning. Other than learning about Hari Raya tradition, the students also got to watch videos to understand the festival is celebrated differently this year due to the COVID-19 situation. Nevertheless, the students enjoyed themselves especially when watching the Malay Dance video put together from individual recordings done by the Malay Dance students. The session ended with a craft activity in which students get to make either green packets, ketupat weaving or greeting cards. 
+
+##### Bicara Berirama  
+**Choral Speaking**
+
+![](/images/Picture1.jpg)
+
+![](/images/IMG_5096.jpg)
