@@ -25,5 +25,8 @@ links:
         url: /about-us/achievements/our-alumni
   - title: Key Programmes
     collection: key-programmes
+  - title: Our Departments & CCA
+    url: /our-departments-and-cca/our-departments-and-cca
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
