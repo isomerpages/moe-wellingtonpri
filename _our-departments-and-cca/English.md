@@ -3,7 +3,8 @@ title: English
 permalink: /our-departments-and-cca/english
 description: ""
 ---
-![](/images/english%20language%20department%20i.png)
+<img src="/images/english%20language%20department%20i.png" 
+     style="width:90%">
 
 ##### Our Mission
 
