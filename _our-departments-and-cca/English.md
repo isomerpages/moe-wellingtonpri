@@ -3,3 +3,40 @@ title: English
 permalink: /our-departments-and-cca/english
 description: ""
 ---
+![](/images/english%20language%20department%20i.png)
+
+##### Our Mission
+
+We aim to instil the Joy of Learning English in Wellington \[ J.E.W.E.L\].
+
+##### Department Goal
+
+To enable every Wellingtonian to be future ready by developing him / her to be an empathetic communicator, a discerning reader and a creative enquirer.
+
+![](/images/ELDEPT-01.png)
+
+|  Every Wellingtonian An English J.E.W.E.L |  |  |
+|---|---|---|
+| An Empathetic <br>Communicator |  A Discerning <br>Reader |  A Creative <br>Enquirer |
+| who possesses the values,<br>dispositions and skills to<br>listen actively to different<br>perspectives; communicates<br>confidently, effectively and<br>sensitively while collaborating<br>with others to work towards<br>shared goals; and balances an appreciation of the Singapore spirit with multi-ethnic and multicultural sensitivities. | who possesses broad worldviews by staying well informed and self-directed in the use of information, and is able to distinguish fact from falsehood by processing and evaluating<br>information, critically and<br>with discernment according<br>to purpose, audience, context and culture. | who explores and evaluates<br>real-world issues and multiple perspectives as well as gather and synthesises information<br>from diverse print, non-print and digital networked sources, so as to co-create knowledge and solutions in familiar or new contexts. |
+| | | | 
+
+##### English Language Teaching & Learning Approach @ Wellington  
+
+The school’s approach to teaching and learning of the English Language is undergirded by the EL teaching processes (ACoLADE) in our EL classrooms to ensure effective and affective language use for all Wellingtonians by honing their EL skills, strategies, attitude and behaviour delineated in the following diagram.
+
+![](/images/ELDEPT-02.png)
+
+The EL approach is enacted through our department’s G.L.A.D. framework to equip our Wellingtonians to:  
+1. Listen to, read and view critically and with accuracy, understanding and appreciation a wide, array of literary and informational texts in standard English from print, non-print and digital networked sources.
+
+  
+2. Speak, write and represent in standard English that is grammatical, fluent, intelligible and appropriate for different purposes, audiences, contexts and cultures.  
+  
+
+3. Use standard English grammar and vocabulary accurately and appropriately, and understand how speakers/writers put words together and use language to communicate meaning and achieve impact  
+  
+
+Together with G.L.A.D, the main pedagogical approach adopted in teaching English is STELLAR (Strategies for English Language Learning and Reading).  STELLAR pedagogy lends itself well to the development of 21st Century Competencies.  
+   
+STELLAR aims to strengthen both language and reading skills as well as promote a positive attitude towards reading in the foundational years through the use of well-established, learner-centred and developmentally appropriate pedagogical approaches by using a range of authentic text types.
