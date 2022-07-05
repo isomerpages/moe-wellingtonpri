@@ -53,3 +53,8 @@ Our department believes in designing a rich environment where our students can s
 
 * MK Sharing
 ![](/images/mk%20sharing.jpg)
+
+* Lower Primary Sharing
+![](/images/16.jpg)
+
+![](/images/17.jpg)
