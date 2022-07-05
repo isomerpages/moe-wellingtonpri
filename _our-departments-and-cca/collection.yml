@@ -2,9 +2,9 @@ collections:
   our-departments-and-cca:
     output: true
     order:
-      - Malay.md
       - Our Departments & CCA.md
       - English.md
       - Mathematics.md
       - Chinese.md
       - Science.md
+      - Malay.md
