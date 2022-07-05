@@ -4,7 +4,7 @@ permalink: /our-departments-and-cca/tamil
 description: ""
 ---
 <img src="/images/tamil%20language%20department%20i.png" 
-     style="width:60%">
+     style="width:50%">
 		 
 ### Our Vision
 
@@ -19,7 +19,7 @@ To build a community of Tamil students who are passionate in the learning of Tam
 The TL department aims to develop pupils reading and speaking in Tamil confidently in 3 levels:
 
 <img src="/images/tamil1.png" 
-     style="width:50%">
+     style="width:40%">
 		 
 **School** <br>
 Winners of the various competitions to display their talents in front of whole co-hort (term 4)
