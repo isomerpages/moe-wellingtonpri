@@ -2,4 +2,5 @@ collections:
   our-departments-and-cca:
     output: true
     order:
+      - English.md
       - Our Departments & CCA.md
