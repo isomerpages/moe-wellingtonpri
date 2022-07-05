@@ -63,3 +63,16 @@ Through the different platforms provided, students will be able to confidently i
 
 ##### Green Ambassadors Art Programme
 ![](/images/Green%20Ambassador%201.jpg)
+
+##### P1 and P2 Learning Journey to the Theatre
+![](/images/P12%20LJ%201.jpg)
+
+##### @heART Programme
+![](/images/@heart.jpg)
+
+![](/images/@heart%201.jpg)
+
+##### Aesthetic Week
+![](/images/aesthetic%20week%201.jpg)
+
+![](/images/aeathetics%20week%202.jpg)
