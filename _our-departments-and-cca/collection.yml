@@ -2,6 +2,7 @@ collections:
   our-departments-and-cca:
     output: true
     order:
+      - Chinese.md
       - Our Departments & CCA.md
       - English.md
       - Mathematics.md
