@@ -2,7 +2,6 @@ collections:
   our-departments-and-cca:
     output: true
     order:
-      - Physical & Health Education.md
       - Our Departments & CCA.md
       - English.md
       - Mathematics.md
@@ -10,3 +9,4 @@ collections:
       - Science.md
       - Malay.md
       - Tamil.md
+      - Physical & Health Education.md
