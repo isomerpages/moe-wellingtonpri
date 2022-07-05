@@ -2,7 +2,6 @@ collections:
   our-departments-and-cca:
     output: true
     order:
-      - CCE & Student Development.md
       - Our Departments & CCA.md
       - English.md
       - Mathematics.md
@@ -12,3 +11,4 @@ collections:
       - Tamil.md
       - Physical & Health Education.md
       - Aesthetics.md
+      - CCE & Student Development.md
