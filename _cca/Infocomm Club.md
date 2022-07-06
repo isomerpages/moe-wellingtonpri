@@ -10,12 +10,12 @@ Membership is open to all Primary 4 to Primary 6 students who are keen to learn 
 In 2019, a team of 5 students participated in National Primary Games Creation & Coding Competition 2019. Our team won 1st Runner up in the Scratch category and the team leader also won the Best Presenter award.
 
 <img src="/images/Infocomm%201.jpg" 
-     style="width:80%">
+     style="width:70%">
 
 <img src="/images/Infocomm%202.jpg" 
-     style="width:80%">
+     style="width:70%">
 
 <img src="/images/Infocomm%203.jpg" 
-     style="width:80%">
+     style="width:70%">
 
 </insert video>
