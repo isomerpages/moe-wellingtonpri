@@ -23,7 +23,7 @@ In addition, participation in a CCA fosters social integration and deepens their
 
 | Name of CCA | CCA Coordinators |
 |---|---|
-| Chinese Dance | Mdm Zhang Yuanying |
+| [Chinese Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/chinese-dance) | Mdm Zhang Yuanying |
 | Choir Ensemble | Ms Goh Jing Yi |
 | Pop and Jazz | Ms Fadilah Abdul Wahid |
 | Modern Dance | Ms Wendy Tan |
