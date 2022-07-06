@@ -17,4 +17,27 @@ Click here if have problem viewing: [Cyber Wellness Term 1.wmv](https://welling
 
 Below is the powerpoint slides with regards to cyber wellness.  
    
-[for Students.pptx](https://wellingtonpri.moe.edu.sg/qql/slot/u507/our-teams/ict/CyberWellness/Wise%20Use%20of%20Screen%20Time.pptx)
+[for Students.pptx](https://go.gov.sg/wellington-primary-wise-use-of-screen-time)
+
+----------
+
+The CW framework is used to develop students’ instinct to protect and empower themselves to take responsibility for their own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to will anchor students’ well-being in cyberspace as they will then be able to make careful and well-considered decisions.
+
+![](/images/cyberwellness%20framework.png)
+
+### Principles:
+
+**1. Respect for Self and Others** <br>
+Students need to: 
+* uphold their own dignity when online (e.g. share appropriate content and participate in only legal online activities)
+* respect other people online (e.g. put themselves in others’ shoes, accept diverse views and opinions, give credit when using other people’s work and seek permission where necessary, avoid sharing hurtful materials)
+
+**2. Safe and Responsible Use** <br>
+Students need to:  
+* have an understanding of the risks of harmful and illegal online behaviours, and take steps to protect themselves (e.g. keep their personal information private, verify the reliability of information using various sources, take steps to avoid dangers they may encounter online)
+* make wise and healthy choices (e.g. maintain a healthy balance of their online and offline activities)
+
+**3. Positive Peer Influence** <br>
+Students need to:  
+* Students need to: be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society)
+* advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media)
