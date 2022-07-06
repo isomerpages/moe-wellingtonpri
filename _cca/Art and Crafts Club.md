@@ -26,3 +26,13 @@ Students are encouraged to represent the school in various art competitions and 
 <img src="/images/arts%203.jpg">  
 <figcaption> 2019 SYF Category C: Singapore’s Rich Tapestry </figcaption>  
 </figure>
+
+<figure>  
+<img src="/images/arts%204.jpg">  
+<figcaption> 2019 N7 Artisticity Art Exhibition </figcaption> 
+</figure>
+
+<figure>  
+<img src="/images/arts%205.jpg">  
+<figcaption> Art club senior members guiding the juniors in creating the paper mache / Exploring weaving using yarn and paper plates </figcaption> 
+</figure>
