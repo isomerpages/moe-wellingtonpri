@@ -2,6 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Choir Ensemble.md
       - CCA.md
       - Chinese Dance.md
+      - Choir Ensemble.md
