@@ -12,3 +12,5 @@ CCC aims to provide a platform for members to learn Chinese language and immerse
 In addition, students will learn Di Zi Gui at a deeper level where they will apply the principles learnt in their daily life. Di Zi Gui will be used to cultivate the appreciation of Chinese classics and to instill moral values. 
 
 Join us now to learn Traditional Chinese Culture in a happy atmosphere.
+
+</insert video>
