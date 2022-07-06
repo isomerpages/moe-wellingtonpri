@@ -11,3 +11,5 @@ Every year, our dancers perform in the school and at public places. In addition,
 
 <img src="/images/chinese%20dance.jpg" 
      style="width:80%">
+		 
+</insert video>
