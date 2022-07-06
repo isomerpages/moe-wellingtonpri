@@ -12,5 +12,5 @@ third_nav_title: General
 * [School Rules](https://moe-wellingtonpri-staging.netlify.app/useful-links/general/school-rules)
 * [Privacy Policy](https://moe-wellingtonpri-staging.netlify.app/privacy/)
 * [Calendar](https://moe-wellingtonpri-staging.netlify.app/useful-links/general/calendar)
-* [Contact Us](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/contact-us)
+* [Contact Us](https://moe-wellingtonpri-staging.netlify.app/contact-us/)
 * [SLS Password Reset](https://docs.google.com/forms/d/e/1FAIpQLSfiwrDGu9lZyUEzZzUhKfAvamcoTMYJ-f_SvRiFZNAUZfiNbQ/viewform)
