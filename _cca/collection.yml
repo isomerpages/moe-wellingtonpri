@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Art and Crafts Club.md
       - CCA.md
       - Chinese Dance.md
       - Choir Ensemble.md
