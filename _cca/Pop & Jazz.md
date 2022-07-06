@@ -7,6 +7,7 @@ Creative Dance incorporates a variety of dynamic dance forms; elements of ballet
 
 Our past achievements include performing at National Day Parade Heartlands 2019 - North West District, collaborating with Nanyang Polytechnic Dance club for the inaugural Dance Workshop 2019 and performing at Nanyang Polytechnic Arts Spectrum 2019. We also participated in giving back to the community via the Values in Action (VIA) initiatives at Singapore Christian Home and Minds School in 2019.
 
-![](/images/Pop%20and%20jazz.jpg)
+<img src="/images/Pop%20and%20jazz.jpg" 
+     style="width:80%">
 
 </insert video>
