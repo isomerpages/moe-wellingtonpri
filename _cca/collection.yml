@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Scouts.md
       - CCA.md
       - Chinese Dance.md
       - Choir Ensemble.md
@@ -16,3 +15,4 @@ collections:
       - Table Tennis.md
       - Volleyball.md
       - Wushu.md
+      - Scouts.md
