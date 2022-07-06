@@ -9,7 +9,7 @@ At the end of their time in the CCA, Cub Scouts from Primary 3 to Primary 6 woul
 1. Bronze Arrow
 2. Silver Arrow
 3. Gold Arrow
-4. Akela Award – This is a National Award, and it is the highest award, where a Cub Scout must hold the Gold Arrow and pass specific proficiency badges, show general knowledge of scouting and successfully complete an interview with the District Commissioner. 
+4. Akela Award – This is a National Award, and it is the highest award, where a Cub Scout must hold the Gold Arrow and pass specific proficiency badges, show general knowledge of scouting and successfully complete an interview with the District Commissioner.
 
 Each progress badge comprises tests for Citizenship, Leadership and Responsibility, Physical Skills, Self-Reliance, Adventure and Fun.   
 
