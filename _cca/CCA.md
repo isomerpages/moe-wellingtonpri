@@ -28,8 +28,8 @@ In addition, participation in a CCA fosters social integration and deepens their
 | [Pop and Jazz](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/pop-and-jazz) | Ms Fadilah Abdul Wahid |
 | [Modern Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/modern-dance) | Ms Wendy Tan |
 | [Guzheng Ensemble](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/guzheng-ensemble) | Mrs Selena Lai |
-| Indian Dance | Mdm Saraswathi |
-| Malay Dance | Mdm Seri |
+| [Indian Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/indian-dance) | Mdm Saraswathi |
+| [Malay Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/malay-dance) | Mdm Seri |
 | | |
 
 ### Sports Club
