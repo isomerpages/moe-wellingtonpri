@@ -11,4 +11,4 @@ description: ""
 ![](/images/2%20(1).jpg)
    [Tamil](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/tamil)      [ICT](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/infocomm-technology-ict)      [CCE & Student Development](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cce-n-student-development)               [Physical & Health Education ](https://moe-wellingtonpri-staging.netlify.app/our-departments-n-cca/physical-n-health-education)              [Aesthetics](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/aesthetics) 
 	 
-#### [Click to view our Co-Curricular Activities](https://wellingtonpri.moe.edu.sg/our-departments-n-cca/cca)
+#### [Click to view our Co-Curricular Activities](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca)
