@@ -41,3 +41,28 @@ Students need to:
 Students need to:  
 * Students need to: be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society)
 * advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media)
+
+-----------
+
+### Use of the Internet
+
+Pupils using the school's computing facilities will be expected to comply with the following rules. I will...
+
+1. Use the internet when I am being supervised by a teacher, IT trainer or parent volunteer.
+2. Not email or display offensive message or pictures.
+3. Not send emails using inappropriate, offensive or obscene languages.
+4. Not send emails which annoy, insult or attack other people.
+5. Not do anything that might cause damage to computers or data stored on computers.
+6. Respect the copyrights of other people’s work and will not copy or download anything that belongs to someone else without permission.
+7. Respect other people’s work and not use people’s passwords or interfere with their work or files.
+8. Not deliberately waste limited resources.
+
+Failure to abide by the rules may result in a temporary or permanent ban on the pupil’s use of the facilities.
+
+---------------
+
+<img src="/images/cyber%20wellness_poster_p1-3_final.jpg" 
+     style="width:25%">
+
+<img src="/images/cyber%20wellness_poster_p4-6_.jpg" 
+     style="width:25%">
