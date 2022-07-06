@@ -139,3 +139,12 @@ Bus Services for after school activities (i.e. sending students home from school
 | Email: | [wellington@pro-teach.com](mailto:wellington@pro-teach.com) |
 | [Click here](/files/Registration%20Form.pdf) to download Pro-Teach Schoolcare Form (subjected to approval only) |  |
 | | |
+
+-------
+
+### School Canteen
+
+At Wellington Primary School, we believe in cultivating healthy eating habit and lifestyle from a young age in order to create a positive lifetime impact on our children’s health. The school is proud to partner the Health Promotion Board (HPB) in introducing the [Healthy Meals in Schools Programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) as one of the pioneer schools in 2011. We work closely with the canteen vendors to ensure their adherence to a set of HPB guidelines to bring wholesome meals and healthy snacks that provide optimum nutrition to our students.  
+
+  
+Click [here](/files/Canteen%20menu%20website_10%20Jan%202022.pdf) to view the stall menu.
