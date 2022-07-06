@@ -60,8 +60,6 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 | Primary 6 |  | 1.30 pm to 2.00pm |
 | | | |
 
----------
-
 ### School Bookshop
 
 | Pacific Bookstores Pte Ltd |  |
@@ -71,8 +69,6 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 | Email: | wtps@pacificbookstores.com |
 | For online purchases please visit www.pacificbookstores.com |  |
 | | | 
-
-------
 
 ### School Uniform
 
@@ -98,7 +94,6 @@ Click on below links for more information:
 | Open: | Monday to Thursday: 8.00 am to 5.30pm<br><br>Friday: 8.00 am to 5.00 pm <br>(Closed from 1.00pm to 2.00pm daily for lunch)<br> **Open ONLY on odd weeks. (1st and 3rd weeek of the month) |
 | | |
 
---------------
 
 ### School Bus
 
@@ -128,8 +123,6 @@ Bus Services for after school activities (i.e. sending students home from school
 | >2 - 4km | $3 per trip |
 |  > 4 -6 km  | $5 per trip |
 | | |
-
-----------
 
 ### Pro-Teach Schoolcare
 
