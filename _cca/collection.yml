@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - Modern Dance.md
       - CCA.md
       - Chinese Dance.md
       - Choir Ensemble.md
       - Pop & Jazz.md
+      - Modern Dance.md
