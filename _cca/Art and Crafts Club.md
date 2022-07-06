@@ -22,4 +22,7 @@ Students are encouraged to represent the school in various art competitions and 
 <figcaption> 2019 SYF Category B: Nom Nom Nom </figcaption>  
 </figure>
 
-
+<figure>  
+<img src="/images/arts%203.jpg">  
+<figcaption> 2019 SYF Category C: Singapore’s Rich Tapestry </figcaption>  
+</figure>
