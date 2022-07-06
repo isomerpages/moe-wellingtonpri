@@ -2,7 +2,6 @@ collections:
   our-departments-and-cca:
     output: true
     order:
-      - CCA.md
       - Our Departments & CCA.md
       - English.md
       - Mathematics.md
@@ -14,3 +13,4 @@ collections:
       - Aesthetics.md
       - CCE & Student Development.md
       - Infocomm Technology (ICT).md
+      - CCA.md
