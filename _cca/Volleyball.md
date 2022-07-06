@@ -26,11 +26,12 @@ Mrs Pun Zi Ai <br>
 Mrs Bernadette Chen
 
 <figure>  
-<img src="/images/Volleyball%204.png">  
+<img src="/images/Volleyball%204.png" 
+     style="width:80%">
 <figcaption> SSSC NSG Volleyball Senior Games WTP vs DLS </figcaption>  
 </figure>
 
 <img src="/images/volleyball.jpg" 
-     style="width:80%">
+     style="width:70%">
 
 </insert video>
