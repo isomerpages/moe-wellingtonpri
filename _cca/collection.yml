@@ -2,5 +2,5 @@ collections:
   cca:
     output: true
     order:
-      - Chinese Dance.md
       - CCA.md
+      - Chinese Dance.md
