@@ -25,6 +25,7 @@ Mdm Sulaiha <br>
 Mr Tan King Yang <br> 
 Mdm Wong Joon Noi
 
-![](/images/table%20tennis.jpg)
+<img src="/images/table%20tennis.jpg" 
+     style="width:80%">
 
 </insert video>
