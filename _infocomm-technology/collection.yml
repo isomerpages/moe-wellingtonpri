@@ -2,5 +2,6 @@ collections:
   infocomm-technology:
     output: true
     order:
+      - Cyberwellness.md
       - Infocomm Technology (ICT).md
       - LIGHT.md
