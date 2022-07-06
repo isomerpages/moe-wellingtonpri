@@ -9,6 +9,7 @@ Through our weekly training sessions, they will learn to use and control the ele
 
 Besides drama and debating skills, we encourage drama members to work as part of a team - acting and reacting to others. They learn to negotiate with others in a group and adapt to and accommodate other people’s ideas, identify and evaluate different choices that can be made in drama that lead groups to make different interpretations/representations of the same material.
 
-![](/images/drama%20club.jpg)
+<img src="/images/drama%20club.jpg" 
+     style="width:80%">
 
 </insert video>
