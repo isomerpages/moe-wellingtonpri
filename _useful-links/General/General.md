@@ -4,7 +4,7 @@ permalink: /useful-links/general/general
 description: ""
 third_nav_title: General
 ---
-| For Parents | For Students | For Staff |
+| [For Parents](https://moe-wellingtonpri-staging.netlify.app/useful-links/for-parents) | [For Students](https://moe-wellingtonpri-staging.netlify.app/useful-links/for-students) | [For Staff](https://moe-wellingtonpri-staging.netlify.app/useful-links/for-staff) |
 | -------- | -------- | -------- |
 | | | |
 
