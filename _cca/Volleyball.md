@@ -24,3 +24,8 @@ Mdm Wang Guohong (OIC) <br>
 Mdm Lee Yi Jun <br>
 Mrs Pun Zi Ai <br>
 Mrs Bernadette Chen
+
+<figure>  
+<img src="/images/Volleyball%204.png">  
+<figcaption> SSSC NSG Volleyball Senior Games WTP vs DLS </figcaption>  
+</figure>
