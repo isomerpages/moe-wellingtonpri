@@ -64,3 +64,26 @@ In addition, participation in a CCA fosters social integration and deepens their
 
 [https://www.schoolbag.sg/story/programme-for-active-learning](https://www.schoolbag.sg/story/programme-for-active-learning)
 
+| Class | Name of Teacher |
+|---|---|
+| P1 Attentiveness | Ms Lai Li Fei |
+| P1 Benevolence | Ms Sarah Ahmad |
+| P1 Creativity | Ms Karen Koek / Ms Kavitha |
+| P1 Diligence | Ms Paramesh |
+| P1 Enthusiasm | Mr Indra Gurung |
+| P1 Forgiveness  | Mdm Qu Hongwei |
+| P1 Generosity | Ms Adelene Tan Shan Shan |
+| P1 Honesty  | Ms K Radha |
+| | |
+
+| Class | Name of Teacher |
+|---|---|
+| P2 Attentiveness | Ms Karmila Binte Hussin |
+| P2 Benevolence | Ms Sim Chin Mei / Mdm L. Lallitha |
+| P2 Creativity | Mdm Ida / Mr Ghanim |
+| P2 Diligence | Mdm Liesda Bte Jamali |
+| P2 Enthusiasm | Ms Lucy Kuang Xianyu |
+| P2 Forgiveness  | Ms Zee Wan Teng |
+| P2 Generosity | Mdm Siti Zulaiha Binte Saidi |
+| P2 Honesty | Mdm Sulaiha |
+| | |
