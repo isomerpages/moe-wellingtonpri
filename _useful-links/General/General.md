@@ -8,7 +8,7 @@ third_nav_title: General
 | -------- | -------- | -------- |
 | | | |
 
-* [School Information](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/school-information)
+* [School Information](https://moe-wellingtonpri-staging.netlify.app/useful-links/general/school-information)
 * [School Rules](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/school-rules)
 * [Privacy Policy](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/privacy-policy)
 * [Calendar](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/calendar)
