@@ -7,7 +7,8 @@ Modern Dance in Wellington was proudly founded in 2013. We strive to develop sta
 
 Every year, students are given the opportunity to represent the school in the Stars of Tomorrow International Ballroom Dancing Competition which is held annually in Singapore. They get to interact with dancers and instructors, who share the same fiery passion for dance, from different countries. They also participate in the Singapore Youth Festival (SYF).
 
-![](/images/modern%20dance%201.jpg)
+<img src="/images/modern%20dance%201.jpg" 
+     style="width:90%">
 
 <img src="/images/modern%20dance%202.jpg" 
      style="width:80%">
