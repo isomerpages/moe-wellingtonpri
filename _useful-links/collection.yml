@@ -2,4 +2,4 @@ collections:
   useful-links:
     output: true
     order:
-      - Useful Links/.keep
+      - General/.keep
