@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Wushu.md
       - CCA.md
       - Chinese Dance.md
       - Choir Ensemble.md
@@ -15,3 +14,4 @@ collections:
       - Football Club.md
       - Table Tennis.md
       - Volleyball.md
+      - Wushu.md
