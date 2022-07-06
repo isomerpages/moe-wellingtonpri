@@ -2,4 +2,5 @@ collections:
   infocomm-technology:
     output: true
     order:
+      - LIGHT.md
       - Infocomm Technology (ICT).md
