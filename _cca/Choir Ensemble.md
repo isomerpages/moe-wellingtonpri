@@ -7,6 +7,7 @@ The Wellington Choir aims to provide Wellingtonians with the platform to discove
 
 In 2019, the Wellington Choir attained the Platinum Award in the B-Dazzled Grand Festival. The choir also performs regularly at various school events such as the Annual Prize Giving Day ceremony.
 
-![](/images/choir.jpg)
+<img src="/images/choir.jpg" 
+     style="width:80%">
 
 </insert video>
