@@ -105,5 +105,5 @@ Click on below links for more information:
 | L&W Transport Services Pte Ltd (1 Jan 2021 - 31 Dec 2022) |  |
 |---|---|
 | Tel: | 8511 1851 (Nick)  |
-| Email: |  |
+| Email: | [sales@wltransportservices.com](mailto:sales@wltransportservices.com) |
 | Click here to register online.<br>Click here  to download School Bus Registration Form.<br><br>Daily School Bus Service |  |
