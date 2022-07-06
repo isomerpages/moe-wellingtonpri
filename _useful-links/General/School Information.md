@@ -106,4 +106,36 @@ Click on below links for more information:
 |---|---|
 | Tel: | 8511 1851 (Nick)  |
 | Email: | [sales@wltransportservices.com](mailto:sales@wltransportservices.com) |
-| Click here to register online.<br>Click here  to download School Bus Registration Form.<br><br>Daily School Bus Service |  |
+| | | 
+
+[Click here](https://go.gov.sg/2022schbusbooking) to register online. <br>
+[Click here](/files/School%20Bus%20Booking%20Form%202022.pdf) to download School Bus Registration Form.
+
+**Daily School Bus Service**
+| Areas | 1-Way | 2-Way |
+|---|---|---|
+| Sembawang Estate (Montreal) | $80 | $120 |
+| Sembawang Estate (Admiralty, Sembawang, Canberra) | $80 | $150 |
+|  4km down south from Yishun Ave 7 | $80 | $170 |
+|  4km down west from Woodlands Ave 10 | $85 | $180 |
+| | | |
+
+Bus Services for after school activities (i.e. sending students home from school after supplementary lessons /enrichment programmes and Co-Curricular Activities)
+
+| Distance | 13 and 23 seater busses |
+|---|---|
+| Up to 2km | $3 per trip |
+| >2 - 4km | $3 per trip |
+|  > 4 -6 km  | $5 per trip |
+| | |
+
+----------
+
+### Pro-Teach Schoolcare
+
+| Pro-Teach Schoolcare |  |
+|---|---|
+| Tel: | 6484 1456 |
+| Email: | [wellington@pro-teach.com](mailto:wellington@pro-teach.com) |
+| [Click here](/files/Registration%20Form.pdf) to download Pro-Teach Schoolcare Form (subjected to approval only) |  |
+| | |
