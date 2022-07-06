@@ -31,3 +31,18 @@ In 2016, Wellington Cub Scouts Unit achieved its first Frank Cooper Sands Gold A
 13. Bicentennial Scout Trek Bishan Stadium Carnival Game Booth – Gold
 14. Bicentennial Scout Trek Bishan Stadium Carnival Game Booth – Gold
 15. In Appreciation of the Continued Support for the North Area, SSA Cub Leadership Course (2nd Run) 2018
+
+<figure>  
+<img src="/images/Scout%201.jpg">  
+<figcaption> Young Mariner Course </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/Scout%202.jpg">  
+<figcaption> End of Year Camp </figcaption>  
+</figure>
+
+<img src="/images/Scout%203.jpg" 
+     style="width:80%">
+
+</insert video>
