@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Drama & Debating Club.md
       - CCA.md
       - Chinese Dance.md
       - Choir Ensemble.md
@@ -17,3 +16,4 @@ collections:
       - Volleyball.md
       - Wushu.md
       - Scouts.md
+      - Drama & Debating Club.md
