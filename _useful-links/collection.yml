@@ -2,10 +2,10 @@ collections:
   useful-links:
     output: true
     order:
-      - General/School Rules.md
       - General/.keep
       - General/General.md
       - General/School Information.md
+      - General/School Rules.md
       - For Parents.md
       - For Students.md
       - For Staff.md
