@@ -53,3 +53,24 @@ The NEU PC Plus Programme offers students and persons with disabilities from low
 Low-income families with school-going children who wish to apply for broadband only, can now apply for broadband only under the Home Access 3.0 programme. For details, please visit [www.digitalaccess.gov.sg](www.digitalaccess.gov.sg).
 
 -------
+
+### Termly Nomination for Staff GEMS Award
+
+Our community deserves to hear about the amazing work these staff\* are doing! Please nominate deserving staff of Wellington! 
+
+The **Staff GEMS** Award aims to pay tribute to our staff who not only show care and concern for the holistic development of their students, but go the extra mile to ensure their charges grow up to be confident and independent learners. Please nominate your deserving staff now!   
+
+__*Staff includes anyone who works at Wellington Primary such as teachers, executive and admin staff, contract staff, security personnel, canteen vendors and cleaning helpers.__ 
+
+[Click here to fill in the Staff GEMS Award Nomination online.](https://docs.google.com/a/moe.edu.sg/forms/d/e/1FAIpQLSd93un7MxxKdwyPCZhrqIEKIR9RJvdumpRzKGBi5ibX05XkZw/viewform)
+
+---------
+
+Dear Parent/Guardians,  
+  
+For more information about travel insurance, do refer to the documents in the links below.  
+  
+[FAQs for Parents](/files/FAQs%20for%20Parents%20(1).pdf) <br>
+[Travel Insurance Fact Sheet](/files/Travel%20Insurance%20Fact%20Sheet.pdf)
+  
+Thank you.
