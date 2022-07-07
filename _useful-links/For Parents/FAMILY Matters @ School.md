@@ -18,7 +18,7 @@ The objectives of the programme are :-
     
 * _[Terms And Conditions for Loan of Family Life Resources](#TermsAndConditionsforLoanofFamilyLifeResources)_ 
     
-* _[Frequently Asked Questions](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/family-matters-at-school/frequently-asked-questions)_
+* _[Frequently Asked Questions](FrequentlyAskedQuestions)_
 
 ----------------
 
@@ -95,3 +95,7 @@ The objectives of the programme are :-
 * Borrowing, reserving and renewing of all resources may be suspended until the lost item replaced. 
   
 _The school reserves the right to change the terms and conditions for the loan of resources from the Family Life Resources Library at Wellington Primary School. All changes and updates to such terms and conditions will be published through the school website._
+
+--------------
+
+##### <a name="FrequentlyAskedQuestions"></a>Frequently Asked Questions
