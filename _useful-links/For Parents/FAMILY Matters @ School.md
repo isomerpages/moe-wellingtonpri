@@ -12,11 +12,13 @@ The objectives of the programme are :-
 
 --------------
 
-*   _[List of Family Life Resources Available for Loan](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/family-matters-at-school/list-of-family-life-resources-available-for-loan)_ 
+* _[Reservation Form](https://drive.google.com/file/d/0Bx2-s50-PX2wODZrQndKSnEtNlk/edit?usp=sharing)_
+
+* _[List of Family Life Resources Available for Loan](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/family-matters-at-school/list-of-family-life-resources-available-for-loan)_ 
     
-*   _[Reservation Form](https://drive.google.com/file/d/0Bx2-s50-PX2wODZrQndKSnEtNlk/edit?usp=sharing)  
-    _
+* _[Terms And Conditions for Loan of Family Life Resources](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/family-matters-at-school/terms-and-conditions-for-loan-of-family-life-resources)_ 
     
-*   _[Terms And Conditions for Loan of Family Life Resources](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/family-matters-at-school/terms-and-conditions-for-loan-of-family-life-resources)_ 
-    
-*   _[Frequently Asked Questions](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/family-matters-at-school/frequently-asked-questions)_
+* _[Frequently Asked Questions](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/family-matters-at-school/frequently-asked-questions)_
+
+----------------
+
