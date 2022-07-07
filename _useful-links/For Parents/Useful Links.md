@@ -20,7 +20,7 @@ third_nav_title: For Parents
 
 -----------
 <img src="/images/WTP_SLS.png" 
-     style="width:60%">
+     style="width:50%">
 
 [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login) <br>
 [Request for SLS Password Reset](https://docs.google.com/forms/d/e/1FAIpQLSfiwrDGu9lZyUEzZzUhKfAvamcoTMYJ-f_SvRiFZNAUZfiNbQ/viewform) <br>
