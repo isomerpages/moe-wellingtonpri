@@ -26,7 +26,7 @@ The objectives of the programme are :-
 
 | No. |   | Title | Author | Summary | Take a Look |
 |---|---|---|---|---|---|
-|   |  PARENTING (General & across Age Groups)  |  |  |  |  Covers, Content Pg, Inside |
+|  **PARENTING (General & across Age Groups)** |   |  |  |  |  Covers, Content Pg, Inside |
 | 1 | * |  Fun-Filled Parenting |  Silvana Clark | Turn meals, homework time, chores, vacations and other not-so-obvious family times into moments of warmth, trust, creativity and fun with this resource. Each chapter contains a gradual- month long approach to making positive changes in the home.  | [https://drive.google.com/file/d/0B0Xh48XWWTzAelYtSEl0YVpfSjg/edit?usp=sharing](https://drive.google.com/file/d/0B0Xh48XWWTzAelYtSEl0YVpfSjg/edit?usp=sharing) |
 | 2 | * |  How to Talk so Your Kids Will Listen |  H. Norman Wright | From toddlers to teenagers, this resource will help you speak their language, taking the frustration out of interactions with their kids and allowing you to build a bond that will even last through the "terrible teens." | [https://drive.google.com/file/d/0B0Xh48XWWTzANXZkUGpDeFk3bVk/edit?usp=sharing](https://drive.google.com/file/d/0B0Xh48XWWTzANXZkUGpDeFk3bVk/edit?usp=sharing) |
 | 3 |   |  Raising an Emotionally Intelligent Child |  Dr John Gottman | A guide to teaching children to understand and regulate their emotional world. A psychologist and researcher, mastering their emotions will cause children to enjoy increased self-confidence, greater physical health and healthier social relationships.  | [https://drive.google.com/file/d/0B0Xh48XWWTzAb3JXNjFuclVCZU0/edit?usp=sharing](https://drive.google.com/file/d/0B0Xh48XWWTzAb3JXNjFuclVCZU0/edit?usp=sharing) |
