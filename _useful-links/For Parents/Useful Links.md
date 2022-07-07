@@ -19,8 +19,8 @@ third_nav_title: For Parents
 * [P1 Parents 2022](https://sites.google.com/moe.edu.sg/p1parentswtp/home)
 
 -----------
-![](/images/WTP_SLS.png)
-
+<img src="/images/WTP_SLS.png" 
+     style="width:60%">
 
 [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login) <br>
 [Request for SLS Password Reset](https://docs.google.com/forms/d/e/1FAIpQLSfiwrDGu9lZyUEzZzUhKfAvamcoTMYJ-f_SvRiFZNAUZfiNbQ/viewform) <br>
