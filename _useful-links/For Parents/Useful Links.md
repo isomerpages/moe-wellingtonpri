@@ -17,15 +17,6 @@ third_nav_title: For Parents
 * [Schoolbag.sg](https://www.schoolbag.sg/)
 * [Update Student Medical Condition](https://form.gov.sg/5d7f142328467500121f82a9)
 
-*   [MOE Sexuality Education in Schools](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/sexuality-education-in-schools)
-
- | 
-
-*   [Group Personal Accident Insurance for Students](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/group-personal-accident-insurance-for-students)
-
-
-
-
 
  |
 | 
