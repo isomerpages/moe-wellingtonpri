@@ -71,3 +71,27 @@ The objectives of the programme are :-
 ----------------
 
 ##### <a name="TermsAndConditionsforLoanofFamilyLifeResources"></a>Terms And Conditions for Loan of Family Life Resources
+
+**TERMS AND CONDITIONS FOR LOAN OF RESOURCES FROM FAMILY LIFE RESOURCE LIBRARY** **@ WELLINGTON PRIMARY SCHOOL**
+
+**1. Borrowing** 
+* Only parents/guardians of students and teachers of Wellington Primary School are able to borrow the Family Life Resources. The maximum number of resources borrowers can borrow at any one time is 2
+* Borrowers who are collecting the resources on their own must produce some documents to verify their identity. 
+* Borrowers who opt for resources to be collected/returned by their children/ward will be responsible for the loss of the items. The penalty for lost item under Para 4 below shall apply. 
+* Borrowers are responsible for all resources borrowed. They must check that the resources are in good conditions and report any mutilation (including defacement) found in the resources. 
+* Borrowers must return or renew their resources by the due date. A grace period of 3 days will be given, after which the school reserves the right to impose the fines for the late return of resources.
+
+**2. Renewal/Extension of loan period**  
+* Borrowers can make a one-time one-week renewal/extension of loan period by contacting Coordinator for FamilyMatters@School , Ms Rachael Yeo at HP: 83384320. Borrowers requesting renewal/extension of loan period will receive a sms message to confirm the renewal/extension of the loan period.
+  
+**3. Late Return of Borrowed Resources**  
+* Fines will be imposed for late return of borrowed resources. The amount of fine imposed will be calculated from the 4th day after due date. The rate of fine is 10cents per day of delay (excluding sat, sun and public holiday). 
+* Borrowing, reserving and renewing of all resources may be suspended until the overdue material has been returned. 
+* Any resources not returned in response to a final overdue notice would be considered as lost. The penalty for lost item under Para 4 below shall apply.
+
+**4. Loss of Borrowed Resources** 
+* Borrowers must report the loss of resources immediately to the Coordinator for FamilyMatters@School , Ms Rachael Yeo at HP: 83384320. 
+* Borrower will be liable to pay for the replacement of the same book which can be purchased by the borrower himself/herself or the school. 
+* Borrowing, reserving and renewing of all resources may be suspended until the lost item replaced. 
+  
+_The school reserves the right to change the terms and conditions for the loan of resources from the Family Life Resources Library at Wellington Primary School. All changes and updates to such terms and conditions will be published through the school website._
