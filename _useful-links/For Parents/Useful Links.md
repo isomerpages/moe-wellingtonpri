@@ -4,39 +4,14 @@ permalink: /useful-links/for-parents/useful-links
 description: ""
 third_nav_title: For Parents
 ---
-
-
-
 **Useful Links**
 * [Official WTP Facebook](https://www.facebook.com/wellingtonprisg)
-* [2022 Book list](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/book-list-2022)
-
- |
-| 
-
-*   [Parenting Resources](https://wtpparentingresources.weebly.com/)
-
- | 
-
-*   [Primary One Registration](https://www.moe.gov.sg/primary/p1-registration)
-
- |
-| 
-
-*   [Parent Support Group (WePN) Blog](http://wepn.tumblr.com/)
-
- | 
-
-*   [Parents In Education](https://www.moe.gov.sg/parentkit)
-
- |
-| 
-
-*   [WePN Facebook](https://www.facebook.com/pages/Wellington-Parents-Network-WePN/246348102079989)
-
- | 
-
-*   [Safeguarding Your Child Online](http://schoolbag.sg/story/safeguarding-your-child-online)
+* [Parenting Resources](https://wtpparentingresources.weebly.com/)
+* [Primary One Registration](https://www.moe.gov.sg/primary/p1-registration)
+* [Parent Support Group (WePN) Blog](http://wepn.tumblr.com/)
+* [Parents In Education](https://www.moe.gov.sg/parentkit)
+* [WePN Facebook](https://www.facebook.com/pages/Wellington-Parents-Network-WePN/246348102079989)
+* [Safeguarding Your Child Online](http://schoolbag.sg/story/safeguarding-your-child-online)
 
  |
 | 
