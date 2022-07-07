@@ -14,11 +14,12 @@ The objectives of the programme are :-
 
 * _[Reservation Form](https://drive.google.com/file/d/0Bx2-s50-PX2wODZrQndKSnEtNlk/edit?usp=sharing)_
 
-* _[List of Family Life Resources Available for Loan](#ListofFamilyLifeResourcesAvailableforLoan)_
+* [List of Family Life Resources Available for Loan](#ListofFamilyLifeResourcesAvailableforLoan)
     
-* _[Terms And Conditions for Loan of Family Life Resources](#TermsAndConditionsforLoanofFamilyLifeResources)_ 
+* [Terms And Conditions for Loan of Family Life Resources](#TermsAndConditionsforLoanofFamilyLifeResources) 
     
-* _[Frequently Asked Questions](#FrequentlyAskedQuestions)_
+* [Frequently Asked Questions](#FrequentlyAskedQuestions) 
+		
 ----------------
 
 ##### <a name="ListofFamilyLifeResourcesAvailableforLoan"></a>List of Family Life Resources Available for Loan
