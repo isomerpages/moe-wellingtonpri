@@ -16,17 +16,4 @@ third_nav_title: For Parents
 * [Parents Gateway](/files/PG%20one-time%20onboard.pdf)
 * [Schoolbag.sg](https://www.schoolbag.sg/)
 * [Update Student Medical Condition](https://form.gov.sg/5d7f142328467500121f82a9)
-
-
- |
-| 
-
-*   [Payment via SingPost (SAM) for MOE Bills,](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/payment-via-singpost-sam-for-moe-bills-school-bill-n-moe-kindergarten-bills) [Schools Bill & MOE Kindergarten Bills](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/payment-via-singpost-sam-for-moe-bills-school-bill-n-moe-kindergarten-bills) 
-
-
-
- | 
-
-*   [P1 Parents 2022](https://sites.google.com/moe.edu.sg/p1parentswtp/home)
-
- |
+* [P1 Parents 2022](https://sites.google.com/moe.edu.sg/p1parentswtp/home)
