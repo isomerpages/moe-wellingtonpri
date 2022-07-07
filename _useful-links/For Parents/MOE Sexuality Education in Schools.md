@@ -38,4 +38,20 @@ At Wellington Primary School, the following lessons from the Growing Years Progr
 
 ##### Primary 5
 ![](/images/P5SED.png)
+
 ![](/images/P5SED2.png)
+
+##### Primary 6
+![](/images/P6SED.png)
+
+![](/images/P6SED2.png)
+
+### INFORMATION FOR PARENTS
+
+8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an online opt-out form. This form is available [here](https://form.gov.sg/61f27b041dc4e10012b24124). The completed opt-out form is to be submitted by **14/02/2022**.
+
+10. Parents can contact the school at 67533319 or send an email [wellingtonps@moe.edu.sg](mailto:wellingtonps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
