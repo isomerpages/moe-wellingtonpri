@@ -14,7 +14,7 @@ The objectives of the programme are :-
 
 * _[Reservation Form](https://drive.google.com/file/d/0Bx2-s50-PX2wODZrQndKSnEtNlk/edit?usp=sharing)_
 
-* [List of Family Life Resources Available for Loan](#ListofFamilyLifeResourcesAvailableforLoan)
+* [List of Family Life Resources Available for Loan](#ListofFamilyLifeResourcesAvailableforLoan) 
     
 * [Terms And Conditions for Loan of Family Life Resources](#TermsAndConditionsforLoanofFamilyLifeResources) 
     
@@ -23,6 +23,7 @@ The objectives of the programme are :-
 ----------------
 
 ##### <a name="ListofFamilyLifeResourcesAvailableforLoan"></a>List of Family Life Resources Available for Loan
+<a name="Back to top"></a>**Back to top**
 
 | No. |   | Title | Author | Summary | Take a Look |
 |---|---|---|---|---|---|
@@ -71,6 +72,7 @@ The objectives of the programme are :-
 ----------------
 
 ##### <a name="TermsAndConditionsforLoanofFamilyLifeResources"></a>Terms And Conditions for Loan of Family Life Resources
+<a name="Back to top"></a>**Back to top**
 
 **TERMS AND CONDITIONS FOR LOAN OF RESOURCES FROM FAMILY LIFE RESOURCE LIBRARY** **@ WELLINGTON PRIMARY SCHOOL**
 
@@ -99,6 +101,7 @@ _The school reserves the right to change the terms and conditions for the loan o
 --------------
 
 ##### <a name="FrequentlyAskedQuestions"></a>Frequently Asked Questions
+<a name="Back to top"></a>**Back to top**
 
 FAQs on Family Life Resources Library  
   
