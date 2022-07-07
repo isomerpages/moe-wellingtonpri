@@ -98,3 +98,48 @@ _The school reserves the right to change the terms and conditions for the loan o
 --------------
 
 ##### <a name="FrequentlyAskedQuestions"></a>Frequently Asked Questions
+
+FAQs on Family Life Resources Library  
+  
+**_1. How can I see the list of Family Life Resources available for loan?_** <br>
+The list is available from our school website. These are the steps you can follow to access the Family Life Resources through school website.  
+  
+Should you encounter any problem, you may also seek help from the Coordinator for FamilyMatters@School , Ms Rachael Yeo at HP: 83384320.  
+  
+If you do not have a computer at home and need a hardcopy of the list of resources and reservation form, you can also contact Ms Rachael Yeo.  
+  
+**_2. How do I make reservation for the resource I wish to borrow?_** <br>
+You can make their reservation online using the Reservation Form found in the above link found in the school website. Ms Rachael Yeo, Coordinator for FamilyMatters@School will contact you to arrange for the collection of the items.  
+  
+For teachers, you may sign out the resources just like the way you sign out for any other staff resources from the library.  
+  
+**_3. How do I collect/return the resource I have reserved?_** <br>
+You can either
+* arrange to collect personally from the school or return personally at the school. 
+* arrange for your child/ward to collect or return the borrowed resource
+
+Ms Rachael Yeo, Coordinator for FamilyMatters@School will contact you to arrange for the collection/return of the items. 
+
+Borrowers who opt for resources to be collected/returned by their children/ward will be responsible for the loss of the items. The penalty for lost item shall apply.  
+  
+**_4. My books are overdue? What should I do?_** <br>
+Borrowers can make a one-time one-week renewal/extension of loan period by contacting Coordinator for FamilyMatters@School , Ms Rachael Yeo at HP: 83384320. Borrowers requesting renewal/extension of loan period will receive a sms message to confirm the renewal/extension of the loan period.  
+  
+**_5. I have already extended the loan period. However I am still not able to return the borrowed resource. What should I do?_** <br> 
+No further renewal/extension of loan period will be allowed after the one-week extension. Fines will be imposed for late return of borrowed resources. The amount of fine imposed will be calculated from the 4th day after due date or revised due date for renewed loans. The rate of fine is 10cents per day of delay (excluding sat, sun and public holiday).  
+  
+Borrowing, reserving and renewing of all resources may be suspended until the overdue material has been returned.  
+  
+Any resources not returned in response to a final overdue notice would be considered as lost. The penalty for lost item under Para 4 below shall apply.  
+  
+**_6. My books are lost? What should I do?_** <br>
+Borrowers must report the loss of resources immediately to the Coordinator for FamilyMatters@School , Ms Rachael Yeo at HP: 83384320.  
+  
+If the resource is found subsequently found before it is being replaced, the borrower will pay for the fine for the delay in the return of the resource.  
+  
+The resource will be replaced within a month from the date of the report of loss. Borrower will be liable to pay for the replacement of the same book which can be purchased by the borrower himself/herself or the school.  
+  
+Borrowing, reserving and renewing of all resources may be suspended until the lost item replaced.  
+  
+**_7. I need more clarification on the loan of the Family Life Resources. What should I do?_** <br> 
+Should you have any enquiry on the Family Life Resources Library please contact Ms Faith Lim, School Counsellor at Tel :67533319 or Ms Rachael Yeo, Coordinator for FamilyMatters@School at HP: 83384320.
