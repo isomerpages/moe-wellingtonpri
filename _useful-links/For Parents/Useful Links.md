@@ -12,11 +12,7 @@ third_nav_title: For Parents
 * [Parents In Education](https://www.moe.gov.sg/parentkit)
 * [WePN Facebook](https://www.facebook.com/pages/Wellington-Parents-Network-WePN/246348102079989)
 * [Safeguarding Your Child Online](http://schoolbag.sg/story/safeguarding-your-child-online)
-* [Parent Volunteer Programmes](https://moe-wellingtonpri-staging.netlify.app/useful-links/for-parents/parent-volunteer-programmes)
-
- | 
-
-*   [Overseas Learning Journey](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/qql/slot/u507/parents/useful-info/FAQs%20for%20Parents.pdf)
+* [Overseas Learning Journey](/files/FAQs%20for%20Parents.pdf)
 
  |
 | 
