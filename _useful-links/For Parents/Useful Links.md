@@ -28,6 +28,13 @@ third_nav_title: For Parents
 
 --------------
 
+### Useful Guides
+
+[Selecting Secondary School Guide](https://www.moe.gov.sg/secondary/s1-posting/how-to-choose) <br>
+[SLS Troubleshooting Guide](https://vle.learning.moe.edu.sg/login?redirectUrl=https%3A%2F%2Fdocs.learning.moe.edu.sg%2Fsls-user-guide%2Fvle%2Flogintroubleshooting%2Findex.html%3Ft%3D1657181872343)
+
+--------------
+
 ### MOE Financial Assistance Scheme
 
 The eligibility criteria for MOE FAS as follow:
