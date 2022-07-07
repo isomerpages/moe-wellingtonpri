@@ -15,13 +15,7 @@ third_nav_title: For Parents
 * [Overseas Learning Journey](/files/FAQs%20for%20Parents.pdf)
 * [Parents Gateway](/files/PG%20one-time%20onboard.pdf)
 * [Schoolbag.sg](https://www.schoolbag.sg/)
-
- | 
-
-*   [Update Student Medical Condition](https://form.gov.sg/5d7f142328467500121f82a9)
-
- |
-| 
+* [Update Student Medical Condition](https://form.gov.sg/5d7f142328467500121f82a9)
 
 *   [MOE Sexuality Education in Schools](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/sexuality-education-in-schools)
 
