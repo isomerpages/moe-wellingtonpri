@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General/.keep
-      - General/General.md
       - General/School Information.md
       - General/School Rules.md
       - General/Privacy Policy.md
