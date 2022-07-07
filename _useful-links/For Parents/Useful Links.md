@@ -13,13 +13,7 @@ third_nav_title: For Parents
 * [WePN Facebook](https://www.facebook.com/pages/Wellington-Parents-Network-WePN/246348102079989)
 * [Safeguarding Your Child Online](http://schoolbag.sg/story/safeguarding-your-child-online)
 * [Overseas Learning Journey](/files/FAQs%20for%20Parents.pdf)
-
- |
-| 
-
-*   [FAMILY Matters @ School](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/family-matters-at-school)
-
- | 
+ 
 
 *   [Parents Gateway](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/qql/slot/u507/For%20Parents/PG%20one-time%20onboard.pdf)
 
