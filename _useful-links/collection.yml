@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - General.md
       - General/.keep
       - General/School Information.md
       - General/School Rules.md
@@ -10,6 +9,7 @@ collections:
       - General/Calendar.md
       - General/Contact Us.md
       - General/SLS Password Reset.md
+      - General.md
       - For Parents.md
       - For Students.md
       - For Staff.md
