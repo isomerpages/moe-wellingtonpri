@@ -23,7 +23,8 @@ Student iCON is web-based. Students can use their web browser in their internet-
 **Q3. Which Operating System or browser should my students use?** <br>
 You can refer to the following table for guidance on the Operating Systems/browsers which students can use to log in.
 
-![](/images/Student%20iCON%20Compatibility%20Table.png)
+<img src="/images/Student%20iCON%20Compatibility%20Table.png" 
+     style="width:80%">
 
 **Q4. Can I link the Student iCON account to an email app on my Android/iOS mobile device?** <br>
 Student iCON is not accessible from mobile device applications at this moment.
