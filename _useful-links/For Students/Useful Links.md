@@ -27,8 +27,6 @@ For more information on Student iCon, click [here](https://moe-wellingtonpri-st
 
 ----------
 
-<p>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i9fpBx9xeGU?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Please visit [myskillsfuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) for more information.
