@@ -23,7 +23,7 @@ For more information on Student iCon, click [here](https://moe-wellingtonpri-st
 
 [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login) <br>
 [Request for SLS Password Reset](https://docs.google.com/forms/d/e/1FAIpQLSfiwrDGu9lZyUEzZzUhKfAvamcoTMYJ-f_SvRiFZNAUZfiNbQ/viewform) <br>
-[Student Learning Space Frequently Asked Questions](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-students/student-learning-space)
+[Student Learning Space Frequently Asked Questions](https://moe-wellingtonpri-staging.netlify.app/useful-links/for-students/student-learning-space)
 
 ----------
 
