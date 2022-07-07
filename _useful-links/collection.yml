@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - General/SLS Password Reset.md
       - General/.keep
       - General/General.md
       - General/School Information.md
