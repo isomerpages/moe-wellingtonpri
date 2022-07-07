@@ -2,8 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - For Students/Useful Links.md
-      - For Students/.keep
       - General/.keep
       - General/School Information.md
       - General/School Rules.md
@@ -20,4 +18,6 @@ collections:
       - For Parents/Group Personal Accident Insurance for Students.md
       - For Parents/Payment via Singpost (SAM) for MOE Bills, School Bill & MOE
         Kindergarten Bills.md
+      - For Students/.keep
+      - For Students/Useful Links.md
       - For Staff.md
