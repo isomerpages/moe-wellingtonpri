@@ -4,7 +4,7 @@ permalink: /useful-links/for-students/student-learning-space
 description: ""
 third_nav_title: For Students
 ---
-**[Click here for Annex A Guide for Student Learning Space](/files/Annexes%20to%20Letter%20to%20Parents.pdf)**
+[Click here for Annex A Guide for Student Learning Space](/files/Annexes%20to%20Letter%20to%20Parents.pdf)
 
 ##### FREQUENTLY ASKED QUESTIONS  
 
@@ -43,4 +43,4 @@ SLS is accessible through internet browsers on either Windows PC, Mac, iPad or 
 | Student Learning Space Helpdesk     | Wellington Primary School	  |
 |:---:|:---:|
 | 6702 6513<br>helpdesk@sls.ufinity.com<br><br>Monday to Friday<br>4:00 pm ― 9:00 pm (School Days)<br>9:00 am ― 9:00 pm (School Holidays)<br><br>Saturday<br>9.00 am to 3.00 pm<br><br> *Closed on Sundays & Public Holidays<br> | 6753 3319<br>wellingtonps@moe.edu.sg |
-| | | 
+| | |
