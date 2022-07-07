@@ -42,5 +42,5 @@ SLS is accessible through internet browsers on either Windows PC, Mac, iPad or 
 
 | Student Learning Space Helpdesk     | Wellington Primary School	  |
 |:---:|:---:|
-| 6702 6513<br>helpdesk@sls.ufinity.com<br><br>Monday to Friday<br>4:00 pm ― 9:00 pm (School Days)<br>9:00 am ― 9:00 pm (School Holidays)<br><br>Saturday<br>9.00 am to 3.00 pm<br><br> *Closed on Sundays & Public Holidays<br> | 6753 3319<br>wellingtonps@moe.edu.sg |
+| 6702 6513<br>[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)<br><br>Monday to Friday<br>4:00 pm ― 9:00 pm (School Days)<br>9:00 am ― 9:00 pm (School Holidays)<br><br>Saturday<br>9.00 am to 3.00 pm<br><br> *Closed on Sundays & Public Holidays<br> | 6753 3319<br>[wellingtonps@moe.edu.sg](mailto:wellingtonps@moe.edu.sg) |
 | | |
