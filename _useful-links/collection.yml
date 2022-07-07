@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Students/.keep
       - General/.keep
       - General/School Information.md
       - General/School Rules.md
