@@ -15,6 +15,7 @@ The objectives of the programme are :-
 * _[Reservation Form](https://drive.google.com/file/d/0Bx2-s50-PX2wODZrQndKSnEtNlk/edit?usp=sharing)_
 
 * _[List of Family Life Resources Available for Loan](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/family-matters-at-school/list-of-family-life-resources-available-for-loan)_ 
+* [List of Family Life Resources Available for Loan](#ListofFamilyLifeResourcesAvailableforLoan)
     
 * _[Terms And Conditions for Loan of Family Life Resources](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-parents/family-matters-at-school/terms-and-conditions-for-loan-of-family-life-resources)_ 
     
@@ -22,7 +23,8 @@ The objectives of the programme are :-
 
 ----------------
 
-##### List of Family Life Resources Available for Loan
+<a name="ListofFamilyLifeResourcesAvailableforLoan"></a>
+### <a name="ListofFamilyLifeResourcesAvailableforLoan"></a>List of Family Life Resources Available for Loan
 
 | No. |   | Title | Author | Summary | Take a Look |
 |---|---|---|---|---|---|
@@ -69,4 +71,3 @@ The objectives of the programme are :-
 *Titles marked with * contain faith references used within context
 
 ----------------
-
