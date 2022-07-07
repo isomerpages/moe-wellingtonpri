@@ -23,7 +23,6 @@ The objectives of the programme are :-
 
 ----------------
 
-<a name="ListofFamilyLifeResourcesAvailableforLoan"></a>
 ### <a name="ListofFamilyLifeResourcesAvailableforLoan"></a>List of Family Life Resources Available for Loan
 
 | No. |   | Title | Author | Summary | Take a Look |
