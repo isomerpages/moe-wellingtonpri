@@ -12,4 +12,4 @@ Click on the links below to download the respective book list for each level.
 |  |   |  |  | [Primary 5 Fdn](/files/WTPS%20P5%20FDN%20Booklist.pdf) | [Primary 6 Fdn](/files/WTPS%20P6%20FDN%20Booklist.pdf) |
 | | | | | | |
 
-* [School Uniform](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/qql/slot/u507/parents/BOOKLIST/2021/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20Wellington%20Primary%20School%202022%20Updated%2029%20Nov%202021.pdf)
+* [School Uniform](/files/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20Wellington%20Primary%20School%202022%20Updated%2029%20Nov%202021.pdf)
