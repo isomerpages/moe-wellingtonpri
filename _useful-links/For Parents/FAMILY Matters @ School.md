@@ -11,6 +11,7 @@ The objectives of the programme are :-
 * Equip students with life skills; skills to build healthy relationships with their peers and family; and/or imbue positive values and attitudes towards family relationship and life in general.
 
 --------------
+<a name="Backtotop"></a>
 
 * _[Reservation Form](https://drive.google.com/file/d/0Bx2-s50-PX2wODZrQndKSnEtNlk/edit?usp=sharing)_
 
@@ -23,7 +24,7 @@ The objectives of the programme are :-
 ----------------
 
 ##### <a name="ListofFamilyLifeResourcesAvailableforLoan"></a>List of Family Life Resources Available for Loan
-<a name="Back to top"></a>**Back to top**
+[Back to top](#Backtotop)
 
 | No. |   | Title | Author | Summary | Take a Look |
 |---|---|---|---|---|---|
@@ -72,7 +73,7 @@ The objectives of the programme are :-
 ----------------
 
 ##### <a name="TermsAndConditionsforLoanofFamilyLifeResources"></a>Terms And Conditions for Loan of Family Life Resources
-<a name="Back to top"></a>**Back to top**
+[Back to top](#Backtotop)
 
 **TERMS AND CONDITIONS FOR LOAN OF RESOURCES FROM FAMILY LIFE RESOURCE LIBRARY** **@ WELLINGTON PRIMARY SCHOOL**
 
@@ -101,7 +102,7 @@ _The school reserves the right to change the terms and conditions for the loan o
 --------------
 
 ##### <a name="FrequentlyAskedQuestions"></a>Frequently Asked Questions
-<a name="Back to top"></a>**Back to top**
+[Back to top](#Backtotop)
 
 FAQs on Family Life Resources Library  
   
