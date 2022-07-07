@@ -25,3 +25,31 @@ third_nav_title: For Parents
 [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login) <br>
 [Request for SLS Password Reset](https://docs.google.com/forms/d/e/1FAIpQLSfiwrDGu9lZyUEzZzUhKfAvamcoTMYJ-f_SvRiFZNAUZfiNbQ/viewform) <br>
 [Student Learning Space Frequently Asked Questions](https://wellingtonpri-moe-edu-sg-admin.cwp.sg/useful-links/for-students/student-learning-space)
+
+--------------
+
+### MOE Financial Assistance Scheme
+
+The eligibility criteria for MOE FAS as follow:
+
+[Click here for 2022 MOE FAS Pamphlet](/files/MOE_FAS_Pamphlet_2022.pdf)
+
+![](/images/moe%20fin.jpg)
+
+[Click here](/files/MOE%20FAS%20Application%20Form%202022.pdf) to download the application form for 2022 FAS.  
+
+If you are eligible and wish to apply for the MOE FAS, please obtain the application form from the General Office and return the completed form to the school for processing.  
+
+Please submit the application form with the following documents to the General Office through your child/ward or via email at  [wellingtonps@moe.edu.sg](mailto:wellingtonps@moe.edu.sg)
+
+![](/images/financial.jpg)
+
+--------
+
+### NEU PC Plus Programme  
+
+The NEU PC Plus Programme offers students and persons with disabilities from low income households the opportunity to own a brand new computer at an affordable price. Please visit the website [https://www.imda.gov.sg/neupc](https://www.imda.gov.sg/neupc) to find out more the programme or download the application form. Hardcopy forms are also available at the General Office.
+
+Low-income families with school-going children who wish to apply for broadband only, can now apply for broadband only under the Home Access 3.0 programme. For details, please visit [www.digitalaccess.gov.sg](www.digitalaccess.gov.sg).
+
+-------
