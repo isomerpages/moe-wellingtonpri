@@ -52,3 +52,8 @@ plugins:
 staging: https://moe-wellingtonpri-staging.netlify.app
 prod: https://moe-wellingtonpri-prod.netlify.app
 resources_name: announcements
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
