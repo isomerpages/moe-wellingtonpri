@@ -4,13 +4,25 @@ permalink: /useful-links/for-students/useful-links
 description: ""
 third_nav_title: For Students
 ---
+[School Rules](https://wellingtonpri.moe.edu.sg/useful-links/school-rules) <br>
+[Student Learning Space Login](https://vle.learning.moe.edu.sg/login) <br>
+[KooBits](https://member.koobits.com/) <br>
+[myON](https://www.myon.com.sg/) <br>
+[WTP School Library Catalogue](http://wellingtonpri.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME) <br>
+[MOE Cyberwellness](https://ictconnection.moe.edu.sg/cyber-wellness) <br>
+[MOE Sexuality Education in Schools](https://wellingtonpri.moe.edu.sg/useful-links/for-parents/sexuality-education-in-schools) <br>
+[Hour of Code](http://code.org/learn) <br>
+[Touch Typing Activity](https://typetastic.com/keyboarding-kickstart/lesson.html?nr=1) <br>
+[Dance Mat Touch Typing](http://tinyurl.com/wtps2022) <br>
+[ezhishi](https://www.ezhishi.net/Contents/) <br>
+
+---------------------------
+
 | Support Helpdesk   |  |
 |---|---|
 | Student Learning Space (SLS)  | 6702 6513<br>Monday to Friday<br>9:00 am - 9:00 pm<br><br>Saturday<br>9.00 am to 3.00 pm<br><br> [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) |
 | KooBits |  6873 2370<br>Monday to Friday<br>9.00 am - 6.00 pm<br><br> [support@koobits.com](mailto:support@koobits.com) |
 | | |
-
-
 
 ### Social Studies@Wellington
 
