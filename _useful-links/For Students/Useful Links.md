@@ -6,8 +6,8 @@ third_nav_title: For Students
 ---
 | Support Helpdesk   |  |
 |---|---|
-| Student Learning Space (SLS)  | 6702 6513<br>Monday to Friday<br>9:00 am - 9:00 pm<br><br>Saturday<br>9.00 am to 3.00 pm<br><br>helpdesk@sls.ufinity.com |
-| KooBits |  6873 2370<br>Monday to Friday<br>9.00 am - 6.00 pm<br>support@koobits.com |
+| Student Learning Space (SLS)  | 6702 6513<br>Monday to Friday<br>9:00 am - 9:00 pm<br><br>Saturday<br>9.00 am to 3.00 pm<br><br> [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) |
+| KooBits |  6873 2370<br>Monday to Friday<br>9.00 am - 6.00 pm<br><br> [support@koobits.com](mailto:support@koobits.com) |
 | | |
 
 
