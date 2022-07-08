@@ -10,7 +10,7 @@ third_nav_title: For Students
 [myON](https://www.myon.com.sg/) <br>
 [WTP School Library Catalogue](http://wellingtonpri.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME) <br>
 [MOE Cyberwellness](https://ictconnection.moe.edu.sg/cyber-wellness) <br>
-[MOE Sexuality Education in Schools](https://wellingtonpri.moe.edu.sg/useful-links/for-parents/sexuality-education-in-schools) <br>
+[MOE Sexuality Education in Schools](https://moe-wellingtonpri-staging.netlify.app/useful-links/for-parents/moe-sexuality-education-in-schools) <br>
 [Hour of Code](http://code.org/learn) <br>
 [Touch Typing Activity](https://typetastic.com/keyboarding-kickstart/lesson.html?nr=1) <br>
 [Dance Mat Touch Typing](http://tinyurl.com/wtps2022) <br>
