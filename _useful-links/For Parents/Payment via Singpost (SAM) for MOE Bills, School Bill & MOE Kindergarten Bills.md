@@ -8,11 +8,9 @@ Dear Parents/Guardians
 
 With effect from 1 May 2021, SingPost (SAM) will be replacing AXS as the self-service payment provider for MOE Bills, School Bills, MOE Kindergarten Bills as well as Vendor Bills.  
 
-The SingPost (SAM) payment channels include:
-1)  physical kiosks SAM machines at [https://go.gov.sg/sam-machines](https://go.gov.sg/sam-machines)
-
-2)  Internet SAM web at [https://go.gov.sg/sam-web](https://go.gov.sg/sam-web)
-
+The SingPost (SAM) payment channels include: <br>
+1)  physical kiosks SAM machines at [https://go.gov.sg/sam-machines](https://go.gov.sg/sam-machines) <br>
+2)  Internet SAM web at [https://go.gov.sg/sam-web](https://go.gov.sg/sam-web) <br>
 3)  mobile application SingPost SAM which can be downloaded from Apple App Store or Google Play Store
 
 Click [here](/files/Printed%20Guide%20final.pdf) for the guide and FAQ for your reference. You may also read more about paying bills using SAM on SingPost’s website at [https://go.gov.sg/pay-bills-using-sam](https://go.gov.sg/pay-bills-using-sam)
