@@ -16,16 +16,18 @@ third_nav_title: Our People
 
 ##### MOE Kindergarten
 
-| Centre Head  |  Ms Latifah Abdullah |  latifah_abdullah@schools.gov.sg |
+| | | |
 |---|---|---|
+| Centre Head  |  Ms Latifah Abdullah |  latifah_abdullah@schools.gov.sg |
 |  Deputy Centre Head  |  Ms Mayuri Loganathan |  mayuri_loganathan@schools.gov.sg |
 |  Level Head  |  Mdm Zhang Xiaowen  |  zhang_xiaowen_a@schools.gov.sg  |
 | | |
 
 ##### Management Team
 
-| Head of Department English Language |  Mdm Wendy Au |  wendy_au_may_lee@moe.edu.sg |
+| | | |
 |---|---|---|
+| Head of Department English Language |  Mdm Wendy Au |  wendy_au_may_lee@moe.edu.sg |
 | Head of Department Science |  Mdm Lata Menon |  lata_krishnan@moe.edu.sg |
 | Head of Department Mother Tongue |  Mr Wong Kian Kei |  wong_kian_kei@moe.edu.sg |
 | Head of Department Physical Education |  Mrs Bernadette Chen |  bernadette_choo_may_ling@moe.edu.sg |
