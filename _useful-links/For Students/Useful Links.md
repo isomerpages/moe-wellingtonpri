@@ -4,7 +4,7 @@ permalink: /useful-links/for-students/useful-links
 description: ""
 third_nav_title: For Students
 ---
-[School Rules](https://wellingtonpri.moe.edu.sg/useful-links/school-rules) <br>
+[School Rules](https://moe-wellingtonpri-staging.netlify.app/useful-links/general/school-rules) <br>
 [Student Learning Space Login](https://vle.learning.moe.edu.sg/login) <br>
 [KooBits](https://member.koobits.com/) <br>
 [myON](https://www.myon.com.sg/) <br>
