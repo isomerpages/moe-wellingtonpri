@@ -2,7 +2,6 @@ collections:
   our-educators:
     output: true
     order:
-      - School Counsellor and Learning and Behavioural Allied Educators.md
       - Form Teachers/.keep
       - Form Teachers/Form Teachers.md
       - Form Teachers/Primary 1 Teachers.md
@@ -16,3 +15,4 @@ collections:
       - Mother Tongue Teachers/Malay Language.md
       - Mother Tongue Teachers/Tamil Language.md
       - Non Form Teachers.md
+      - School Counsellor and Learning and Behavioural Allied Educators.md
