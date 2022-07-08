@@ -2,11 +2,11 @@ title: Wellington Primary School
 url: ""
 favicon: /images/logo1.png
 colors:
-  primary-color: "#003a6e"
-  secondary-color: "#fa9100"
+  primary-color: "#0679c1"
+  secondary-color: "#90c646"
   media-colors:
     - title: media-color-one
-      color: "#595959"
+      color: "#f57933"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
