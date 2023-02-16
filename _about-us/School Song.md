@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /about-us/school-song
+permalink: /about-us/school-song/
 description: ""
 ---
 <center> Wellington Primary forever inviting <br>
@@ -21,4 +21,4 @@ Our mentor Wellington Primary *Wellington*!
 <p>
 	
 *Play song:* <br>
-</insert song>
+<audio src="https://drive.google.com/file/d/1u8fFj32Rfs4yIm9ykJUKGYqTjbZA0yDL/preview" controls></audio>
