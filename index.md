@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: School Events
           description: ""
-          url: /announcements/events/schoolevents/
+          url: /school-events/
   - infopic:
       title: Improved Traffic Flow During School Dismissal
       subtitle: "ANNOUNCEMENT:"
