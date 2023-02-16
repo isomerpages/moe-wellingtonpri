@@ -10,7 +10,7 @@ sections:
       background: /images/ezgif.gif
       url: /contact-us/
       key_highlights:
-        - title: Wellington Primary School
+        - title: School Events
           description: ""
           url: ""
   - infopic:
