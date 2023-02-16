@@ -1,19 +1,24 @@
 ---
 title: Principal's Message
-permalink: /about-us/principals-message
+permalink: /about-us/principals-message/
 description: ""
 ---
-The coronavirus pandemic, an unprecedented situation in modern times, in Singapore and around the world followed us and stayed with us throughout 2021. It will stay with us going into 2022. As I write this, the new Omicron variant continues unabated; with some countries currently suffering their highest rates of infection and hospitalization. I hope that an endemic COVID-19 can be upon us sooner rather than later and bringing some normality back to student life in schools.
+Masks are no longer required on public transport from Feb 13, 2023; lifting almost all of our remaining Covid-19 restrictions. Then, we spoke about building the resiliency of our children. Throughout the pandemic, they had to face decreased structure, increased educational barriers, and many disruptions to their everyday activities and lives. Behavioral changes needed to be fast when the pandemic began, such as social distancing, masking all-day and isolation from others.
 
-I encourage our parents to get their children vaccinated because going endemic means managing the disease and what is needed is a shift to viewing COVID-19 as a part of everyday life that we must learn to live with. And living with COVID-19 means building our body defenses against the disease to protect self and community from the disease. It will require action across all segments of society, children and adults to keep people from suffering the worst effects of the virus and not creating a cause for concern due to the protection from severe disease and death that vaccines offer. When the cause for concern for COVID-19 is no longer, particularly disruptions to our health systems and other critical services, normality will return.
+The easing of Safe Management Measures (SMMs) has brought back almost all normality to student life in our schools even before this latest announcement, but we are cautioned that we cannot rule out the future possibility of dangerous variants of concern emerging. The probability of experiencing another pandemic similar to COVID-19 in one’s lifetime is also possible, if not probable.
 
-In primary schools, we have been managing hand, foot and mouth disease (HFMD) each and every year. There is no treatment for HFMD and we keep the children away from school for a week once children are found to be infected. Hand foot and mouth virus is very contagious, spreading rapidly. It can also be fatal. Over at the kindergarten, we check the children for fever, blisters and rash every day before they are allowed to set foot in class. Schools functions normally with or without cases of HFMD in schools.
+When lockdowns began in early 2020, few of us imagined the long road ahead. As the world moves toward normalcy, challenges will continue to arise and for the foreseeable near term, revolves around the pandemic’s knock-on effects. Inflation, possible recession in some countries, a greater acceptance for flexibility in the workplace, the accessibility and necessity of remote work and issues of mental health and well-being becoming more prevalent.
 
-But in 2021, we had no report of HFMD in both the primary school and the kindergarten. There was a “plunge in HFMD cases with better hygiene amid COVID-19” (Straits Times dated 15 June 2021). Doctors interviewed attributed the drop mainly to better hygiene practices. Diseases can be managed with the right strategies.
+As we transition to endemicity with Covid-19, we ought to learn lessons from it. The crisis has given us many ongoing lessons. We must continue to practice personal and social responsibility in terms of monitoring our health and maintaining hygiene practices. We must also be able to respond nimbly as a community when called upon in times of emergency. It is important that we prepare our children with skills that will make them more resilient and future-ready.
 
-We recognize that Co-Curricular Activities (CCAs) and other interpersonal activities are important for student development and their overall well-being. Staff and particularly students look forward to planned resumption of school activities. Think about it! Our primary 1 (2021) students had not a single day of normal school yet. They might have already developed a completely different impression of what primary school life is all about. I hope they do not develop the impression that school is boring. Let’s change this. But as I have said, until and unless COVID-19 ceases to be a cause of major concern, normality cannot return. So I encourage all to consider vaccination as part of the overall strategies to manage the disease so it ceases to be a cause of major concern. This is the end game. 
+One way to do this is to build our children’s uncertainty tolerance. As Minister Chan said, “If we truly believe in nurturing resilience and building confidence in our young people to face an uncertain and untidy world, we must also be careful to not over-structure, over-provide, or over-protect our younger generation, which would deprive them of the opportunities to grow and learn.”
 
-I take this opportunity to wish all Wellingtonians, friends and stakeholders of Wellington Primary School, a happy and successful 2022.
+Sometimes in trying to create the safest path for students, we leave them with no room to exercise their creativity and decision-making skills. Uncertainty can be stressful and challenging, but it is also an opportunity for growth and development. Let us not be so quick to provide answers for our children - let them learn to be more self-directed and resourceful in trying to solve their own problems. A study done by Yale neuroscientists found that uncertainty can be healthy for your brain because you learn more in situations that are unsure.  
 
-Albert Alcantara <br>
+We want the students to respond to ambiguity and adapt to change with resilience and grace. In situations beyond their control, their mindset during uncertain times is the most powerful thing they can control. Resilient students interpret academic and social challenges positively by increasing effort, developing new strategies, and practicing conflict resolution. With such positive mindsets towards uncertainty, they are more likely to become more successful at work in the future.
+
+I take this opportunity to wish all Wellingtonians, friends and stakeholders of Wellington Primary School, a happy and successful 2023.
+
+
+Albert Alcantara
 Principal
