@@ -7,10 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Wellington Primary School
-      subtitle: To empower every individual, nurture talents and groom leaders
       background: /images/ezgif.gif
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: School Events
