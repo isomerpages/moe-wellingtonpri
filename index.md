@@ -10,9 +10,9 @@ sections:
       background: /images/ezgif.gif
       url: /contact-us/
       key_highlights:
-        - title: School Events
+        - title: Wellington Primary School
           description: ""
-          url: /school-events
+          url: ""
   - infopic:
       title: Improved Traffic Flow During School Dismissal
       subtitle: "ANNOUNCEMENT:"
