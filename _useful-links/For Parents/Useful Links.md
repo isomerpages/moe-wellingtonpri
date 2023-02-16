@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /useful-links/for-parents/useful-links
+permalink: /useful-links/for-parents/useful-links/
 description: ""
 third_nav_title: For Parents
 ---
@@ -35,32 +35,6 @@ third_nav_title: For Parents
 
 --------------
 
-### MOE Financial Assistance Scheme
-
-The eligibility criteria for MOE FAS as follow:
-
-[Click here for 2022 MOE FAS Pamphlet](/files/MOE_FAS_Pamphlet_2022.pdf)
-
-![](/images/moe%20fin.jpg)
-
-[Click here](/files/MOE%20FAS%20Application%20Form%202022.pdf) to download the application form for 2022 FAS.  
-
-If you are eligible and wish to apply for the MOE FAS, please obtain the application form from the General Office and return the completed form to the school for processing.  
-
-Please submit the application form with the following documents to the General Office through your child/ward or via email at  [wellingtonps@moe.edu.sg](mailto:wellingtonps@moe.edu.sg)
-
-![](/images/financial.jpg)
-
---------
-
-### NEU PC Plus Programme  
-
-The NEU PC Plus Programme offers students and persons with disabilities from low income households the opportunity to own a brand new computer at an affordable price. Please visit the website [https://www.imda.gov.sg/neupc](https://www.imda.gov.sg/neupc) to find out more the programme or download the application form. Hardcopy forms are also available at the General Office.
-
-Low-income families with school-going children who wish to apply for broadband only, can now apply for broadband only under the Home Access 3.0 programme. For details, please visit [www.digitalaccess.gov.sg](www.digitalaccess.gov.sg).
-
--------
-
 ### Termly Nomination for Staff GEMS Award
 
 Our community deserves to hear about the amazing work these staff\* are doing! Please nominate deserving staff of Wellington! 
@@ -72,12 +46,3 @@ __*Staff includes anyone who works at Wellington Primary such as teachers, exe
 [Click here to fill in the Staff GEMS Award Nomination online.](https://docs.google.com/a/moe.edu.sg/forms/d/e/1FAIpQLSd93un7MxxKdwyPCZhrqIEKIR9RJvdumpRzKGBi5ibX05XkZw/viewform)
 
 ---------
-
-Dear Parent/Guardians,  
-  
-For more information about travel insurance, do refer to the documents in the links below.  
-  
-[FAQs for Parents](/files/FAQs%20for%20Parents%20(1).pdf) <br>
-[Travel Insurance Fact Sheet](/files/Travel%20Insurance%20Fact%20Sheet.pdf)
-  
-Thank you.
