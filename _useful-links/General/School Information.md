@@ -108,22 +108,11 @@ Click on below links for more information:
 [Click here](/files/Useful%20Links/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf) to read Terms & Conditions Governing The Requests For Services
 
 **Daily School Bus Service**
-| Areas | 1-Way | 2-Way |
-|---|---|---|
-| Sembawang Estate (Montreal) | $80 | $120 |
-| Sembawang Estate (Admiralty, Sembawang, Canberra) | $80 | $150 |
-|  4km down south from Yishun Ave 7 | $80 | $170 |
-|  4km down west from Woodlands Ave 10 | $85 | $180 |
-| | | |
+![](/images/2023_SCHOOL%20BUS%201.png)
+<br>
+**Bus Services for after school activities (i.e. sending students home from school after supplementary lessons /enrichment programmes and Co-Curricular Activities)**
+![](/images/2023_SCHOOL%20BUS%202.png)
 
-Bus Services for after school activities (i.e. sending students home from school after supplementary lessons /enrichment programmes and Co-Curricular Activities)
-
-| Distance | 13 and 23 seater busses |
-|---|---|
-| Up to 2km | $3 per trip |
-| >2 - 4km | $3 per trip |
-|  > 4 -6 km  | $5 per trip |
-| | |
 
 ### Pro-Teach Schoolcare
 
