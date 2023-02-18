@@ -93,8 +93,9 @@ Click on below links for more information:
 |---|---|
 | Tel: | 6753 4697 |
 | Open: | Monday to Thursday: 8.00 am to 5.30pm<br><br>Friday: 8.00 am to 5.00 pm <br>(Closed from 1.00pm to 2.00pm daily for lunch)<br> **Open ONLY on odd weeks. (1st and 3rd weeek of the month) |
-| | |
+<br>
 
+------
 
 ### School Bus
 
@@ -112,16 +113,17 @@ Click on below links for more information:
 <br>
 **Bus Services for after school activities (i.e. sending students home from school after supplementary lessons /enrichment programmes and Co-Curricular Activities)**
 ![](/images/2023_SCHOOL%20BUS%202.png)
-
+<br>
+-----
 
 ### Pro-Teach Schoolcare
 
-| Pro-Teach Schoolcare |  |
+| Singapore Edusmart Learning Hub |  |
 |---|---|
-| Tel: | 6484 1456 |
-| Email: | [wellington@pro-teach.com](mailto:wellington@pro-teach.com) |
-| [Click here](/files/Registration%20Form.pdf) to download Pro-Teach Schoolcare Form (subjected to approval only) |  |
-| | |
+| Tel: | 9648 9756 |
+| Email: | [wellington\_scc@singaporeedusmart.com.sg](mailto:wellington_scc@singaporeedusmart.com.sg)
+| Website | https://singaporeedusmart.com.sg/ |
+<br>
 
 -------
 
@@ -130,4 +132,4 @@ Click on below links for more information:
 At Wellington Primary School, we believe in cultivating healthy eating habit and lifestyle from a young age in order to create a positive lifetime impact on our children’s health. The school is proud to partner the Health Promotion Board (HPB) in introducing the [Healthy Meals in Schools Programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) as one of the pioneer schools in 2011. We work closely with the canteen vendors to ensure their adherence to a set of HPB guidelines to bring wholesome meals and healthy snacks that provide optimum nutrition to our students.  
 
   
-Click [here](/files/Canteen%20menu%20website_10%20Jan%202022.pdf) to view the stall menu.
+[Click here](/files/Useful%20Links/Canteen%20menu%20website_03%20Jan%2023.pdf) to view the stall menu.
