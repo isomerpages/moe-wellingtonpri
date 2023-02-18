@@ -15,6 +15,7 @@ All P3 to P6 students are required to wear school tie / scarf on every **Monday
 CCA Day is on Friday.
 
 All students should report to school by 7:30am to attend the flag-raising ceremony. Students will be considered late if they report after 7:30am. Formal lessons will start at 7:45am. All Primary 1 parents who are picking up their children on the first and second days of school are requested to arrive at the designated waiting areas 15 mins before dismissal.
+<br>
 
 --------
 ### School Gate
@@ -40,15 +41,15 @@ Due to manpower constraints and the smaller number of students in the school aft
 ![](/images/GATEHOURS2.png)
 
 Parents/Guardians, kindly make your own arrangement to pick up your children at either gate D or gate G for dismissal after the afternoon programmes. After 4.00pm, only Gate A will be open.
+<br>
 
 --------
-
 ### Co-Curricular Activities (CCA)
 
 Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons will continue on every Friday from 7.45 to 9.45am. All students are required to be in their PE attire or CCA uniform if any.
+<br>
 
 ---------
-
 ### Snack Break & Lunch Time
 
 | Level | Snack Break | Lunch Time |
@@ -58,8 +59,9 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 |  3C to 3F and 4C to 4F |  | 12.30 pm to 1.00 pm  |
 | P5 level, 4A and 4B |  | 1.00 pm to 1.30 pm |
 | Primary 6 |  | 1.30 pm to 2.00pm |
-| | | |
+<br>
 
+-----
 ### School Bookshop
 
 | Pacific Bookstores Pte Ltd |  |
@@ -68,8 +70,10 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 | Open: | Mon - Fri:  8.00 am to 3.00 pm |
 | Email: | wtps@pacificbookstores.com |
 | For online purchases please visit www.pacificbookstores.com |  |
-| | | 
 
+<br>
+
+-----
 ### School Uniform
 
 | My Uniform Shop (Asia) Pte Ltd |  |
@@ -84,9 +88,9 @@ Click on below links for more information:
 [General Guide to Online Purchase](/files/Useful%20Links/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20General%20Guide%20to%20Online%20Purchase.pdf)
 <br>
 [2023 School Uniform Order Form](/files/Useful%20Links/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20Wellington%20Primary%20School%202023%20Updated%2014%20Nov%202022.pdf)
+<br>
 
 ------
-
 ### School Dental Clinic
 
 | School Dental Clinic |  |
@@ -96,7 +100,6 @@ Click on below links for more information:
 <br>
 
 ------
-
 ### School Bus
 
 | L&W Transport Services Pte Ltd (1 Jan 2021 - 31 Dec 2022) |  |
@@ -126,7 +129,6 @@ Click on below links for more information:
 <br>
 
 -------
-
 ### School Canteen
 
 At Wellington Primary School, we believe in cultivating healthy eating habit and lifestyle from a young age in order to create a positive lifetime impact on our children’s health. The school is proud to partner the Health Promotion Board (HPB) in introducing the [Healthy Meals in Schools Programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) as one of the pioneer schools in 2011. We work closely with the canteen vendors to ensure their adherence to a set of HPB guidelines to bring wholesome meals and healthy snacks that provide optimum nutrition to our students.  
