@@ -81,8 +81,9 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 | | |
 
 Click on below links for more information:  
-[General Guide for Online Purchase](/files/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20General%20Guide%20to%20Online%20Purchase.pdf) <br>
-[2022 School Uniform Order Form](/files/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%202022%20Order%20Form.pdf)
+[General Guide to Online Purchase](/files/Useful%20Links/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20General%20Guide%20to%20Online%20Purchase.pdf)
+<br>
+[2023 School Uniform Order Form](/files/Useful%20Links/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20Wellington%20Primary%20School%202023%20Updated%2014%20Nov%202022.pdf)
 
 ------
 
