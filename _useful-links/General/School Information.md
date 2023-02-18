@@ -104,8 +104,8 @@ Click on below links for more information:
 | Email: | [sales@wltransportservices.com](mailto:sales@wltransportservices.com) |
 | | | 
 
-[Click here](https://go.gov.sg/2022schbusbooking) to register online. <br>
-[Click here](/files/School%20Bus%20Booking%20Form%202022.pdf) to download School Bus Registration Form.
+[Click here](/files/Useful%20Links/School%20Bus%20Booking%20Form_2023-2024_final.pdf) to download School Bus Registration Form. <br>
+[Click here](/files/Useful%20Links/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf) to read Terms & Conditions Governing The Requests For Services
 
 **Daily School Bus Service**
 | Areas | 1-Way | 2-Way |
