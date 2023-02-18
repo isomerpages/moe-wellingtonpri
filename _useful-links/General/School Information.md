@@ -1,6 +1,6 @@
 ---
 title: School Information
-permalink: /useful-links/general/school-information
+permalink: /useful-links/general/school-information/
 description: ""
 third_nav_title: General
 ---
@@ -64,7 +64,7 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 
 | Pacific Bookstores Pte Ltd |  |
 |---|---|
-| Tel:  | 6481 0252 |
+| Tel:  | 9855 2013 (WhatsApp preferred) |
 | Open: | Mon - Fri:  8.00 am to 3.00 pm |
 | Email: | wtps@pacificbookstores.com |
 | For online purchases please visit www.pacificbookstores.com |  |
