@@ -119,7 +119,7 @@ Click on below links for more information:
 <br>
 -----
 
-### Pro-Teach Schoolcare
+### Student Care Services
 
 | Singapore Edusmart Learning Hub |  |
 |---|---|
