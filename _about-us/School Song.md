@@ -21,4 +21,4 @@ Our mentor Wellington Primary *Wellington*!
 <p>
 	
 *Play song:* <br>
-<audio src="https://drive.google.com/file/d/1u8fFj32Rfs4yIm9ykJUKGYqTjbZA0yDL/view?usp=sharing" controls></audio>
+<audio src="http://docs.google.com/uc?export=open&id=1u8fFj32Rfs4yIm9ykJUKGYqTjbZA0yDL" controls></audio>
