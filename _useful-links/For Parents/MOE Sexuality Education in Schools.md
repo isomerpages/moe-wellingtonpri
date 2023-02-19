@@ -16,12 +16,11 @@ third_nav_title: For Parents
 (iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.<br>
 
 3) The Key Messages of Sexuality Education are:<br>
-(a) Love and respect yourself as you love and respect others;
-(b) Build positive relationships based on love and respect (which are the foundation for strong families);<br>
-(c) Make responsible decisions for yourself, your family and society; and<br>
-(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br>
-
-You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+(i) Love and respect yourself as you love and respect others; <br>
+(ii) Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+(iii) Make responsible decisions for yourself, your family and society; and<br>
+(iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br>
+<br>You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
 Overview of Wellington Primary School’s Sexuality Education Programme for 2023
 ------------------------------------------------------------------------------
@@ -42,11 +41,8 @@ b. Character and Citizenship Education (CCE)
 
   
 
-6) The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
- 
-7)  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
-
-At Wellington Primary School, the following lessons from the Growing Years Programme will be taught in 2023:
+6) The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.<br><br>7)  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.<br> 
+<br>At Wellington Primary School, the following lessons from the Growing Years Programme will be taught in 2023:
 
 Primary 5
 ---------
