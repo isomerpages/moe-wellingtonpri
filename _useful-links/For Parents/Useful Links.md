@@ -16,7 +16,7 @@ third_nav_title: For Parents
 * [Parents Gateway](/files/PG%20one-time%20onboard.pdf)
 * [Schoolbag.sg](https://www.schoolbag.sg/)
 * [Update Student Medical Condition](https://form.gov.sg/5d7f142328467500121f82a9)
-* [P1 Parents 2022](https://sites.google.com/moe.edu.sg/p1parentswtp/home)
+* [P1 Parents](https://sites.google.com/moe.edu.sg/p1parentswtp/home)
 
 -----------
 <img src="/images/WTP_SLS.png" 
