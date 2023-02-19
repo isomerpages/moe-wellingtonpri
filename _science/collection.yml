@@ -1,0 +1,6 @@
+collections:
+  science:
+    output: true
+    order:
+      - Science.md
+      - Ecosystem @ Wellington.md

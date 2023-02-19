@@ -1,0 +1,16 @@
+collections:
+  our-departments-and-cca:
+    output: true
+    order:
+      - Our Departments & CCA.md
+      - English.md
+      - Mathematics.md
+      - Chinese.md
+      - Science.md
+      - Malay.md
+      - Tamil.md
+      - Infocomm Technology (ICT).md
+      - CCE & Student Development.md
+      - Physical & Health Education.md
+      - Aesthetics.md
+      - CCA.md
