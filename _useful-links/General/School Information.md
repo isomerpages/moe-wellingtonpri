@@ -88,9 +88,8 @@ Click on below links for more information:
 [General Guide to Online Purchase](/files/Useful%20Links/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20General%20Guide%20to%20Online%20Purchase.pdf)
 <br>
 [2023 School Uniform Order Form](/files/Useful%20Links/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20Wellington%20Primary%20School%202023%20Updated%2014%20Nov%202022.pdf)
-<br>
 
-------
+
 ### School Dental Clinic
 
 | School Dental Clinic |  |
@@ -98,9 +97,8 @@ Click on below links for more information:
 | Tel: | 6753 4697 |
 | Open: | Monday to Thursday: 8.00 am to 5.30pm<br><br>Friday: 8.00 am to 5.00 pm <br>(Closed from 1.00pm to 2.00pm daily for lunch)<br> **Open ONLY on odd weeks. (1st and 3rd weeek of the month)** |
 | | 
-<br>
 
-------
+
 ### School Bus
 
 | L&W Transport Services Pte Ltd (1 Jan 2021 - 31 Dec 2022) |  |
@@ -117,8 +115,7 @@ Click on below links for more information:
 <br>
 **Bus Services for after school activities (i.e. sending students home from school after supplementary lessons /enrichment programmes and Co-Curricular Activities)**
 ![](/images/2023_SCHOOL%20BUS%202.png)
-<br>
------
+
 
 ### Student Care Services
 
