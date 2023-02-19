@@ -5,8 +5,9 @@ description: ""
 ---
 <p align="justify">
 Masks are no longer required on public transport from Feb 13, 2023; lifting almost all of our remaining Covid-19 restrictions. Then, we spoke about building the resiliency of our children. Throughout the pandemic, they had to face decreased structure, increased educational barriers, and many disruptions to their everyday activities and lives. Behavioral changes needed to be fast when the pandemic began, such as social distancing, masking all-day and isolation from others.
+	<br>
 
-The easing of Safe Management Measures (SMMs) has brought back almost all normality to student life in our schools even before this latest announcement, but we are cautioned that we cannot rule out the future possibility of dangerous variants of concern emerging. The probability of experiencing another pandemic similar to COVID-19 in one’s lifetime is also possible, if not probable.
+The easing of Safe Management Measures (SMMs) has brought back almost all normality to student life in our schools even before this latest announcement, but we are cautioned that we cannot rule out the future possibility of dangerous variants of concern emerging. The probability of experiencing another pandemic similar to COVID-19 in one’s lifetime is also possible, if not probable. <br>
 
 When lockdowns began in early 2020, few of us imagined the long road ahead. As the world moves toward normalcy, challenges will continue to arise and for the foreseeable near term, revolves around the pandemic’s knock-on effects. Inflation, possible recession in some countries, a greater acceptance for flexibility in the workplace, the accessibility and necessity of remote work and issues of mental health and well-being becoming more prevalent.
 
