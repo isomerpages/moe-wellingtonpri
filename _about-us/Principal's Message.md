@@ -3,6 +3,7 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
+<p align="justify">
 Masks are no longer required on public transport from Feb 13, 2023; lifting almost all of our remaining Covid-19 restrictions. Then, we spoke about building the resiliency of our children. Throughout the pandemic, they had to face decreased structure, increased educational barriers, and many disruptions to their everyday activities and lives. Behavioral changes needed to be fast when the pandemic began, such as social distancing, masking all-day and isolation from others.
 
 The easing of Safe Management Measures (SMMs) has brought back almost all normality to student life in our schools even before this latest announcement, but we are cautioned that we cannot rule out the future possibility of dangerous variants of concern emerging. The probability of experiencing another pandemic similar to COVID-19 in one’s lifetime is also possible, if not probable.
@@ -20,5 +21,5 @@ We want the students to respond to ambiguity and adapt to change with resilience
 I take this opportunity to wish all Wellingtonians, friends and stakeholders of Wellington Primary School, a happy and successful 2023.
 
 
-Albert Alcantara
-Principal
+Albert Alcantara <br>
+Principal </p>
