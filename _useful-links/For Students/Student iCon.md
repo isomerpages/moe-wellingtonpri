@@ -1,9 +1,15 @@
 ---
 title: Student iCon
-permalink: /useful-links/for-students/student-icon
+permalink: /useful-links/for-students/student-icon/
 description: ""
 third_nav_title: For Students
 ---
+### Student iCon
+
+Click [here](https://workspace.google.com/dashboard) to login to Student iCon <br>
+
+-----
+
 [Student iCon Onboarding Guide](/files/Student%20iCON%20Onboarding%20Guide.pdf) <br>
 
 <img src="/images/Student%20iCON%20-%20Student%20EDM%20Onboarding%20%20Introducing%20Student%20iCON.jpg" 
