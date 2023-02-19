@@ -8,7 +8,7 @@ Dear Parents/Guardians
 
 The Ministry of Education (MOE) has established a contract for Group Personal Accident (GPA) Insurance for Students.
 
-This contract is awarded to Income Insurance Limited. It covers death, permanent and total/partial disability and medical due to an accident. Details on the insurance coverage can be found in the attached factsheet. Click here.
+This contract is awarded to Income Insurance Limited. It covers death, permanent and total/partial disability and medical due to an accident. Details on the insurance coverage can be found in the attached factsheet. [Click here](/files/Useful%20Links/Group%20Policy%20Insurance/Product%20Fact%20Sheet%20Year%202023.pdf).
 
 Parents are to submit student accident insurance claims electronically at https://studentgpa.incomegroupins.com.sg.
 
