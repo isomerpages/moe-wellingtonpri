@@ -1,10 +1,17 @@
 ---
 title: Student Learning Space
-permalink: /useful-links/for-students/student-learning-space
+permalink: /useful-links/for-students/student-learning-space/
 description: ""
 third_nav_title: For Students
 ---
-[Click here for Annex A Guide for Student Learning Space](/files/Annexes%20to%20Letter%20to%20Parents.pdf)
+<img src="/images/WTP_SLS.png" 
+     style="width:50%">
+
+[Student Learning Space Login](https://vle.learning.moe.edu.sg/login) <br>
+[Request for SLS Password Reset](https://docs.google.com/forms/d/e/1FAIpQLSfiwrDGu9lZyUEzZzUhKfAvamcoTMYJ-f_SvRiFZNAUZfiNbQ/viewform) <br>
+[Click here for Annex A Guide for Student Learning Space](/files/Annexes%20to%20Letter%20to%20Parents.pdf) <br>
+
+-----
 
 ##### FREQUENTLY ASKED QUESTIONS  
 
