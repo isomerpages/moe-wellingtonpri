@@ -126,6 +126,7 @@ Click on below links for more information:
 | Tel: | 9648 9756 |
 | Email: | [wellington\_scc@singaporeedusmart.com.sg](mailto:wellington_scc@singaporeedusmart.com.sg)
 | Website | https://singaporeedusmart.com.sg/ |
+| | |
 <br>
 
 -------
