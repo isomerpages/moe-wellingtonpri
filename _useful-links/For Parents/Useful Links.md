@@ -6,15 +6,14 @@ third_nav_title: For Parents
 ---
 **Useful Links**
 * [Official WTP Facebook](https://www.facebook.com/wellingtonprisg)
-* [Parenting Resources](https://wtpparentingresources.weebly.com/)
 * [Primary One Registration](https://www.moe.gov.sg/primary/p1-registration)
-* [Parent Support Group (WePN) Blog](http://wepn.tumblr.com/)
+* [Selecting Secondary School Guide](https://www.moe.gov.sg/secondary/s1-posting/how-to-choose)
+* [Parenting Resources](https://wtpparentingresources.weebly.com/)
 * [Parents In Education](https://www.moe.gov.sg/parentkit)
 * [WePN Facebook](https://www.facebook.com/pages/Wellington-Parents-Network-WePN/246348102079989)
 * [Safeguarding Your Child Online](http://schoolbag.sg/story/safeguarding-your-child-online)
 * [Overseas Learning Journey](/files/FAQs%20for%20Parents.pdf)
 * [Parents Gateway](/files/PG%20one-time%20onboard.pdf)
-* [Schoolbag.sg](https://www.schoolbag.sg/)
 * [Update Student Medical Condition](https://form.gov.sg/5d7f142328467500121f82a9)
 * [P1 Parents](https://sites.google.com/moe.edu.sg/p1parentswtp/home)
 
@@ -24,17 +23,10 @@ third_nav_title: For Parents
 
 [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login) <br>
 [Request for SLS Password Reset](https://docs.google.com/forms/d/e/1FAIpQLSfiwrDGu9lZyUEzZzUhKfAvamcoTMYJ-f_SvRiFZNAUZfiNbQ/viewform) <br>
-[Student Learning Space Frequently Asked Questions](https://moe-wellingtonpri-staging.netlify.app/useful-links/for-students/student-learning-space)
+[Student Learning Space Frequently Asked Questions](https://moe-wellingtonpri-staging.netlify.app/useful-links/for-students/student-learning-space) <br>
+[SLS Troubleshooting Guide](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
 
 --------------
-
-### Useful Guides
-
-[Selecting Secondary School Guide](https://www.moe.gov.sg/secondary/s1-posting/how-to-choose) <br>
-[SLS Troubleshooting Guide](https://vle.learning.moe.edu.sg/login?redirectUrl=https%3A%2F%2Fdocs.learning.moe.edu.sg%2Fsls-user-guide%2Fvle%2Flogintroubleshooting%2Findex.html%3Ft%3D1657181872343)
-
---------------
-
 ### Termly Nomination for Staff GEMS Award
 
 Our community deserves to hear about the amazing work these staff\* are doing! Please nominate deserving staff of Wellington! 
