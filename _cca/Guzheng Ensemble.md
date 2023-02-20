@@ -1,6 +1,6 @@
 ---
 title: Guzheng Ensemble
-permalink: /our-departments-and-cca/cca/guzheng-ensemble
+permalink: /our-departments-and-cca/cca/guzheng-ensemble/
 description: ""
 ---
 The Guzheng Ensemble of Wellington Primary School participated in the Singapore Youth Festival Arts Presentation 2018 and clinched the Distinction Award, an honour we also held in 2010, 2012, 2014 and 2016. Our students always train very hard for this illustrious event. The values the students have gleaned from the experiences are teamwork and resilience as they have to overcome their challenges and learn to perform well as a team.

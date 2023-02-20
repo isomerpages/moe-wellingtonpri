@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /our-departments-and-cca/aesthetics
+permalink: /our-departments-and-cca/aesthetics/
 description: ""
 ---
 ### Our Mission

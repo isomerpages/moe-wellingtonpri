@@ -1,6 +1,6 @@
 ---
 title: Cyberwellness
-permalink: /our-departments-and-cca/infocomm-technology-ict/cyberwellness
+permalink: /our-departments-and-cca/infocomm-technology-ict/cyberwellness/
 description: ""
 ---
 The cyberwellness programme aims to promote the positive well-being of our pupils as internet users. The objectives of the learning resources are to enable pupils 

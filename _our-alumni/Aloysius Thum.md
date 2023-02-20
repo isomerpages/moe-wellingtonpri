@@ -1,6 +1,6 @@
 ---
 title: Aloysius Thum
-permalink: /about-us/achievements/our-alumni/aloysius-thum
+permalink: /about-us/achievements/our-alumni/aloysius-thum/
 description: ""
 ---
 ### Aloysius Thum, from the class of 2008, served his national service in the Commandos Unit. He will be pursuing his chemical engineering undergraduate studies at NTU. Aloysius is also volunteering as a St. John Ambulance Corps Staff Officer in Maris Stella High, his alma mater.

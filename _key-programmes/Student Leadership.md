@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /key-programmes/student-leadership
+permalink: /key-programmes/student-leadership/
 description: ""
 ---
 ### Student Leadership Framework

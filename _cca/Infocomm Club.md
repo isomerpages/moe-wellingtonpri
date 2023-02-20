@@ -1,6 +1,6 @@
 ---
 title: Infocomm Club
-permalink: /our-departments-and-cca/cca/infocomm-club
+permalink: /our-departments-and-cca/cca/infocomm-club/
 description: ""
 ---
 The Infocomm Club comprises of two groups, Gamemaking and Audio Visual. During the students’ 3-year journey into Digital Media, they learn gamemaking skill using Scratch, as well as digital photography, animation, movie-making and audio production. They also learn how to operate audio and visual equipment such as sound and light mixer.   

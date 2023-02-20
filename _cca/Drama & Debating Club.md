@@ -1,6 +1,6 @@
 ---
 title: Drama & Debating Club
-permalink: /our-departments-and-cca/cca/drama-and-debating-club
+permalink: /our-departments-and-cca/cca/drama-and-debating-club/
 description: ""
 ---
 Wellington Drama & Debate club aims to introduce drama and debate, audience and backstage decorum to our pupils. Students will have a thorough understanding about the different contributions that actors, audience, directors, writers, designers and technicians make to a dramatic event by practical activities. 

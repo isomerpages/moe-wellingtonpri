@@ -1,6 +1,6 @@
 ---
 title: Ecosystem @ Wellington
-permalink: /our-departments-and-cca/science/ecosystem-at-wellington
+permalink: /our-departments-and-cca/science/ecosystem-at-wellington/
 description: ""
 ---
 An **ecosystem** is a community of living organisms together with the non-living components of their environment such as air quality, amount of light, water and mineral soil, interacting as a system.    

@@ -1,6 +1,6 @@
 ---
 title: School Crest
-permalink: /about-us/school-crest
+permalink: /about-us/school-crest/
 description: ""
 ---
 <img src="/images/WTPS%20121015.jpg" 

@@ -1,6 +1,6 @@
 ---
 title: Environmental Science Club
-permalink: /our-departments-and-cca/cca/environmental-science-club
+permalink: /our-departments-and-cca/cca/environmental-science-club/
 description: ""
 ---
 Green Innovation Club aims to develop an awareness among students in environmental conservation and protection. Efforts are made by the club to encourage students to deepen their commitment towards 5R initiatives – Replant, Refuse, Reduce, Reuse and Recycle. Through various activities, we hope to inspire in them a love for nature and cultivate responsibility and care.   

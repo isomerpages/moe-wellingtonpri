@@ -1,6 +1,6 @@
 ---
 title: Malay
-permalink: /our-departments-and-cca/malay
+permalink: /our-departments-and-cca/malay/
 description: ""
 ---
 ![](/images/malay%20language%20department%20i.png)
