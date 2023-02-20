@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-wellingtonpri-staging.netlify.app
-prod: https://moe-wellingtonpri-prod.netlify.app
+staging: https://staging.d1vi3myr7rtme1.amplifyapp.com/
+prod: https://master.d1vi3myr7rtme1.amplifyapp.com/
 resources_name: announcements
 shareicon: /images/isomer-logo.svg
 is_government: false
