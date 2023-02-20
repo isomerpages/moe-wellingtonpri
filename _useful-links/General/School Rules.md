@@ -1,6 +1,6 @@
 ---
 title: School Rules
-permalink: /useful-links/general/school-rules
+permalink: /useful-links/general/school-rules/
 description: ""
 third_nav_title: General
 ---

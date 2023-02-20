@@ -1,6 +1,6 @@
 ---
 title: Belle Tan
-permalink: /about-us/achievements/our-alumni/belle-tan
+permalink: /about-us/achievements/our-alumni/belle-tan/
 description: ""
 ---
 ### A Future Leader in the Making

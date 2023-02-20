@@ -1,6 +1,6 @@
 ---
 title: Football Club
-permalink: /our-departments-and-cca/cca/football-club
+permalink: /our-departments-and-cca/cca/football-club/
 description: ""
 ---
 In Wellington Primary, we aim to develop the passion for football in our young players under the guidance and expertise of the team of dedicated and experienced coaches and teachers. Through a journey of a structured and developmental approach in grooming a holistic sports person, Wellington Primary School has established itself as a soccer powerhouse in the North Zone. We not only focus on developing and honing the technical skills of our players, but also aim to develop them into responsible self-leaders and active contributors to society.   

@@ -1,6 +1,6 @@
 ---
 title: Table Tennis
-permalink: /our-departments-and-cca/cca/table-tennis
+permalink: /our-departments-and-cca/cca/table-tennis/
 description: ""
 ---
 Table Tennis is a non-contact sport that increases one's agility and flexibility, strength and reflexes. Students are put through a rigorous training programme to help them develop these key areas. Wellington’s Table Tennis Club started in 2015 and our members have been participating in the North Zone Inter Primary Schools Championships since 2016. Through the competition, our players gain a better understanding of the sport, learn from their peers as well as to develop their resilience. To prepare for the competitions, selected members will be invited to attend school-team training sessions, in addition to the usual CCA training sessions.   

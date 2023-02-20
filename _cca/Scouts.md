@@ -1,6 +1,6 @@
 ---
 title: Scouts
-permalink: /our-departments-and-cca/cca/scouts
+permalink: /our-departments-and-cca/cca/scouts/
 description: ""
 ---
 The Wellington Cub Scouts Unit, which comprises boys and girls cubs, is the only Uniformed Group CCA in school. The objective of the Cub Scouts programme is to provide a group environment which is intellectually stimulating, physically vital and directed towards satisfying the child’s basic need to face and overcome challenges. Self-development activities are well-entrenched components of the overall drive towards encouraging “Fun & Discovery” amongst the Cubs. The activities are based on the natural sense of fun and enthusiasm of the age group, thus the training is achieved primarily through games, interaction in small groups and activities.  

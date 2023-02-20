@@ -1,6 +1,6 @@
 ---
 title: Eliza Ismail
-permalink: /about-us/achievements/our-alumni/eliza-ismail
+permalink: /about-us/achievements/our-alumni/eliza-ismail/
 description: ""
 ---
 ### My Journey

@@ -1,6 +1,6 @@
 ---
 title: Learning Through New Media (ALP)
-permalink: /key-programmes/learning-through-new-media-alp
+permalink: /key-programmes/learning-through-new-media-alp/
 description: ""
 ---
 ### Learning through New Media at Wellington

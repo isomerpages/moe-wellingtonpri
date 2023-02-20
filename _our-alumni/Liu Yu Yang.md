@@ -1,6 +1,6 @@
 ---
 title: Liu Yu Yang
-permalink: /about-us/achievements/our-alumni/liu-yu-yang
+permalink: /about-us/achievements/our-alumni/liu-yu-yang/
 description: ""
 ---
 ### Liu Yu Yang, who has a passion for Science, was the top PSLE student for the class of 2012 and is currently studying in Raffles Institution

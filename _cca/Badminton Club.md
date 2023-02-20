@@ -1,6 +1,6 @@
 ---
 title: Badminton Club
-permalink: /our-departments-and-cca/cca/badminton-club
+permalink: /our-departments-and-cca/cca/badminton-club/
 description: ""
 ---
 The badminton club seeks to equip technical and tactical badminton skills in budding players who have a keen interest in this popular sport. All students are given opportunities to develop their leadership skills. The club hopes to imbue sportsmanship qualities in all students. Everyone gets a chance to develop the basic skills through drills and trainings with their peers.   

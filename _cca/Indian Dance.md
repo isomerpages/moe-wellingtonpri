@@ -1,6 +1,6 @@
 ---
 title: Indian Dance
-permalink: /our-departments-and-cca/cca/indian-dance
+permalink: /our-departments-and-cca/cca/indian-dance/
 description: ""
 ---
 The Indian Dance group shines as one of the vibrant performing arts groups in Wellington Primary School. The mission of the CCA is to empower every dancer, nurture their talent in Indian Dance and groom them to be leaders in the dance group.   

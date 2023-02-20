@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /our-departments-and-cca/english
+permalink: /our-departments-and-cca/english/
 description: ""
 ---
 <img src="/images/english%20language%20department%20i.png" 

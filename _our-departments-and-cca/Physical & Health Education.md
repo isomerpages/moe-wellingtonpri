@@ -1,6 +1,6 @@
 ---
 title: Physical & Health Education
-permalink: /our-departments-n-cca/physical-n-health-education
+permalink: /our-departments-n-cca/physical-n-health-education/
 description: ""
 ---
 ![](/images/physical%20education%20department%20i.png)

@@ -1,6 +1,6 @@
 ---
 title: Wushu
-permalink: /our-departments-and-cca/cca/wushu
+permalink: /our-departments-and-cca/cca/wushu/
 description: ""
 ---
 Wushu is a Chinese martial arts that focuses primarily on hand & arm strikes and kicking techniques. Not only does it build strength and muscles, it promotes flexibility, balance and coordination of movements. In addition, it also develops discipline of character as students go through rigorous training to master the different skills. Friendships are also forged through teamwork.   
