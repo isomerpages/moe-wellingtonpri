@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /our-departments-and-cca/science
+permalink: /our-departments-and-cca/science/
 description: ""
 ---
 ![](/images/scienc.jpg)

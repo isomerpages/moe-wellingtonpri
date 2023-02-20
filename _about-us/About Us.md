@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /about-us/about-us
+permalink: /about-us/about-us/
 description: ""
 ---
 Wellington Primary School started functioning on 2 January 2001. The school was built by MOE at a cost of 11 million dollars. It is situated at 10 Wellington Circle in the Sembawang vicinity.

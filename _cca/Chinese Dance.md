@@ -1,6 +1,6 @@
 ---
 title: Chinese Dance
-permalink: /our-departments-and-cca/cca/chinese-dance
+permalink: /our-departments-and-cca/cca/chinese-dance/
 description: ""
 ---
 Wellington Primary School Chinese Dance Troupe develops our dancers not only physically and aesthetically, but also aims to foster in them an appreciation of the Chinese Arts as well as instill in them discipline.Our experienced instructor provides professional guidance and over time, our dancers learnt skills that would improve their motor reflexes and present themselves with grace and finesse. They are also taught various traditional and contemporary dance techniques.   

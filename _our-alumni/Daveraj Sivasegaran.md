@@ -1,6 +1,6 @@
 ---
 title: Daveraj Sivasegaran
-permalink: /about-us/achievements/our-alumni/daveraj-sivasegaran
+permalink: /about-us/achievements/our-alumni/daveraj-sivasegaran/
 description: ""
 ---
 ### “… you will never know what you can do unless you try.”

@@ -1,6 +1,6 @@
 ---
 title: Modern Dance
-permalink: /our-departments-and-cca/cca/modern-dance
+permalink: /our-departments-and-cca/cca/modern-dance/
 description: ""
 ---
 Modern Dance in Wellington was proudly founded in 2013. We strive to develop stage confidence in our students. During the CCA, they learn to dance in various genres of Latin Dance, in particular Paso Doble, Jive, Cha Cha, Rumba and Samba. Our instructors work with them to train and prepare them for performances and competitions. Our dancers have performed at different platforms to achieve individual and group awards for themselves and our school.   

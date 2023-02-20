@@ -1,6 +1,6 @@
 ---
 title: CCE & Student Development
-permalink: /our-departments-and-cca/cce-n-student-development
+permalink: /our-departments-and-cca/cce-n-student-development/
 description: ""
 ---
 ![](/images/character%20and%20citizenship%20education%20department%20i.png)

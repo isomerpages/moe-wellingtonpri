@@ -1,6 +1,6 @@
 ---
 title: CCA
-permalink: /our-departments-and-cca/cca
+permalink: /our-departments-and-cca/cca/
 description: ""
 ---
 CCAs are offered in the school to emphasise on ‘Building Character’ in every student. Character traits like resilience, tenacity, confidence, perseverance, responsibility, teamwork, sportsmanship and respect are best acquired outside the classroom. Every student can explore interests, discover talents and recognise potential through the CCAs. These attributes prepare him /her to inculcate life skills beyond school.

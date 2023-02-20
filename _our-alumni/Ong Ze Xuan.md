@@ -1,6 +1,6 @@
 ---
 title: Ong Ze Xuan
-permalink: /about-us/achievements/our-alumni/ong-ze-xuan
+permalink: /about-us/achievements/our-alumni/ong-ze-xuan/
 description: ""
 ---
 ### Join the Gifted Education Programme… but came back to Wellington again

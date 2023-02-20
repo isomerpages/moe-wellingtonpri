@@ -1,5 +1,5 @@
 ---
 title: CCA
-permalink: /our-departments-and-cca/cca
+permalink: /our-departments-and-cca/cca/
 description: ""
 ---

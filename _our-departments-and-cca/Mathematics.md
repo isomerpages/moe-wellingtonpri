@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /our-departments-and-cca/mathematics
+permalink: /our-departments-and-cca/mathematics/
 description: ""
 ---
 <img src="/images/mathematics%20department%20i.png" 

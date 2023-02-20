@@ -1,6 +1,6 @@
 ---
 title: Art and Crafts Club
-permalink: /our-departments-and-cca/cca/art-and-crafts-club
+permalink: /our-departments-and-cca/cca/art-and-crafts-club/
 description: ""
 ---
 The Visual Art Club aims to provide our students opportunities and exposure in art making and art appreciation. The club members will learn to express their ideas, feelings and experiences through different art forms and mediums. The objectives of the club are:

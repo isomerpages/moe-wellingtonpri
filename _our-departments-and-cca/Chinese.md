@@ -1,6 +1,6 @@
 ---
 title: Chinese
-permalink: /our-departments-and-cca/chinese
+permalink: /our-departments-and-cca/chinese/
 description: ""
 ---
 <img src="/images/chinese%20language%20department%20i.png" 

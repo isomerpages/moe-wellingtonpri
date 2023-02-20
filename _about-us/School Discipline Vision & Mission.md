@@ -1,6 +1,6 @@
 ---
 title: School Discipline Vision & Mission
-permalink: /about-us/school-discipline-vision-n-mission
+permalink: /about-us/school-discipline-vision-n-mission/
 description: ""
 ---
 To empower Wellingtonians to make responsible decisions based on the RICE2 values.

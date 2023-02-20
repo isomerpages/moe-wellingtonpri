@@ -1,6 +1,6 @@
 ---
 title: Chinese Cultural Club
-permalink: /our-departments-and-cca/cca/chinese-cultural-club
+permalink: /our-departments-and-cca/cca/chinese-cultural-club/
 description: ""
 ---
 Chinese Culture Club (CCC) will start next year, 2021!

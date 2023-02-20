@@ -1,6 +1,6 @@
 ---
 title: Volleyball
-permalink: /our-departments-and-cca/cca/volleyball
+permalink: /our-departments-and-cca/cca/volleyball/
 description: ""
 ---
 Volleyball is one of the world's most popular sports and is played by more than 800 million people on the planet at least once a week. 
