@@ -7,7 +7,7 @@ description: ""
 The place we learn to be innovative <br>
 Every day every way <br>
 Nurture talent and develop character <br>
-This the place we’ll shine like a star in life
+'Tis the place we’ll shine like a star in life
 
 <p> 
 
