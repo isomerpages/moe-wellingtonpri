@@ -59,6 +59,8 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 |  3C to 3F and 4C to 4F |  | 12.30 pm to 1.00 pm  |
 | P5 level, 4A and 4B |  | 1.00 pm to 1.30 pm |
 | Primary 6 |  | 1.30 pm to 2.00pm |
+| | |
+
 <br>
 
 -----
