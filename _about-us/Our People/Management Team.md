@@ -19,7 +19,7 @@ third_nav_title: Our People
 | | | |
 |---|---|---|
 | Centre Head  |  Ms Latifah Abdullah |  latifah_abdullah@schools.gov.sg |
-|  Deputy Centre Head  |  Mdm Uva Jothi d/o G. Divagaran |  Uva_Jothi_G_Divagaran@schools.gov.sg |
+|  Deputy Centre Head  |  Mdm Uva Jothi d/o G. Divagaran |  uva_jothi_g_divagaran@schools.gov.sg |
 |  Level Head  |  Mdm Zhang Xiaowen  |  zhang_xiaowen_a@schools.gov.sg  |
 | | |
 
