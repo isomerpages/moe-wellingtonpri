@@ -10,7 +10,7 @@ third_nav_title: General
 | Thursday | 7.30 am to 2.30 pm |
 | | |
 
-All P3 to P6 students are required to wear school tie / scarf on every **Monday**.
+All P3 to P6 students are required to wear school tie / scarf on every&nbsp;**Monday**.
 
 CCA Day is on Friday.
 
@@ -29,18 +29,18 @@ _\*updated 4 May 2022_
 ![](/images/DISMISSAL%20TIME.png)
 
 **Closure of Gate B during Wet Weather** <br>
-Parents/Guardians who are picking up your children at Gate B; please proceed to Gate D when it rains. Gate D is connected via a sheltered link-way to Blk 501D Wellington Circle. This arrangement is to ensure the safety and well-being of Wellingtonians.
+Parents/Guardians who are picking up your children at Gate B; please proceed to Gate D when&nbsp;it rains. Gate D is connected via a sheltered link-way to Blk 501D Wellington Circle. This&nbsp;arrangement is to ensure the safety and well-being of Wellingtonians.
 
 **Closure of Vehicular Gates 1 and 2** <br>
-To facilitate the movement of school buses and the safe dismissal of our students, vehicles will not be allowed to drive in and out between 2.00pm to 2.30pm on Mon, Tue, Wed and Fri, and between 2.30pm to 3.00pm on Thursday.
+To facilitate the movement of school buses and the safe dismissal of our students, vehicles will&nbsp;not be allowed to drive in and out between 2.00pm to 2.30pm on Mon, Tue, Wed and Fri, and&nbsp;between 2.30pm to 3.00pm on Thursday.
 
-2) Dismissal after Supplementary, Stretch, Support Programme, CCA and Enrichment Programme
+2)&nbsp;Dismissal after Supplementary, Stretch, Support Programme, CCA and Enrichment&nbsp;Programme
 
-Due to manpower constraints and the smaller number of students in the school after normal school hours, only 2 gates will be opened for dismissal. Their gates opening hours are as follows:
+Due to manpower constraints and the smaller number of students in the school after normal school&nbsp;hours, only 2 gates will be opened for dismissal. Their gates opening hours are as follows:
 
 ![](/images/GATEHOURS2.png)
 
-Parents/Guardians, kindly make your own arrangement to pick up your children at either gate D or gate G for dismissal after the afternoon programmes. After 4.00pm, only Gate A will be open.
+Parents/Guardians, kindly make your own arrangement to pick up your children at either gate D or&nbsp;gate G for dismissal after the afternoon programmes. After 4.00pm, only Gate A will be open.
 <br>
 
 --------
@@ -50,7 +50,12 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 <br>
 
 ---------
-### Snack Break & Lunch Time
+### Snack Break &amp; Lunch Time
+#### Snack Time 
+| Level | Time | Details |
+|---|---|---|
+Primary 1 to Primary 4 | 9.35 am to 10.00am | In their own classroom. <br>Students are to pack a healthy snack such as buns and fruits. |
+| Primary 5 &amp; Primary 6 | 9.35 am to 10.00am | In the canteen. <br> Students may buy food from the canteen stalls. |
 
 | Level | Snack Break | Lunch Time |
 |---|---|---|
@@ -103,14 +108,14 @@ Click on below links for more information:
 
 ### School Bus
 
-| L&W Transport Services Pte Ltd (1 Jan 2021 - 31 Dec 2022) |  |
+| L&amp;W Transport Services Pte Ltd (1 Jan 2021 - 31 Dec 2022) |  |
 |---|---|
 | Tel: | 8511 1851 (Nick)  |
 | Email: | [sales@wltransportservices.com](mailto:sales@wltransportservices.com) |
 | | | 
 
-[Click here](/files/Useful%20Links/School%20Bus%20Booking%20Form_2023-2024_final.pdf) to download School Bus Registration Form. <br>
-[Click here](/files/Useful%20Links/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf) to read Terms & Conditions Governing The Requests For Services
+[Click here](/files/Useful%20Links/School%20Bus%20Booking%20Form_2023-2024_final.pdf)&nbsp;to download School Bus Registration Form. <br>
+[Click here](/files/Useful%20Links/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf)&nbsp;to read Terms &amp; Conditions Governing The Requests For Services
 
 **Daily School Bus Service**
 ![](/images/2023_SCHOOL%20BUS%201.png)
@@ -131,7 +136,7 @@ Click on below links for more information:
 
 ### School Canteen
 
-At Wellington Primary School, we believe in cultivating healthy eating habit and lifestyle from a young age in order to create a positive lifetime impact on our children’s health. The school is proud to partner the Health Promotion Board (HPB) in introducing the [Healthy Meals in Schools Programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) as one of the pioneer schools in 2011. We work closely with the canteen vendors to ensure their adherence to a set of HPB guidelines to bring wholesome meals and healthy snacks that provide optimum nutrition to our students.  
+At Wellington Primary School, we believe in cultivating healthy eating habit and lifestyle from a young age in order to create a positive lifetime impact on our children’s health. The school is proud to partner the Health Promotion Board (HPB) in introducing the&nbsp;[Healthy Meals in Schools Programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)&nbsp;as one of the pioneer schools in 2011. We work closely with the canteen vendors to ensure their adherence to a set of HPB guidelines to bring wholesome meals and healthy snacks that provide optimum nutrition to our students.  
 
   
 [Click here](/files/Useful%20Links/Canteen%20menu%20website_03%20Jan%2023.pdf) to view the stall menu.
