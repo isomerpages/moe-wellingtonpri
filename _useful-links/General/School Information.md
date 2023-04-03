@@ -54,7 +54,7 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 #### Snack Time
 | Level | Time | Details |
 |---|---|---|
-Primary 1 to Primary 4 | 9.35am to 10.00am | In their own classroom. <br>Students are to pack a healthy snack such as buns and fruits. |
+| Primary 1 to Primary 4 | 9.35am to 10.00am | In their own classroom. <br>Students are to pack a healthy snack such as buns and fruits. |
 | Primary 5 &amp; Primary 6 | 9.35am to 10.00am | In the canteen. <br> Students may buy food from the canteen stalls. |
 | | |
 
@@ -65,7 +65,7 @@ Primary 1 to Primary 4 | 9.35am to 10.00am | In their own classroom. <br>Student
 | Primary 2 | 12.30pm to 1.00pm |
 | Primary 3 &amp; 4 | 1.00pm to 1.30pm |
 | Primary 5 &amp; 6 | 1.30pm to 2.00pm |
-
+|  |
 
 -----
 ### School Bookshop
