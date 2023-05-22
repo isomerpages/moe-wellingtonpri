@@ -4,7 +4,6 @@ collections:
     order:
       - General/.keep
       - General/School Information.md
-      - General/School Rules.md
       - General/Privacy Policy.md
       - General/Calendar.md
       - General/Contact Us.md
