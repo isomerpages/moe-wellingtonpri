@@ -3,9 +3,6 @@ title: Malay
 permalink: /our-departments-and-cca/malay/
 description: ""
 ---
-![](/images/malay%20language%20department%20i.png)
-Missing in picture: Cikgu Karmila & Cikgu Shah
-
 ### Our Vision
 
 Nurture Active Learners, Proficient Communicators and Cultural Leaders
@@ -22,7 +19,7 @@ Various programmes are designed to make learning of Malay Language meaningful an
 
 ![](/images/pasted%20image%200%20(1).png)
 
-The Mother Tongue Language (MTL) Fortnight Programme is an MOE’s initiative to promote the use of Mother Tongue languages in schools. Here in Wellington Primary School, the programme provides students with authentic opportunities to experience and appreciate the various aspect of Malay Language and Culture. 
+The Mother Tongue Language (MTL) Fortnight Programme is an MOE’s initiative to promote the use of Mother Tongue languages in schools. Here in Wellington Primary School, the programme provides students with authentic opportunities to experience and appreciate the various aspect of Malay Language and Culture.&nbsp;
 
 A wide range of activities are organised which include activities such as language appreciation through poetry and songs, hands-on session in traditional ensemble such as gamelan and kompang, unleashing the skills in the making of delicate traditional food craft and understanding the relevance of Malay Language in the current context through dialogue session with an invited speaker. These activities make the learning of the language fun and meaningful.
 
@@ -49,7 +46,7 @@ During full home-based learning, students learn the language in a fun and enjoya
 
 ![](/images/pasted%20image%200%20(5).png)
 
-This year’s Hari Raya Aidilfitri celebration was held on 5th June. The primary 1-3 students had theirs via Zoom with their Form Teachers during Home Based Learning. Other than learning about Hari Raya tradition, the students also got to watch videos to understand the festival is celebrated differently this year due to the COVID-19 situation. Nevertheless, the students enjoyed themselves especially when watching the Malay Dance video put together from individual recordings done by the Malay Dance students. The session ended with a craft activity in which students get to make either green packets, ketupat weaving or greeting cards. 
+This year’s Hari Raya Aidilfitri celebration was held on 5th June. The primary 1-3 students had theirs via Zoom with their Form Teachers during Home Based Learning. Other than learning about Hari Raya tradition, the students also got to watch videos to understand the festival is celebrated differently this year due to the COVID-19 situation. Nevertheless, the students enjoyed themselves especially when watching the Malay Dance video put together from individual recordings done by the Malay Dance students. The session ended with a craft activity in which students get to make either green packets, ketupat weaving or greeting cards.&nbsp;
 
 ##### *Bicara Berirama*  
 **Choral Speaking**
