@@ -30,5 +30,4 @@ third_nav_title: Our People
 | **Security Officers** | Mr Syaiful |  
 |  | Mdm Rabiah |  
 |  | Mr Mohamed Sani |  
-| **Updated: 4 January 2023** |
 |  |  |
