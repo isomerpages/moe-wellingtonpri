@@ -10,5 +10,3 @@ The teachers-in-charge work hand-in-hand with our instructor, Ms Xu Yiping, in s
 In addition, the Guzheng Ensemble performs regularly at our school events and external events, such as the performance of Butterfly Lovers Concerto at the Victoria Theatre in August 2019. 
 
 ![](/images/guzheng%20ensemble.jpg)
-
-</insert video>
