@@ -34,7 +34,5 @@ Students are encouraged to represent the school in various art competitions and 
 
 <figure>  
 <img src="/images/arts%205.jpg">  
-<figcaption> Art club senior members guiding the juniors in creating the paper mache / <br> Exploring weaving using yarn and paper plates </figcaption> 
+<figcaption> Art club senior members guiding the juniors in creating the paper mache / <br> Exploring weaving using yarn and&nbsp;paper plates </figcaption> 
 </figure>
-
-</insert video>
