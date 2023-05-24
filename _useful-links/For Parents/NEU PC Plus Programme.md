@@ -4,9 +4,10 @@ permalink: /useful-links/For-Parents/neupc/
 description: ""
 third_nav_title: For Parents
 ---
+### DigitalAccess@Home
 
-### NEU PC Plus Programme  
+DigitalAccess@Home scheme by IMDA provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities.
 
-The NEU PC Plus Programme offers students and persons with disabilities from low income households the opportunity to own a brand new computer at an affordable price. Please visit the website [https://www.imda.gov.sg/neupc](https://www.imda.gov.sg/neupc) to find out more the programme or download the application form. Hardcopy forms are also available at the General Office.
+For more information, please visit IMDA website [here](https://eservice.imda.gov.sg/das/homepage).
 
-Low-income families with school-going children who wish to apply for broadband only, can now apply for broadband only under the Home Access 3.0 programme. For details, please visit [www.digitalaccess.gov.sg](www.digitalaccess.gov.sg).
+For enquiries, you may contact IMDA via Hotline: 6377 3800 or email: [digitalaccess@imda.gov.sg](mailto:digitalaccess@imda.gov.sg)
