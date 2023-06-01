@@ -16,7 +16,6 @@ third_nav_title: For Parents
 * [Parents Gateway](/files/PG%20one-time%20onboard.pdf)
 * [Update Student Medical Condition](https://form.gov.sg/5d7f142328467500121f82a9)
 * [P1 Parents](https://sites.google.com/moe.edu.sg/p1parentswtp/home)
-* [Online Payment for MOE Bill and School Bill](/files/Useful%20Links/singpostmobile_instructions_dec2022.pdf)
 
 -----------
 <img src="/images/WTP_SLS.png" style="width:50%">
