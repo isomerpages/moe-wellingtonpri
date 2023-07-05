@@ -94,7 +94,7 @@ Click on below links for more information:
 
 | School Dental Clinic |  |
 |---|---|
-| Tel: | 6753 4697 |
+| Tel: | 8764 2254 |
 | Open: | Monday to Thursday: 8.00 am to 5.30pm<br><br>Friday: 8.00 am to 5.00 pm <br>(Closed from 1.00pm to 2.00pm daily for lunch)<br> **Open ONLY on odd weeks. (1st and 3rd weeek of the month)** |
 | | |
 
