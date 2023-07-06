@@ -17,7 +17,7 @@ third_nav_title: Form Teachers
 | 6E | Mr Lim (Daniel) | lim_phor_tien@moe.edu.sg |
 | 6E | Mr Idris Asmuri | mohamad_idris_asmuri@moe.edu.sg |
 | 6F | Mrs Tan (Jennifer Lee) |  lee_chin_fung@moe.edu.sg |
-| 6F | Mdm Wang Guo Hong | wang_guohong@moe.edu.sg  |
+| 6F | Ms Kuang (Lucy) | kuang_xian_yu@moe.edu.sg |
 | 6G | Mr Kong (Patrick) | kong_sin_yu_patrick@moe.edu.sg |
 | 6G | Mdm Nooraihan  | nooraihan_mohamed_ali@moe.edu.sg |
 | 6G | Mdm Ida  | ida_ruyani_snin@moe.edu.sg |
