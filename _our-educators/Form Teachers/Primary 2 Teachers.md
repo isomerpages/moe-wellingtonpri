@@ -17,7 +17,7 @@ third_nav_title: Form Teachers
 | 2E | Ms Sim Chin Mei | sim_chin_mei@moe.edu.sg |
 | 2E | Mrs Michelle Soh | michelle_wong_fei_fun@moe.edu.sg |
 | 2F | Mr Choey (Paul) | choey_por_yen@moe.edu.sg |
-| 2F | Mrs Pun (Toh Zi Ai) | toh_zi_ai@moe.edu.sg  |
+| 2F | Ms Yew (Ci Hui) | yew_ci_hui@moe.edu.sg |
 | 2G | Miss Anna | annamarial_saminathan@moe.edu.sg |
 | 2G | Ms Karen Koek | koek_karen_jude@moe.edu.sg |
 | 2H | Mdm Qu (Hong Wei) | qu_hongwei@moe.edu.sg |
