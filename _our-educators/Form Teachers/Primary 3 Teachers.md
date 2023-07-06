@@ -17,5 +17,6 @@ third_nav_title: Form Teachers
 | 3E | Ms Woo (Fannie) | woo_seow_fan_fannie@moe.edu.sg |
 | 3E | Mr Mark      | mark_eric_nadhan@moe.edu.sg |
 | 3F | Ms Goh Jing Yi   | goh_jing_yi@schools.gov.sg  |
+| 3F | Ms Celine Chong | celine_chong_xue_ying@moe.edu.sg |
 | 3F | Ms Selvakumari | n_selvakumari@moe.edu.sg |
 | | | |
