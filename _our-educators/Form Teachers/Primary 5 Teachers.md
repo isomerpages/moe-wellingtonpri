@@ -16,7 +16,7 @@ third_nav_title: Form Teachers
 | 5D | Mdm Zulaiha | siti_zulaiha_saidi@moe.edu.sg |
 | 5D | Mrs Aw (Claira) | claira_tan_chay_lan@moe.edu.sg |
 | 5E | Mr Khaarthik | khaarthik_jaya_balan@moe.edu.sg |
-| 5E | Ms Sarah Ang | ang_lay_poh_sarah@moe.edu.sg |
-| 5F | Mr Muhammad Hafiz | muhd_hafiz_jamal@moe.edu.sg  |
+| 5E | Mrs Anitha Aruljothi | m_anitha@moe.edu.sg |
+| 5F | Mr Keith Ng | ng_zhao-xiang@moe.edu.sg |
 | 5F | Mdm Siti Zaleha  | siti_zaleha_abdul_majid@moe.edu.sg  |
 | | | |
