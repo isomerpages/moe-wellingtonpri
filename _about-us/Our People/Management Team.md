@@ -27,7 +27,6 @@ third_nav_title: Our People
 
 | | | |
 |---|---|---|
-| School Staff Developer | Mr Muhd Hafiz | muhd_hafiz_jamal@moe.edu.sg |
 | HOD English Language / CCE (Covering) | Mdm Wendy Au  | wendy_au_may_lee@moe.edu.sg  |
 | HOD Science | Mdm Lata Menon | lata_krishnan@moe.edu.sg |
 | HOD Mother Tongue Language | Mr Wong Kian Kei | wong_kian_kei@moe.edu.sg |
