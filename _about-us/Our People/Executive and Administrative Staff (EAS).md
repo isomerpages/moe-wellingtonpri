@@ -27,6 +27,5 @@ third_nav_title: Our People
 | **Librarian** | Mdm Siti Nurzulaiha |  
 | **Dental Therapist** | Mdm Ang Yoke Hoo |  
 | **Security Officers** | Mr Syaiful |  
-|  | Mdm Rabiah |  
 |  | Mr Mohamed Sani |  
 |  |  |
