@@ -9,7 +9,7 @@ Many Wushu styles also utilize traditional martial arts weapons such as the cudg
 
 Our school team members are given the opportunity to represent our school in the National Wushu competitions where they hone their skills in a competitive setting. They also perform during festive events such as the Lunar New Year and Mid-Autumn festival.
 
-Click the link below to watch the WUSHU CCA promotional video: https://drive.google.com/file/d/1qAk8uNO7RAsVoxjBoSFovqEKqyMWwtPW/view?usp=drive_link
+Click [here](https://drive.google.com/file/d/1qAk8uNO7RAsVoxjBoSFovqEKqyMWwtPW/view?usp=drive_link) to watch the WUSHU CCA promotional video
 
 
 
