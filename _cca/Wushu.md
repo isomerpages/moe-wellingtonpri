@@ -8,8 +8,7 @@ Wushu is a Chinese martial arts that focuses primarily on hand &amp; arm strikes
 Many Wushu styles also utilize traditional martial arts weapons such as the cudgel, sword, broad sword and spear. Besides acquiring the fundamentals of Wushu, our coaches train Wushu members to put up the lion dance performance during Lunar New Year.&nbsp;
 
 Our school team members are given the opportunity to represent our school in the National Wushu competitions where they hone their skills in a competitive setting. They also perform during festive events such as the Lunar New Year and Mid-Autumn festival.
-
-
+[Wushu CCA promotional video](https://drive.google.com/file/d/1qAk8uNO7RAsVoxjBoSFovqEKqyMWwtPW/view?usp=drive_link)
 
 
 
