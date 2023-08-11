@@ -83,13 +83,6 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 | Address: | Blk 209 New Upper Changi Road<br>#03-651 <br>Singapore 460209 |
 | Email:  | myuniformshopasia@gmail.com |
 | | |
-
-Click on below links for more information:  
-[General Guide to Online Purchase](/files/Useful%20Links/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20General%20Guide%20to%20Online%20Purchase.pdf)
-<br>
-[2023 School Uniform Order Form](/files/Useful%20Links/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20Wellington%20Primary%20School%202023%20Updated%2014%20Nov%202022.pdf)
-
-
 ### School Dental Clinic
 
 | School Dental Clinic |  |
