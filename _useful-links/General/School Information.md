@@ -74,7 +74,6 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 <br>
 
 ### School Uniform
-
 My Uniform Shop (Asia) Pte Ltd 
 Tel: 6276 6689 
 Website: www.myuniformshop.com.sg 
