@@ -73,16 +73,15 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 
 <br>
 
------
 ### School Uniform
 
-| My Uniform Shop (Asia) Pte Ltd |  |
-|---|---|
-| Tel: | 6276 6689 |
-| Website: | www.myuniformshop.com.sg |
-| Address: | Blk 209 New Upper Changi Road<br>#03-651 <br>Singapore 460209 |
-| Email:  | myuniformshopasia@gmail.com |
-| | |
+My Uniform Shop (Asia) Pte Ltd 
+Tel: 6276 6689 
+Website: www.myuniformshop.com.sg 
+Address: Blk 209 New Upper Changi Road<br>
+#03-651 Singapore 460209<br>
+Email: myuniformshopasia@gmail.com 
+
 ### School Dental Clinic
 
 | School Dental Clinic |  |
