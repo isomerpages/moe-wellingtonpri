@@ -27,10 +27,11 @@ third_nav_title: Our People
 
 | | | |
 |---|---|---|
-| HOD English Language / CCE (Covering) | Mdm Wendy Au  | wendy_au_may_lee@moe.edu.sg  |
+| HOD English Language | Mrs Anitha Aruljothi  | m_anitha@moe.edu.sg  |
 | HOD Science | Mdm Lata Menon | lata_krishnan@moe.edu.sg |
 | HOD Mother Tongue Language | Mr Wong Kian Kei | wong_kian_kei@moe.edu.sg |
 | HOD Physical Education | Mrs Bernadette Chen | bernadette_choo_may_ling@moe.edu.sg |
+| HOD CCE  | Mdm Wendy Au  | wendy_au_may_lee@moe.edu.sg  
 | HOD Infocomm Technology | Mrs Sumathi Siva Kumar | sumathi_siva_kumar@moe.edu.sg |
 | HOD Knowledge Management | Mr Keith Ng | ng_zhao-xiang@moe.edu.sg |
 | Year Head Upper Primary | Mrs Claira Aw | claira_tan_chay_lan@moe.edu.sg |
