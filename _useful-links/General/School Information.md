@@ -69,28 +69,23 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 | Tel:  | 9855 2013 (WhatsApp preferred) |
 | Open: | Mon - Fri:  8.00 am to 3.00 pm |
 | Email: | wtps@pacificbookstores.com |
-| For online purchases please visit www.pacificbookstores.com |  |
+| For online purchases please visit www.pacificbookstores.com | |
 
-<br>
-
------
 ### School Uniform
-
-| My Uniform Shop (Asia) Pte Ltd |  |
+|My Uniform Shop (Asia) Pte Ltd |  |
 |---|---|
-| Tel: | 6276 6689 |
-| Website: | www.myuniformshop.com.sg |
-| Address: | Blk 209 New Upper Changi Road<br>#03-651 <br>Singapore 460209 |
-| Email:  | myuniformshopasia@gmail.com |
+|Tel:| 6276 6689 |
+|Website:|www.myuniformshop.com.sg |
+|Address: |Blk 209 New Upper Changi Road, #03-651 Singapore 460209 |
+|Email: |myuniformshopasia@gmail.com |
 | | |
 ### School Dental Clinic
 
 | School Dental Clinic |  |
 |---|---|
 | Tel: | 8764 2254 |
-| Open: | Monday to Thursday: 8.00 am to 5.30pm<br><br>Friday: 8.00 am to 5.00 pm <br>(Closed from 1.00pm to 2.00pm daily for lunch)<br> **Open ONLY on odd weeks. (1st and 3rd weeek of the month)** |
+| Open: | Monday to Thursday: 8.00 am to 5.30pm<br>Friday: 8.00 am to 5.00 pm <br>(Closed from 1.00pm to 2.00pm daily for lunch)<br> **Open ONLY on odd weeks. (1st and 3rd weeek of the month)** |
 | | |
-
 
 ### School Bus
 
