@@ -111,7 +111,8 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 
 | Singapore Edusmart Learning Hub |  |
 |---|---|
-| Tel: | 9648 9756 |
+| Tel: | 9648 6188 |
+| Working hours: | Monday to Friday - 12pm to 7pm |
 | Email: | [wellington\_scc@singaporeedusmart.com.sg](mailto:wellington_scc@singaporeedusmart.com.sg)
 | Website | https://singaporeedusmart.com.sg/ |
 | | 
