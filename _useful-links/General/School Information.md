@@ -91,7 +91,7 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 
 ### School Bus
 
-| L&amp;W Transport Services Pte Ltd (1 Jan 2021 - 31 Dec 2022) |  |
+| L&amp;W Transport Services Pte Ltd) |  |
 |---|---|
 | Tel: | 8511 1851 (Nick)  |
 | Email: | [sales@wltransportservices.com](mailto:sales@wltransportservices.com) |
