@@ -12,7 +12,6 @@ Please click on the links below for more info on the MOE Financial Assistance Sc
  
  **MOE FAS 2024 Circular**  
  [MOE FAS Circular 2024](/files/moe%20fas%20circular_2024.pdf)
- 
 
 
 
