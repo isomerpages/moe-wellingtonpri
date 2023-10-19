@@ -14,5 +14,3 @@ Please click on the links below for more info on the MOE Financial Assistance Sc
 
 * [MOE FAS 2024 Application Form](/files/moe%20fas%202024%20application%20form.pdf)
  
- 
-* [MOE FAS 2024 Application Form] 
