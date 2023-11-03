@@ -2,9 +2,20 @@
 title: Choir Ensemble
 permalink: /our-departments-and-cca/cca/choir-ensemble/
 description: ""
+variant: markdown
 ---
-The Wellington Choir aims to provide Wellingtonians with the platform to discover and harness their vocal talent through choral singing and show choir. Such opportunities enable Wellingtonians to not only work on their vocal range but also their stamina and synchronisation of movements. As choral singing is a team effort, the Wellington Choir firmly believes in the synergy of teamwork and resilience in order to put up a stellar performance.&nbsp;
+The Wellington Choir is dedicated to nurturing the vocal talents of Wellingtonians, offering them a platform to discover and develop their singing abilities through choral practices and performances. Engaging in these musical endeavors not only refines vocal techniques but also fosters self-discipline and confidence in all our choir members.
 
-In 2019, the Wellington Choir attained the Platinum Award in the B-Dazzled Grand Festival. The choir also performs regularly at various school events such as the Annual Prize Giving Day ceremony.
+Our belief in the power of teamwork and resilience is at the core of our choir's philosophy, as we recognise that choral singing is a collaborative effort. Together, we strive for excellence in every performance.
 
-<img src="/images/choir.jpg" style="width:80%">
+Our practices are on Friday mornings during timetabled CCA periods, as well as selected Friday afternoons from 2pm to 4pm.
+
+In 2023, we had the privilege of participating in several performances, including our school's Hari Raya concert and an external event hosted at Esplanade called "SYF 2023 Celebrations: Shall We Sing?".
+
+ ![Choir CCA](/images/Choir%20CCA/choir%201.jpg)
+ 
+ ![Choir CCA](/images/Choir%20CCA/choir%202.jpg)
+ 
+ ![Choir CCA](/images/Choir%20CCA/choir%203.jpg)
+ 
+ ![Choir 4](/images/Choir%20CCA/choir%204.jpg)
