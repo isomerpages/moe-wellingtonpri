@@ -18,7 +18,7 @@ The CCA is open to all Primary 3 to 6 students and the dance practice sessions a
 
 **CCA Teachers:** <br>
 Mdm Saraswathi Velayudham (OIC) <br>
-Mdm Lallitha
+Mdm Lallitha <br>
 Ms Shantiny
 
 ![](/images/indian%20dance.jpg)
