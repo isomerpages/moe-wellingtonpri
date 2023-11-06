@@ -2,37 +2,28 @@
 title: Art and Crafts Club
 permalink: /our-departments-and-cca/cca/art-and-crafts-club/
 description: ""
+variant: markdown
 ---
-The Visual Art Club aims to provide our students opportunities and exposure in art making and art appreciation. The club members will learn to express their ideas, feelings and experiences through different art forms and mediums. The objectives of the club are:
-* To encourage creativity in students and develop for their self-expression in art.
-* To foster a love in art among the students through their appreciation for visual arts.
-* To strive for excellence through the participation in art competitions.
+ **Art Club**  <br>
+Teachers In-Charge:<br>
+Mrs Ang Xi Jun (Overall Teacher-in-charge)<br>
+Ms Meera (Teacher-in-charge)<br>
+Ms Shanu (Teacher-in-charge)<br>
+Mdm Priya (Teacher-in-charge)<br>
+Ms Lai Li Fei (Teacher-in-charge) (PAL)  <br>
+  
 
-Membership is open to all Primary 3 to Primary 6 students who like to create, draw and paint. The Visual Art Club allows them to learn a variety of art techniques and skills in various art mediums; from drawing, painting, mixed media and craft to digital art. Students will gain a greater understanding of concepts and ideas in fine art.
+Objectives:<br>
+To encourage creativity in students and develop their self-expression in art.<br>
+To foster a love in art among the students through their appreciation for visual arts.&nbsp;<br>
+To strive for excellence through participation in art competitions.<br>
 
-Students are encouraged to represent the school in various art competitions and events. Last year, our students took part in Singapore Youth Festival (SYF) Visual Arts Competition (Primary) 2019 and two groups of our students’ artworks were selected to be exhibited at SYF Exhibition 2019.
+Overview:<br>
+The Art &amp; Crafts Club aims to provide our students opportunities and exposure in art making and art appreciation. Club members will learn to express their ideas, feelings and experiences through different art forms and mediums.&nbsp;<br>
+Membership is open to all Primary 3 to Primary 6 students who like to create, draw and paint. The Art &amp; Crafts Club allows them to learn a variety of art techniques and skills in various art mediums; from drawing, painting, mixed media and craft to digital art. Students will gain a greater understanding of concepts and ideas in fine art.<br>
+Students are encouraged to represent the school in various art competitions and events. This year, our students took part in Singapore Youth Festival (SYF) Visual Arts Competition (Primary) 2023 and one group of our students’ artwork was selected to be exhibited at the SYF Exhibition 2023.<br>  
+Furthermore, selected art club students participated as student docents in our Artisticity Art Exhibition 2023. Also, all our art club members contributed interesting and beautiful artworks in the event.<br>
+ 
 
-<figure>  
-<img src="/images/arts%201.jpg">  
-<figcaption> 2019 SYF Category A: Come Along With Us </figcaption>  
-</figure>
-
-<figure>  
-<img src="/images/arts%202.jpg">  
-<figcaption> 2019 SYF Category B: Nom Nom Nom </figcaption>  
-</figure>
-
-<figure>  
-<img src="/images/arts%203.jpg">  
-<figcaption> 2019 SYF Category C: Singapore’s Rich Tapestry </figcaption>  
-</figure>
-
-<figure>  
-<img src="/images/arts%204.jpg">  
-<figcaption> 2019 N7 Artisticity Art Exhibition </figcaption> 
-</figure>
-
-<figure>  
-<img src="/images/arts%205.jpg">  
-<figcaption> Art club senior members guiding the juniors in creating the paper mache / <br> Exploring weaving using yarn and&nbsp;paper plates </figcaption> 
-</figure>
+![Art Club ](/images/Art%20Club%20CCA/art%20club%202023%20-%201.png)
+![Art Club](/images/Art%20Club%20CCA/art%20club%202023%20-%202.png)
