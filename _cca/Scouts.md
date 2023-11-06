@@ -2,6 +2,7 @@
 title: Scouts
 permalink: /our-departments-and-cca/cca/scouts/
 description: ""
+variant: markdown
 ---
 The Wellington Cub Scouts Unit, which comprises boys and girls cubs, is the only Uniformed Group CCA in school. The objective of the Cub Scouts programme is to provide a group environment which is intellectually stimulating, physically vital and directed towards satisfying the child’s basic need to face and overcome challenges. Self-development activities are well-entrenched components of the overall drive towards encouraging “Fun &amp; Discovery” amongst the Cubs. The activities are based on the natural sense of fun and enthusiasm of the age group, thus the training is achieved primarily through games, interaction in small groups and activities.  
 
@@ -32,7 +33,7 @@ In 2016, Wellington Cub Scouts Unit achieved its first Frank Cooper Sands Gold A
 14. Bicentennial Scout Trek Bishan Stadium Carnival Game Booth – Gold
 15. In Appreciation of the Continued Support for the North Area, SSA Cub Leadership Course (2nd&nbsp;Run) 2018
 
-Click [here](https://drive.google.com/file/d/1hn9PFtyVQIQH1ZzH0tc2ok7bxvgiY2JA/view?usp=drive_link) to watch our SCOUTS CCA promotional video
+Click  [here](https://youtu.be/0HpHptOBq1c) to watch our SCOUTS CCA promotional video
 
 
 <figure>   
