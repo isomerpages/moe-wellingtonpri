@@ -4,7 +4,7 @@ permalink: /our-departments-and-cca/cca/art-and-crafts-club/
 description: ""
 variant: markdown
 ---
- **Art Club ** <br>
+ **Art Club**  <br>
 Teachers In-Charge:<br>
 Mrs Ang Xi Jun (Overall Teacher-in-charge)<br>
 Ms Meera (Teacher-in-charge)<br>
