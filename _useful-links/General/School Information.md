@@ -3,6 +3,7 @@ title: School Information
 permalink: /useful-links/general/school-information/
 description: ""
 third_nav_title: General
+variant: markdown
 ---
 | Day | Time |
 |---|---|
@@ -94,7 +95,7 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 
 | L&amp;W Transport Services Pte Ltd |  |
 |---|---|
-| Tel: | 8511 1851 (Nick)  |
+| Tel: | 8404 7323  |
 | Email: | [sales@wltransportservices.com](mailto:sales@wltransportservices.com) |
 | | | 
 
