@@ -99,14 +99,16 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 | Email: | [sales@wltransportservices.com](mailto:sales@wltransportservices.com) |
 | | | 
 
- Click [here](go.gov.sg/2024schbus)&nbsp;to download School Bus Registration Form. <br>
+[Click here](go.gov.sg/2024schbus)&nbsp;to download School Bus Registration Form. <br>
 [Click here](/files/Useful%20Links/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf)&nbsp;to read Terms &amp; Conditions Governing The Requests For Services
 
 **Daily School Bus Service**
-![](/images/2023_SCHOOL%20BUS%201.png)
-<br>
+![For Year 2024](/images/School%20Information/Bus_service_rates_for_2024.PNG)
+
+
+![For Year 2025](/images/School%20Information/Bus_service_rates_for_2025.PNG)
 **Bus Services for after school activities (i.e. sending students home from school after supplementary lessons /enrichment programmes and Co-Curricular Activities)**
-![](/images/2023_SCHOOL%20BUS%202.png)
+
 
 
 ### Student Care Services
