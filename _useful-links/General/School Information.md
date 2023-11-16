@@ -108,7 +108,7 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 
 ![For Year 2025](/images/School%20Information/Bus_service_rates_for_2025.PNG)
 **Bus Services for after school activities (i.e. sending students home from school after supplementary lessons /enrichment programmes and Co-Curricular Activities)**
-
+![CCA Bus fares](/images/2024_school%20bus%202.png)
 
 
 ### Student Care Services
