@@ -21,6 +21,6 @@ Mdm Saraswathi Velayudham (OIC) <br>
 Mdm Lallitha <br>
 Ms Shantiny
 
-![Indian Dance CCA](/images/Indian%20Dance%20CCA/indian%20dance%201.jpg)
+![Indian dance ](/images/Indian%20Dance%20CCA/1.jpg)
 ![Indian dance CCA](/images/Indian%20Dance%20CCA/indian%20dance%202.png)
 ![Indian Dance CCA](/images/Indian%20Dance%20CCA/indian%20dance%203.png)
