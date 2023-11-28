@@ -17,5 +17,4 @@ Click on the links below to download the respective book list for each level.
 * [Primary 6 Standard](/files/p6%20booklist%202024.pdf)
 <br>
 
-
-* [School Uniform](/files/My%20Uniform%20Shop%20ASIA%20Pte%20Ltd%20-%20Wellington%20Primary%20School%202022%20Updated%2029%20Nov%202021.pdf)
+ 
