@@ -81,6 +81,9 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 | Website: | www.myuniformshop.com.sg |
 | Address: | Blk 209 New Upper Changi Road, #03-651 Singapore 460209 |
 | Email: | myuniformshopasia@gmail.com |
+| School Uniform Measurement Guide: | [Measurement Guide](/files/School%20uniform%20/School_Uniform_Measurement_Guide_MY_UNIFORM_SHOP__ASIA__PTE__LTD_.pdf) |
+| School Uniform Size Chart: | [Size Chart](/files/School%20uniform%20/School_Uniform_Size_Chart_MY_UNIFORM_SHOP__ASIA__PTE__LTD_.pdf)|
+|School Uniform Price List: | [Price List](/files/School%20uniform%20/School_Uniform_Price_List.pdf) |
 
 
 ### School Dental Clinic
@@ -99,8 +102,11 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 | Email: | [sales@wltransportservices.com](mailto:sales@wltransportservices.com) |
 | | | 
 
-[Click here](go.gov.sg/2024schbus)&nbsp;to access the booking form. <br>
-[Click here](/files/Useful%20Links/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf)&nbsp;to read Terms &amp; Conditions Governing The Requests For Services
+**Booking Form**	
+<br>[Click here](go.gov.sg/2024schbus) to access the booking form<br>
+
+**Terms &amp; Conditions**
+<br>[Click here](/files/Useful%20Links/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf)&nbsp;to read Terms &amp; Conditions Governing The Requests For Services<br>
 
 **Daily School Bus Service**
 ![For Year 2024](/images/School%20Information/Bus_service_rates_for_2024.PNG)
