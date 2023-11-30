@@ -123,7 +123,7 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 |---|---|
 | Tel: | 9648 6188 |
 | Working hours: | Monday to Friday - 12pm to 7pm |
-| Email: | [wellington\_scc@singaporeedusmart.com.sg](mailto:wellington_scc@singaporeedusmart.com.sg)
+| Email: | [wellington\_sccops@singaporeedusmart.edu.sg](mailto:wellington_sccops@singaporeedusmart.edu.sg)
 | Website | https://singaporeedusmart.com.sg/ |
 | | 
 
