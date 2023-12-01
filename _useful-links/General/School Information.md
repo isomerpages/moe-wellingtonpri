@@ -82,7 +82,7 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 | Address: | Blk 209 New Upper Changi Road, #03-651 Singapore 460209 |
 | Email: | myuniformshopasia@gmail.com |
 | School Uniform Measurement Guide: | [Measurement Guide](/files/School%20uniform%20/School_Uniform_Measurement_Guide_MY_UNIFORM_SHOP__ASIA__PTE__LTD_.pdf) |
-| School Uniform Size Chart: | [Size Chart](/files/School%20uniform%20/School_Uniform_Size_Chart_MY_UNIFORM_SHOP__ASIA__PTE__LTD_.pdf)|
+| School Uniform Size Chart: | [Size Chart](/files/School%20uniform%20/School_Uniform_Size_Chart.pdf) |
 |School Uniform Price List: | [Price List](/files/School%20uniform%20/School_Uniform_Price_List.pdf) |
 
 
