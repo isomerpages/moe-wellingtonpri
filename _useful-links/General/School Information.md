@@ -103,7 +103,7 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 | | | 
 
 **Booking Form**	
-<br>[Click here](go.gov.sg/2024schbus) to access the booking form<br>
+<br> [Click here](/files/School%20Bus%20Info/School_Bus_Booking_Form_2024.pdf) to access the booking form<br>
 
 **Terms &amp; Conditions**
 <br>[Click here](/files/Useful%20Links/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf)&nbsp;to read Terms &amp; Conditions Governing The Requests For Services<br>
