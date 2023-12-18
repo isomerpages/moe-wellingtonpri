@@ -3,20 +3,25 @@ title: Primary 3 Teachers
 permalink: /about-us/our-people/our-educators/form-teachers/primary-3-teachers/
 description: ""
 third_nav_title: Form Teachers
+variant: markdown
 ---
 | Class |  Name |  Email Address |
 |---|---|---|
-| 3A | Mdm Sabeela | sabeela_saadah_mohamad_azni@moe.edu.sg |
-| 3A | Mr Loh (Caymon) | loh_ca-mon_cayman@moe.edu.sg |
-| 3B | Mr Wong (Kian Kei) | wong_kian_kei@moe.edu.sg |
-| 3B | Ms Bavani  | bavani_nadarajah@moe.edu.sg |
-| 3C | Ms Shantiny  | shantiny_ulaganathan@moe.edu.sg |
-| 3C | Ms Loy (Hui Ming) | loy_hui_ming@moe.edu.sg |
-| 3D | Mrs Tay (Karen Ten)  | karen_ten_wai_yun@moe.edu.sg |
-| 3D | Mr Huang | huang_junhao_joshua@moe.edu.sg |
-| 3E | Ms Woo (Fannie) | woo_seow_fan_fannie@moe.edu.sg |
-| 3E | Mr Mark      | mark_eric_nadhan@moe.edu.sg |
-| 3F | Ms Goh Jing Yi   | goh_jing_yi@schools.gov.sg  |
-| 3F | Ms Celine Chong | celine_chong_xue_ying@moe.edu.sg |
-| 3F | Ms Selvakumari | n_selvakumari@moe.edu.sg |
+| 3A | Mr Abdul Hakim |	abdul_hakim_abdul_latib@moe.edu.sg |
+| 3A | Mdm Wang Guo Hong |
+| 3A | Ms Shanu
+| 3A | Ms Liyo Chin Woon | liyo_chin_woon@moe.edu.sg |
+| 3B | Ms Sarah Ahmad	| sarah_ahmad@moe.edu.sg  |
+| 3B | Mr Airi Bin Bujang	| airi_bujang@moe.edu.sg |
+| 3C | Ms Celine Chong	| celine_chong_xue_ying@moe.edu.sg |
+| 3C | Mr Shahrin	| mohd_shahrin_khamis@moe.edu.sg |
+| 3D | Mr Tan Wee Loon |  | 
+| 3D | Ms Kuang (Lucy)	| kuang_xian_yu@moe.edu.sg | 
+| 3D | Ms Elsie Kwan	| kwan_yin_teng@moe.edu.sg |
+| 3E | Mrs Goh (Mabel) |	liau_pei_ching_mabel@moe.edu.sg 
+| 3E | Ms Shantiny |	shantiny_ulaganathan@moe.edu.sg 
+| 3E | Mr Toh (Keith) |	toh_wai_woon@moe.edu.sg 
+| 3F | Ms Maryam |	maryam_nadheera_rizdwan@moe.edu.sg 
+| 3F | Mr Chan (Jeremy) |	chan_jian_yong_jeremy@moe.edu.sg
+| 3F | Ms Fadilah	| fadilah_abdul_wahid@moe.edu.sg
 | | | |

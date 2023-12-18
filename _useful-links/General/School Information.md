@@ -7,8 +7,8 @@ variant: markdown
 ---
 | Day | Time |
 |---|---|
-| Monday to Wednesday and Friday | 7.30 am to 2.00 pm |
-| Thursday | 7.30 am to 2.30 pm |
+| Monday, Tuesday, Thursday and Friday | 7.30 am to 2.00 pm |
+| Wednesday | 7.30 am to 2.30 pm |
 | | |
 
 All P3 to P6 students are required to wear school tie / scarf on every&nbsp;**Monday**.
