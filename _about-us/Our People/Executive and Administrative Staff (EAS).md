@@ -22,7 +22,7 @@ variant: markdown
 |  | Mdm Sahemah Yusope |  
 | **School Lab Technician** | Ms Santhi |  
 | **ICT Manager** | Mdm Kavery |
-| **Desktop Engineer** | Mr Dinesh |    
+| **Desktop Engineer** | Mr Ryan |    
 | **ICT Trainer** | Mdm Rita |  
 | **Librarian** | Mdm Siti Nurzulaiha |  
 | **Dental Therapist** | Mdm Ang Yoke Hoo |  
