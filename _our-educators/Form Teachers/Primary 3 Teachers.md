@@ -17,9 +17,11 @@ variant: markdown
 | 3C | Mr Shahrin	| mohd_shahrin_khamis@moe.edu.sg |
 | 3D | Mr Tan Wee Loon |  | 
 | 3D | Ms Kuang (Lucy)	| kuang_xian_yu@moe.edu.sg | 
-| 3E | Ms Elsie Kwan	| kwan_yin_teng@moe.edu.sg |
+| 3D | Ms Elsie Kwan	| kwan_yin_teng@moe.edu.sg |
 | 3E | Mrs Goh (Mabel) |	liau_pei_ching_mabel@moe.edu.sg 
-| 3F | Ms Shantiny |	shantiny_ulaganathan@moe.edu.sg 
-| 3F | Mr Toh (Keith) |	toh_wai_woon@moe.edu.sg 
+| 3E | Ms Shantiny |	shantiny_ulaganathan@moe.edu.sg 
+| 3E | Mr Toh (Keith) |	toh_wai_woon@moe.edu.sg 
 | 3F | Ms Maryam |	maryam_nadheera_rizdwan@moe.edu.sg 
+| 3F | Mr Chan (Jeremy) |	chan_jian_yong_jeremy@moe.edu.sg
+| 3F | Ms Fadilah	| fadilah_abdul_wahid@moe.edu.sg
 | | | |
