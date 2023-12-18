@@ -3,6 +3,7 @@ title: Management Team
 permalink: /about-us/our-people/management-team/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ##### School Leaders
 
@@ -18,7 +19,6 @@ third_nav_title: Our People
 
 | | | |
 |---|---|---|
-| Centre Head  |  Ms Latifah Abdullah |  latifah_abdullah@schools.gov.sg |
 |  Deputy Centre Head  |  Mdm Uva Jothi d/o G. Divagaran |  uva_jothi_g_divagaran@schools.gov.sg |
 |  Level Head  |  Mdm Zhang Xiaowen  |  zhang_xiaowen_a@schools.gov.sg  |
 | | |
@@ -37,13 +37,13 @@ third_nav_title: Our People
 | Year Head Upper Primary | Mrs Claira Aw | claira_tan_chay_lan@moe.edu.sg |
 | Year Head Middle Primary | Ms Elsie Kwan | kwan_yin_teng@moe.edu.sg |
 | Year Head Lower Primary | Mr Kwan Hoi Leong | kwan_hoi_leong@moe.edu.sg |
-| Subject Head Chinese Language | Mrs Eileen Lam | lim_eileen@moe.edu.sg |
-| Subject Head CCE | Ms Karen Koek | koek_karen_jude@moe.edu.sg |
 | Subject Head Aesthetics | Mrs Michelle Soh | michelle_wong_fei_fun@moe.edu.sg |
 | Subject Head NESS | Mdm Siti Faradina | siti_faradina_isa@moe.edu.sg |
 | Subject Head ICT Systems | Mdm Lee Wee Fong | lee_wee_fong@moe.edu.sg |
 | Subject Head Student Management | Mr Thomas Ho | ho_wei_heong@moe.edu.sg  |
 | Subject Head Assessment | Ms Loy Hui Ming  | loy_hui_ming@moe.edu.sg  |
+| Subject Head VIA | Mdm Parameshwari | parameshwari_selvaraja@moe.edu.sg |
+| Subject Head ICT | Mdm Seri | seri_rahayu@moe.edu.sg |
 | Level Head English Language | Mr Tan King Yang | tan_king_yang@moe.edu.sg |
 | Level Head English Language | Ms Anastassia | nur_anastassia_fadzali@moe.edu.sg  |
 | Level Head Mathematics | Mr Khaarthik  | khaarthik_jaya_balan@moe.edu.sg  |
@@ -55,4 +55,5 @@ third_nav_title: Our People
 | Senior Teacher (Science) | Mrs Susie Lee | phua_susie@moe.edu.sg |
 | Administration Manager  | Ms Ng Woan Ling  | ng_woan_ling@moe.edu.sg  |
 | Operations Manager  | Mr Kenny Chua  | kenny_chua_bee_kim@moe.edu.sg  |
-| | |
+| ICT Manager | Mdm Kavery | sivalingam_kavery@moe.edu.sg |
+| | | |
