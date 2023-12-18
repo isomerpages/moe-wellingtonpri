@@ -3,6 +3,7 @@ title: Executive and Administrative Staff (EAS)
 permalink: /about-us/our-people/executive-and-administrative-staff-eas/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 | | |
 |---|---|
@@ -20,8 +21,7 @@ third_nav_title: Our People
 |  | Mdm S Vijaya Letchime |  
 |  | Mdm Sahemah Yusope |  
 | **School Lab Technician** | Ms Santhi |  
-| **ICT Manager** | Mr Rasis |
-|**ICT Manager** | Mdm Kavery |
+| **ICT Manager** | Mdm Kavery |
 | **Desktop Engineer** | Mr Dinesh |    
 | **ICT Trainer** | Mdm Rita |  
 | **Librarian** | Mdm Siti Nurzulaiha |  
