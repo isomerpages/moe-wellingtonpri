@@ -25,9 +25,9 @@ All students should report to school by 7:30am to attend the flag-raising ceremo
 
 The below gates will be opened for dismissal during the usual dismissal timings. The staggered dismissal timings are stated below.
 
-_\*updated 4 May 2022_
+ 
 
-![](/images/DISMISSAL%20TIME.png)
+ 
 
 **Closure of Gate B during Wet Weather** <br>
 Parents/Guardians who are picking up your children at Gate B; please proceed to Gate D when&nbsp;it rains. Gate D is connected via a sheltered link-way to Blk 501D Wellington Circle. This&nbsp;arrangement is to ensure the safety and well-being of Wellingtonians.
