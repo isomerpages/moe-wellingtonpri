@@ -24,7 +24,7 @@ All students should report to school by 7:30am to attend the flag-raising ceremo
 1) During Normal Dismissal Time  
 
 The below gates will be opened for dismissal during the usual dismissal timings. The staggered dismissal timings are stated below.
-
+![](/images/School%20Information/School_gate_dismissal_time_2024.png)
  
  
 
