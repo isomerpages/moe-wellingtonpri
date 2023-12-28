@@ -25,7 +25,8 @@ variant: markdown
 | **Desktop Engineer** | Mr Ryan |    
 | **ICT Trainer** | Mdm Rita |  
 | **Librarian** | Mdm Siti Nurzulaiha |  
-| **Dental Therapist** | Mdm Ang Yoke Hoo |  
+| **Dental Therapist** | Ms Nur Adillah Soffian   |  
 | **Security Officers** | Mr Syaiful |  
 |  | Mr Mohamed Sani |  
+|  | Mr Subramaniam |
 |  |  |
