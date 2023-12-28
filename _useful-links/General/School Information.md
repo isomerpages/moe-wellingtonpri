@@ -25,6 +25,7 @@ All students should report to school by 7:30am to attend the flag-raising ceremo
 
 The below gates will be opened for dismissal during the usual dismissal timings. The staggered dismissal timings are stated below.
 
+![](/images/School%20Information/School_gate_dismissal_time_2024.png)
  
 
  
@@ -33,7 +34,7 @@ The below gates will be opened for dismissal during the usual dismissal timings.
 Parents/Guardians who are picking up your children at Gate B; please proceed to Gate D when&nbsp;it rains. Gate D is connected via a sheltered link-way to Blk 501D Wellington Circle. This&nbsp;arrangement is to ensure the safety and well-being of Wellingtonians.
 
 **Closure of Vehicular Gates 1 and 2** <br>
-To facilitate the movement of school buses and the safe dismissal of our students, vehicles will&nbsp;not be allowed to drive in and out between 2.00pm to 2.30pm on Mon, Tue, Wed and Fri, and&nbsp;between 2.30pm to 3.00pm on Thursday.
+To facilitate the movement of school buses and the safe dismissal of our students, vehicles will&nbsp;not be allowed to drive in and out between 2.00pm to 2.30pm on Mon, Tue, Thu and Fri, and&nbsp;between 2.30pm to 3.00pm on Wednesday.
 
 2)&nbsp;Dismissal after Supplementary, Stretch, Support Programme, CCA and Enrichment&nbsp;Programme
 
