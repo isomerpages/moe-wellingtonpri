@@ -9,7 +9,7 @@ variant: markdown
 |---|---|---|
 | 5A | Mr Kwan Hoi Leong | kwan_hoi_leong@moe.edu.sg   |
 | 5A | Ms Yew (Ci Hui)	| yew_ci_hui@moe.edu.sg  |
-| 5A | Mrs Phebe Kumar |  |
+| 5A | Mrs Phebe Kumar |ashok_kumar_phebe@moe.edu.sg |
 | 5B | Mdm Nooraihan	| nooraihan_mohamed_ali@moe.edu.sg  |
 | 5B | Mr Ho (Thomas) |	ho_wei_heong@moe.edu.sg  |
 | 5B | Ms Lata Menon |	lata_krishnan@moe.edu.sg  |
