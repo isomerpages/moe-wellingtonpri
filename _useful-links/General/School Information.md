@@ -133,4 +133,4 @@ Co-curricular activities (CCA) and Programme for Active Learning (PAL) lessons w
 At Wellington Primary School, we believe in cultivating healthy eating habit and lifestyle from a young age in order to create a positive lifetime impact on our children’s health. The school is proud to partner the Health Promotion Board (HPB) in introducing the&nbsp;[Healthy Meals in Schools Programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)&nbsp;as one of the pioneer schools in 2011. We work closely with the canteen vendors to ensure their adherence to a set of HPB guidelines to bring wholesome meals and healthy snacks that provide optimum nutrition to our students.  
 
   
-[Click here](/files/Useful%20Links/Canteen%20menu%20website_03%20Jan%2023.pdf) to view the stall menu.
+  to view the stall menu.
