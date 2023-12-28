@@ -2,6 +2,7 @@
 title: CoCurricular Activities (CCA)
 permalink: /our-departments-and-cca/cca/
 description: ""
+variant: markdown
 ---
 CCAs are offered in the school to emphasise on ‘Building Character’ in every student. Character traits like resilience, tenacity, confidence, perseverance, responsibility, teamwork, sportsmanship and respect are best acquired outside the classroom. Every student can explore interests, discover talents and recognise potential through the CCAs. These attributes prepare him /her to inculcate life skills beyond school.
 
@@ -26,7 +27,7 @@ In addition, participation in a CCA fosters social integration and deepens their
 | [Chinese Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/chinese-dance) | Mdm Zhang Yuanying |
 | [Choir Ensemble](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/choir-ensemble) | Ms Goh Jing Yi |
 | [Pop and Jazz](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/pop-and-jazz) | Ms Fadilah Abdul Wahid |
-| [Modern Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/modern-dance) | Ms Wendy Tan |
+| [Modern Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/modern-dance) | Ms Kumari |
 | [Guzheng Ensemble](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/guzheng-ensemble) | Mrs Selena Lai |
 | [Indian Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/indian-dance) | Mdm Saraswathi |
 | [Malay Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/malay-dance) | Mdm Seri |
@@ -38,7 +39,7 @@ In addition, participation in a CCA fosters social integration and deepens their
 |---|---|
 | [Badminton Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/badminton-club) | Mr Joshua Huang |
 | [Football Club (Boys/Girls)](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/football-club) | Mr Shahrin / Ms Sim Chin Mei  |
-| [Table Tennis](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/table-tennis) | Mr Keith Ng |
+| [Table Tennis](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/table-tennis) | Mr Patrick Kong|
 | [Volleyball (Girls)](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/volleyball) | Mdm Wang Guohong  |
 | [Wushu](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/wushu) | Mdm Gu Yao |
 | | |
@@ -54,11 +55,11 @@ In addition, participation in a CCA fosters social integration and deepens their
 
 | Name of CCA | CCA Coordinators |
 |---|---|
-| [Drama &amp; Debating Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/drama-and-debating-club) | Mr Ren Wei Chen |
-| [Environmental Science Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/environmental-science-club) | Ms Lim Wei San |
-| [Infocomm Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/infocomm-club) | Mr Lim Joo Ghee |
-| [Art and Crafts Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/art-and-crafts-club) | Ms Ong Xi Jun |
-| [Chinese Cultural Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/chinese-cultural-club) | |
+| [Drama &amp; Debating Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/drama-and-debating-club) | Mdm Nooraihan |
+| [Environmental Science Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/environmental-science-club) | Mdm Zulaiha |
+| [Infocomm Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/infocomm-club) | Mdm Wee Fong|
+| [Art and Crafts Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/art-and-crafts-club) | Mrs Ang Xi Jun |
+| [Chinese Cultural Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/chinese-cultural-club) | Ms Yew Ci Hui|
 | | | 
 
 ### Programme for Active Learning
