@@ -31,5 +31,6 @@ Thank you.
 
 [**https://www.income.com.sg/studentgpa**](https://www.income.com.sg/studentgpa)
 	
-Product Fact Sheet Year 2024
+
+[Product Fact Sheet Year 2024](/files/Useful%20Links/Product_Fact_Sheet_Year_2024.pdf)
 	</b>
