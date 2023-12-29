@@ -23,11 +23,11 @@ Thank you.
 
 **Web Link**
 
-Online claim portal<b>
+**Online claim portal**<b>
 	
 [**https://studentgpa.incomegroupins.com.sg**](https://studentgpa.incomegroupins.com.sg/)
 
-Income’s website<br>
+**Income’s website** 
 
 [**https://www.income.com.sg/studentgpa**](https://www.income.com.sg/studentgpa)
 	
