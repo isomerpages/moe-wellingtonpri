@@ -15,7 +15,7 @@ All P3 to P6 students are required to wear school tie / scarf on every&nbsp;**Mo
 
 CCA Day is on Friday.
 
-All students should report to school by 7:30am to attend the flag-raising ceremony. Students will be considered late if they report after 7:30am. Formal lessons will start at 7:45am. All Primary 1 parents who are picking up their children on the first and second days of school are requested to arrive at the designated waiting areas 15 mins before dismissal.
+All students should report to school by 7:30am to attend the flag-raising ceremony. Students will be considered late if they report after 7:30am. 
 <br>
 
 --------
