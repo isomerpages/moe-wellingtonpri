@@ -3,31 +3,6 @@ title: Group Personal Accident Insurance for Students
 permalink: /useful-links/for-parents/group-personal-accident-insurance-for-students/
 description: ""
 third_nav_title: For Parents
-variant: markdown
+variant: tiptap
 ---
-Dear Parents/Guardians
-
-The Ministry of Education (MOE) has established a contract for Group Personal Accident (GPA) Insurance for Students.
-
-This contract is awarded to Income Insurance Limited (Income Insurance). It covers death, permanent and total/partial disability and medical due to an accident. Details on the insurance coverage can be found in the attached factsheet.
-
-Parents are to pay for medical treatment upfront, before submitting claims electronically. You may also check the claim status through the online claims portal.
-
-Please note the applicable limits and coverage for medical expenses. Ineligible expenses or expenses in excess of the limits will be borne by the parents/guardian.
-
-All claims should be submitted as soon as possible subject to a cap of 365 days from the date of accident.
-
-Information on claims and other details pertaining to the GPA Insurance Plan for Students can also be found at the below weblink.
-
-Thank you.
-
-**Web Link**
-
-Online claim portal<br>
-	https://studentgpa.incomegroupins.com.sg/ 
-
-Income’s website<br>
-https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students
-
-[Product Fact Sheet Year 2024](/files/Useful%20Links/Product_Fact_Sheet_Year_2024.pdf)
-	
+<p>Dear Parents/Guardians</p><p>The Ministry of Education (MOE) has established a contract for Group Personal Accident (GPA) Insurance for Students.</p><p>This contract is awarded to Income Insurance Limited (Income Insurance). It covers death, permanent and total/partial disability and medical due to an accident. Details on the insurance coverage can be found in the attached factsheet.</p><p>Parents are to pay for medical treatment upfront, before submitting claims electronically. You may also check the claim status through the online claims portal.</p><p>Please note the applicable limits and coverage for medical expenses. Ineligible expenses or expenses in excess of the limits will be borne by the parents/guardian.</p><p>All claims should be submitted as soon as possible subject to a cap of 365 days from the date of accident.</p><p>Information on claims and other details pertaining to the GPA Insurance Plan for Students can also be found at the below weblink.</p><p>Thank you.</p><p><strong>Web Link</strong></p><p>Online claim portal<br>https://studentgpa.incomegroupins.com.sg/</p><p>Income’s website<br>https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students</p><p><a href="/files/Useful%20Links/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet Year 2024</a></p>
