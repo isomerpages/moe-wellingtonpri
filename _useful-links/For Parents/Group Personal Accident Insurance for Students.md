@@ -23,14 +23,11 @@ Thank you.
 
 **Web Link**
 
-**Online claim portal**<b>
-	
-[**https://studentgpa.incomegroupins.com.sg**](https://studentgpa.incomegroupins.com.sg/)
+Online claim portal<br>
+	https://studentgpa.incomegroupins.com.sg/ 
 
-**Income’s website** 
-
-[**https://www.income.com.sg/studentgpa**](https://www.income.com.sg/studentgpa)
-	
+Income’s website<br>
+https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students
 
 [Product Fact Sheet Year 2024](/files/Useful%20Links/Product_Fact_Sheet_Year_2024.pdf)
-	</b>
+	
