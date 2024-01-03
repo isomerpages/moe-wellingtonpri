@@ -16,7 +16,7 @@ variant: markdown
 | 1D | Ms Kavitha | kavitha_karunanithi@moe.edu.sg |
 | 1D | Mdm Zhang(Yuan Ying) | zhang_yuanying@moe.edu.sg  |
 | 1E | Ms Ashikin | nur_ashikin_abdul_aziz@moe.edu.sg  |
-| 1E | Ms Goh Jing Yi  | goh_jing_yi@schools.gov.sg  |
+| 1E | Ms Goh Jing Yi  | goh_jing_yi@moe.edu.sg  |
 | 1F | Mrs Ramesh (Meera)  | meera_devi@moe.edu.sg  |
 | 1F | Mrs Michelle Soh | michelle_wong_fei_fun@moe.edu.sg |
 | 1G | Mr Hong Yew Meng	| hong_yew_meng@moe.edu.sg  |
