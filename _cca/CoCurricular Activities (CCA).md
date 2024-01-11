@@ -26,20 +26,20 @@ In addition, participation in a CCA fosters social integration and deepens their
 |---|---|
 | [Chinese Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/chinese-dance) | Mdm Zhang Yuanying |
 | [Choir Ensemble](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/choir-ensemble) | Ms Goh Jing Yi |
-| [Pop and Jazz](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/pop-and-jazz) | Ms Fadilah Abdul Wahid |
+| [Pop and Jazz](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/pop-and-jazz) | Ms  Kavitha |
 | [Modern Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/modern-dance) | Ms Kumari |
-| [Guzheng Ensemble](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/guzheng-ensemble) | Mrs Selena Lai |
-| [Indian Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/indian-dance) | Mdm Saraswathi |
-| [Malay Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/malay-dance) | Mdm Seri |
+| [Guzheng Ensemble](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/guzheng-ensemble) | Ms Selena Ng |
+| [Indian Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/indian-dance) | Mdm Saraswathi Velayudham|
+| [Malay Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/malay-dance) | Mdm Seri Rehayu|
 | | |
 
 ### Sports Club
 
 | Name of CCA | CCA Coordinators |
 |---|---|
-| [Badminton Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/badminton-club) | Mr Joshua Huang |
-| [Football Club (Boys/Girls)](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/football-club) | Mr Shahrin / Ms Sim Chin Mei  |
-| [Table Tennis](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/table-tennis) | Mr Patrick Kong|
+| [Badminton Club(Boys and Girls)](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/badminton-club) | Mr Joshua Huang |
+| [Football Club (Boys/Girls)](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/football-club) | Mr Mohd Shahrin Khamis(Boys)  / Ms Sim Chin Mei(Girls)  |
+| [Table Tennis(Boys and Girls) ](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/table-tennis) | Mr Patrick Kong|
 | [Volleyball (Girls)](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/volleyball) | Mdm Wang Guohong  |
 | [Wushu](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/wushu) | Mdm Gu Yao |
 | | |
@@ -57,7 +57,7 @@ In addition, participation in a CCA fosters social integration and deepens their
 |---|---|
 | [Drama &amp; Debating Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/drama-and-debating-club) | Mdm Nooraihan |
 | [Environmental Science Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/environmental-science-club) | Mdm Zulaiha |
-| [Infocomm Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/infocomm-club) | Mdm Wee Fong|
+| [Infocomm Technology Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/infocomm-club) | Mdm Lee Wee Fong|
 | [Art and Crafts Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/art-and-crafts-club) | Mrs Ang Xi Jun |
 | [Chinese Cultural Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/chinese-cultural-club) | Ms Yew Ci Hui|
 | | | 
