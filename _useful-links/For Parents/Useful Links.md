@@ -3,6 +3,7 @@ title: Useful Links
 permalink: /useful-links/for-parents/useful-links/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 **Useful Links**
 * [Official WTP Facebook](https://www.facebook.com/wellingtonprisg)
