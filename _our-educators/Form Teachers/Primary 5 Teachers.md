@@ -12,7 +12,7 @@ variant: markdown
 | 5A | Mrs Phebe Kumar |ashok_kumar_phebe@moe.edu.sg |
 | 5B | Mdm Nooraihan	| nooraihan_mohamed_ali@moe.edu.sg  |
 | 5B | Mr Ho (Thomas) |	ho_wei_heong@moe.edu.sg  |
-| 5B | Ms Lata Menon |	lata_krishnan@moe.edu.sg  |
+| 5C | Ms Lata Menon |	lata_krishnan@moe.edu.sg  |
 | 5C | Ms Anastassia |	nur_anastassia_fadzali@moe.edu.sg  |
 | 5D | Ms Wendy Au	| wendy_au_may_lee@moe.edu.sg  |
 | 5D | Ms Selena Ng	| ng_ailin_selena@moe.edu.sg|
