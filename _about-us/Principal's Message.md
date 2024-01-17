@@ -2,23 +2,31 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
-Masks are no longer required on public transport from Feb 13, 2023; lifting almost all of our remaining Covid-19 restrictions. Then, we spoke about building the resiliency of our children. Throughout the pandemic, they had to face decreased structure, increased educational barriers, and many disruptions to their everyday activities and lives. Behavioral changes needed to be fast when the pandemic began, such as social distancing, masking all-day and isolation from others.
+As we embark on the journey of 2024, I am excited to share some key insights from the 2023 Workplan Seminar where Minister outlined transformative shifts in the Future of Learning. To prepare our students sufficiently for the future, these measures were announced :
 
-The easing of Safe Management Measures (SMMs) has brought back almost all normality to student life in our schools even before this latest announcement, but we are cautioned that we cannot rule out the future possibility of dangerous variants of concern emerging. The probability of experiencing another pandemic similar to COVID-19 in one’s lifetime is also possible, if not probable.
+i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enhance 21st Century Competencies (21CC) to strengthen students' competencies and dispositions to thrive in school and in the future;
 
-When lockdowns began in early 2020, few of us imagined the long road ahead. As the world moves toward normalcy, challenges will continue to arise and for the foreseeable near term, revolves around the pandemic’s knock-on effects. Inflation, possible recession in some countries, a greater acceptance for flexibility in the workplace, the accessibility and necessity of remote work and issues of mental health and well-being becoming more prevalent.
+ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Harness technology as a capability multiplier to enhance and customise students' learning experiences; and
 
-As we transition to endemicity with Covid-19, we ought to learn lessons from it. The crisis has given us many ongoing lessons. We must continue to practice personal and social responsibility in terms of monitoring our health and maintaining hygiene practices. We must also be able to respond nimbly as a community when called upon in times of emergency. It is important that we prepare our children with skills that will make them more resilient and future-ready.
+iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enrich learning experiences through refreshed school environments and partnerships.
 
-One way to do this is to build our children’s uncertainty tolerance. As Minister Chan said, “If we truly believe in nurturing resilience and building confidence in our young people to face an uncertain and untidy world, we must also be careful to not over-structure, over-provide, or over-protect our younger generation, which would deprive them of the opportunities to grow and learn.”
+These shifts reflect a collective commitment to preparing our students for the challenges and opportunities that lie ahead. The Future of Learning is evolving, and as educators, we are dedicated to staying at the forefront of these changes.
 
-Sometimes in trying to create the safest path for students, we leave them with no room to exercise their creativity and decision-making skills. Uncertainty can be stressful and challenging, but it is also an opportunity for growth and development. Let us not be so quick to provide answers for our children - let them learn to be more self-directed and resourceful in trying to solve their own problems. A study done by Yale neuroscientists found that uncertainty can be healthy for your brain because you learn more in situations that are unsure.  
+For our young learners at Wellington Primary School, inventive thinking becomes a guiding principle. It goes beyond problem-solving; it encourages creativity, curiosity, and the exploration of diverse perspectives. We strive to ensure that our classrooms will be spaces where imagination is nurtured, questions are celebrated, and every child is empowered to express their unique thoughts.
 
-We want the students to respond to ambiguity and adapt to change with resilience and grace. In situations beyond their control, their mindset during uncertain times is the most powerful thing they can control. Resilient students interpret academic and social challenges positively by increasing effort, developing new strategies, and practicing conflict resolution. With such positive mindsets towards uncertainty, they are more likely to become more successful at work in the future.
+Inventive thinking is not only about finding solutions but also about asking the right questions. We encourage our students to embrace uncertainty and see it as an opportunity for growth. &nbsp;As I emphasized last year, it is important that we prepare our students to navigate an increasingly uncertain and untidy world, and inventive thinking is a powerful tool in achieving this goal.
 
-I take this opportunity to wish all Wellingtonians, friends and stakeholders of Wellington Primary School, a happy and successful 2023.
+To protect our students from the mental health risks from the use of technology and social media, the school will enhance students' cyber wellness by instilling healthy digital habits through the Character and Citizenship Education curriculum as well as Wellington’s own bespoke CyberWellness curriculum.
 
+We understand that primary school lays the foundation for a lifetime of learning. By embracing these shifts, we aim to create an environment where our students develop a love for learning, build resilience in the face of challenges, and cultivate the inventive thinking skills that will serve them well in their educational journey and beyond.
 
-Albert Alcantara <br>
-Principal
+As we embark on this exciting educational adventure in 2024, let us celebrate the potential for growth and discovery that these shifts bring. Our aim is to foster an environment where students feel inspired to explore, innovate, and discover their unique capabilities.
+
+Sincerely,<br>
+Albert Alfred Alcantara<br>
+Principal<br>
+Wellington Primary School
+
+ 
