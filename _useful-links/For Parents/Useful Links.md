@@ -25,7 +25,7 @@ variant: markdown
 
 [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login) <br>
 [Request for SLS Password Reset](https://docs.google.com/forms/d/e/1FAIpQLSfiwrDGu9lZyUEzZzUhKfAvamcoTMYJ-f_SvRiFZNAUZfiNbQ/viewform) <br>
-[Student Learning Space Frequently Asked Questions](https://moe-wellingtonpri-staging.netlify.app/useful-links/for-students/student-learning-space) <br>
+[Student Learning Space Frequently Asked Questions](/useful-links/for-students/student-learning-space) <br>
 [SLS Troubleshooting Guide](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
 
 --------------
