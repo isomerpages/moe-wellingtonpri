@@ -6,7 +6,7 @@ third_nav_title: For Students
 ---
 ### Useful Links
 
-[School Rules](https://moe-wellingtonpri-staging.netlify.app/useful-links/general/school-rules) <br>
+[School Rules](/useful-links/general/school-rules) <br>
 [Student Learning Space Login](https://vle.learning.moe.edu.sg/login) <br>
 [KooBits](https://member.koobits.com/) <br>
 [myON](https://www.myon.com.sg/) <br>
