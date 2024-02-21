@@ -18,7 +18,7 @@ sections:
       subtitle: "ANNOUNCEMENT:"
       description: Click for more information below!
       button: Read more
-      url: https://moe-wellingtonpri-staging.netlify.app/announcements/announcements/improved-traffic-flow-during-school-dismissal
+      url: /announcements/announcements/improved-traffic-flow-during-school-dismissal
       image: /images/60267157_1167349620119320_1960500086400090112_n.jpg
       alt: Image alt text
   - resources:
