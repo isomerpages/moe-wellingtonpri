@@ -23,42 +23,42 @@ In addition, participation in a CCA fosters social integration and deepens their
 
 | Name of CCA | CCA Coordinators |
 |---|---|
-| [Chinese Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/chinese-dance) | Mdm Zhang Yuanying |
-| [Choir Ensemble](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/choir-ensemble) | Ms Goh Jing Yi |
-| [Pop and Jazz](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/pop-and-jazz) | Ms Fadilah Abdul Wahid |
-| [Modern Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/modern-dance) | Ms Wendy Tan |
-| [Guzheng Ensemble](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/guzheng-ensemble) | Mrs Selena Lai |
-| [Indian Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/indian-dance) | Mdm Saraswathi |
-| [Malay Dance](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/malay-dance) | Mdm Seri |
+| [Chinese Dance](/our-departments-and-cca/cca/chinese-dance) | Mdm Zhang Yuanying |
+| [Choir Ensemble](/our-departments-and-cca/cca/choir-ensemble) | Ms Goh Jing Yi |
+| [Pop and Jazz](/our-departments-and-cca/cca/pop-and-jazz) | Ms Fadilah Abdul Wahid |
+| [Modern Dance](/our-departments-and-cca/cca/modern-dance) | Ms Wendy Tan |
+| [Guzheng Ensemble](/our-departments-and-cca/cca/guzheng-ensemble) | Mrs Selena Lai |
+| [Indian Dance](/our-departments-and-cca/cca/indian-dance) | Mdm Saraswathi |
+| [Malay Dance](/our-departments-and-cca/cca/malay-dance) | Mdm Seri |
 | | |
 
 ### Sports Club
 
 | Name of CCA | CCA Coordinators |
 |---|---|
-| [Badminton Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/badminton-club) | Mr Joshua Huang |
-| [Football Club (Boys/Girls)](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/football-club) | Mr Shahrin / Ms Sim Chin Mei  |
-| [Table Tennis](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/table-tennis) | Mr Keith Ng |
-| [Volleyball (Girls)](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/volleyball) | Mdm Wang Guohong  |
-| [Wushu](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/wushu) | Mdm Gu Yao |
+| [Badminton Club](/our-departments-and-cca/cca/badminton-club) | Mr Joshua Huang |
+| [Football Club (Boys/Girls)](/our-departments-and-cca/cca/football-club) | Mr Shahrin / Ms Sim Chin Mei  |
+| [Table Tennis](/our-departments-and-cca/cca/table-tennis) | Mr Keith Ng |
+| [Volleyball (Girls)](/our-departments-and-cca/cca/volleyball) | Mdm Wang Guohong  |
+| [Wushu](/our-departments-and-cca/cca/wushu) | Mdm Gu Yao |
 | | |
 
 ### Uniformed Group
 
 | Name of CCA | CCA Coordinators |
 |---|---|
-| [Scouts (Boys and Girls)](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/scouts) | Mr Paul Choey |
+| [Scouts (Boys and Girls)](/our-departments-and-cca/cca/scouts) | Mr Paul Choey |
 | | | 
 
 ### Clubs
 
 | Name of CCA | CCA Coordinators |
 |---|---|
-| [Drama & Debating Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/drama-and-debating-club) | Mr Ren Wei Chen |
-| [Environmental Science Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/environmental-science-club) | Ms Lim Wei San |
-| [Infocomm Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/infocomm-club) | Mr Lim Joo Ghee |
-| [Art and Crafts Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/art-and-crafts-club) | Ms Ong Xi Jun |
-| [Chinese Cultural Club](https://moe-wellingtonpri-staging.netlify.app/our-departments-and-cca/cca/chinese-cultural-club) | |
+| [Drama & Debating Club](/our-departments-and-cca/cca/drama-and-debating-club) | Mr Ren Wei Chen |
+| [Environmental Science Club](/our-departments-and-cca/cca/environmental-science-club) | Ms Lim Wei San |
+| [Infocomm Club](/our-departments-and-cca/cca/infocomm-club) | Mr Lim Joo Ghee |
+| [Art and Crafts Club](/our-departments-and-cca/cca/art-and-crafts-club) | Ms Ong Xi Jun |
+| [Chinese Cultural Club](/our-departments-and-cca/cca/chinese-cultural-club) | |
 | | | 
 
 ### Programme for Active Learning
