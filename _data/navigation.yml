@@ -1,0 +1,58 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    url: /about-us/about-us
+    sublinks:
+      - title: About Us
+        url: /about-us/about-us
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Mission, Vision & Values
+        url: /about-us/school-mission-vision-n-values
+      - title: School Crest
+        url: /about-us/school-crest
+      - title: School Song
+        url: /about-us/school-song
+      - title: School Partners
+        url: /about-us/school-partners
+      - title: Our People
+        url: /about-us/our-people
+      - title: School Safety Mission
+        url: /about-us/school-safety-mission
+      - title: Discipline Vision & Mission
+        url: /about-us/school-discipline-vision-n-mission
+      - title: Achievements
+        url: /about-us/achievements/our-alumni
+  - title: Key Programmes
+    collection: key-programmes
+  - title: Our Departments & CCA
+    url: /our-departments-and-cca/our-departments-and-cca
+    sublinks:
+      - title: English
+        url: /our-departments-and-cca/english
+      - title: Mathematics
+        url: /our-departments-and-cca/mathematics
+      - title: Chinese
+        url: /our-departments-and-cca/chinese
+      - title: Science
+        url: /our-departments-and-cca/science
+      - title: Malay
+        url: /our-departments-and-cca/malay
+      - title: Tamil
+        url: /our-departments-and-cca/tamil
+      - title: Physical & Health Education
+        url: /our-departments-n-cca/physical-n-health-education
+      - title: Aesthetics
+        url: /our-departments-and-cca/aesthetics
+      - title: CCE & Student Development
+        url: /our-departments-and-cca/cce-n-student-development
+      - title: Infocomm Technology (ICT)
+        url: /our-departments-and-cca/infocomm-technology-ict/
+      - title: CCA
+        url: /our-departments-and-cca/cca
+  - title: MK@WL
+    url: https://sites.google.com/moe.edu.sg/mkwl/
+  - title: E-Open House
+    url: https://sites.google.com/moe.edu.sg/wtpe-openhouse/home
+  - title: Useful Links
+    collection: useful-links

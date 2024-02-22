@@ -1,0 +1,5 @@
+collections:
+  school-events:
+    output: true
+    order:
+      - School Events.md

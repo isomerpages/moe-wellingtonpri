@@ -1,0 +1,18 @@
+collections:
+  our-educators:
+    output: true
+    order:
+      - Form Teachers/.keep
+      - Form Teachers/Form Teachers.md
+      - Form Teachers/Primary 1 Teachers.md
+      - Form Teachers/Primary 2 Teachers.md
+      - Form Teachers/Primary 3 Teachers.md
+      - Form Teachers/Primary 4 Teachers.md
+      - Form Teachers/Primary 5 Teachers.md
+      - Form Teachers/Primary 6 Teachers.md
+      - Mother Tongue Teachers/.keep
+      - Mother Tongue Teachers/Chinese Language.md
+      - Mother Tongue Teachers/Malay Language.md
+      - Mother Tongue Teachers/Tamil Language.md
+      - Non Form Teachers.md
+      - School Counsellor and Learning and Behavioural Allied Educators.md
