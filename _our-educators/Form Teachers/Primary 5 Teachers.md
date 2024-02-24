@@ -18,7 +18,8 @@ variant: markdown
 | 5D | Ms Selena Ng	| ng_ailin_selena@moe.edu.sg|
 | 5E | Mr Lim (Daniel) |	lim_phor_tien@moe.edu.sg
 | 5E | Mrs Tan (Jennifer Lee)	| lee_chin_fung@moe.edu.sg |
+| 5E | Mrs Sumathi |	sumathi_siva_kumar@moe.edu.sg |
 | 5F | Mr Idris Asmuri	| mohamad_idris_asmuri@moe.edu.sg |
 | 5F | Mr Wong (Kian Kei)	| wong_kian_kei@moe.edu.sg   |
-| 5F | Mrs Sumathi |	sumathi_siva_kumar@moe.edu.sg
+
 | | | |
