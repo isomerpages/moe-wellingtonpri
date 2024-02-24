@@ -11,7 +11,7 @@ variant: markdown
 | 6A | Mrs Chen (Bernadette)	| bernadette_choo_may_ling@moe.edu.sg  |
 | 6B | Mdm Faradina	| siti_faradina_isa@schools.gov.sg  |
 | 6B | Mr Shah | muhamad_shahzulhari_johari@moe.edu.sg   |
-| 6C | Ms Sim Chin Mei |	sim_chin_mei@moe.edu.sg  |
+| 6B | Ms Sim Chin Mei |	sim_chin_mei@moe.edu.sg  |
 | 6C | Ms Nadiah |	insan_nadiah_mohd_sukarno@moe.edu.sg  |
 | 6C | Mrs Susie Lee| phua_susie@moe.edu.sg   |
 | 6D | Mdm Zulaiha	| siti_zulaiha_saidi@moe.edu.sg   |
