@@ -23,9 +23,9 @@ variant: markdown
 | **School Lab Technician** | Ms Santhi |  
 | **ICT Manager** | Mdm Kavery |
 | **Desktop Engineer** | Mr Ryan |    
-| **ICT Trainer** | Mdm Rita |  
 | **Librarian** | Mdm Siti Nurzulaiha |  
 | **Dental Therapist** | Ms Nur Adillah Soffian   |  
+| **Dental Therapist**| Ms Theepa |
 | **Security Officers** | Mr Syaiful |  
 |  | Mr Mohamed Sani |  
 |  | Mr Subramaniam |
