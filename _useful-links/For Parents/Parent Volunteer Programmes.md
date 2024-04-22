@@ -17,8 +17,5 @@ Phase 2B is for a child<br>
 *   Whose parent is a member endorsed by the church or clan directly connected with the primary school.
 *   Whose parent is endorsed as an active community leader.
 
-Please visit [MOE website](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates?pt=2B)  for details.
-
-Application for PV Scheme for child borne between 2 Jan 2018 and 1 Jan 2019 is closed.
-
-Online application for child borne between 2 Jan 2019 and 1 Jan 2020 will be available in end April 2024.
+Please visit [MOE website](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates?pt=2B)  for details.<br>
+Registration is now open for children borne between 2 Jan 2019 and 1 Jan 2020(both dates inclusive). Please read the Wellington Primary School Parent Volunteer Scheme Terms &amp; Conditions
