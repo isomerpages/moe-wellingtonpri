@@ -2,10 +2,11 @@
 title: For Staff
 permalink: /useful-links/for-staff/
 description: ""
+variant: markdown
 ---
 **Useful Links**
 * [MOE iCon](https://icon.moe.edu.sg/)
-* [ICT Service Request Form](https://docs.google.com/a/moe.edu.sg/spreadsheet/viewform?usp=drive_web&formkey=dEN6VU5MRFB4YVNDUzNYelQwWFE5R0E6MQ#gid=0)
+* [ICT Service Request Form](https://forms.gle/Aqwb2zsMXX9d2kpx9)
 * [Parents Gateway](https://pg.moe.edu.sg/)
 * [Resource Booking System (RBS)](https://rbs.avero-tech.com/)
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
