@@ -3,6 +3,7 @@ title: Malay Language
 permalink: /about-us/our-people/our-educators/mother-tongue-teachers/malay-language/
 description: ""
 third_nav_title: Mother Tongue Teachers
+variant: markdown
 ---
 | Name |
 |---|
@@ -12,5 +13,6 @@ third_nav_title: Mother Tongue Teachers
 | Mr Shahzulhari |    
 | Mr Airi Bin Bujang |    
 |  Mdm Noor |    
-|  Mdm Faridah Jaafar |    
+|  Mdm Faridah Jaafar | 
+| Mdm Monalisa |
 | |
