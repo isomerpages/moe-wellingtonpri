@@ -3,6 +3,7 @@ title: Chinese Language
 permalink: /about-us/our-people/our-educators/mother-tongue-teachers/chinese-language/
 description: ""
 third_nav_title: Mother Tongue Teachers
+variant: markdown
 ---
 | Name |
 | --- |
@@ -11,13 +12,14 @@ third_nav_title: Mother Tongue Teachers
 | Mdm Wang Guo Hong |    
 | Mdm Zhang Yuan Ying |    
 | Mrs Claira Aw |    
-| Mr Wong Kian Kei |    
-| Mdm Tang Wan Chin |    
+| Mr Wong Kian Kei |        
 | Mr Ren Weichen |    
 | Mdm Gu Yao  |    
 | Ms Yew Ci Hui |    
 | Ms Liyo Chin Woon  |    
 | Ms Fannie Woo |    
-| Ms Kuang |    
-| Ms Sharon Heng |    
+| Ms Kuang Xianyu |    
+| Ms Sharon Heng |
+| Ms Yvonne Tung |
+|Ms June Lee |
 | |
