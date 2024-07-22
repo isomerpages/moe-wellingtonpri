@@ -28,23 +28,25 @@ variant: markdown
 | | | |
 |---|---|---|
 | HOD English Language | Mrs Anitha Aruljothi  | m_anitha@moe.edu.sg  |
-| HOD Science | Mdm Lata Menon | lata_krishnan@moe.edu.sg |
 | HOD Mother Tongue Language | Mr Wong Kian Kei | wong_kian_kei@moe.edu.sg |
 | HOD Physical Education | Mrs Bernadette Chen | bernadette_choo_may_ling@moe.edu.sg |
 | HOD CCE  | Mdm Wendy Au  | wendy_au_may_lee@moe.edu.sg  
 | HOD Infocomm Technology | Mrs Sumathi Siva Kumar | sumathi_siva_kumar@moe.edu.sg |
 | HOD Knowledge Management | Mr Keith Ng | ng_zhao-xiang@moe.edu.sg |
+| HOD SEN | Mdm Lata Menon | lata_krishnan@moe.edu.sg |
 | Year Head Upper Primary | Mrs Claira Aw | claira_tan_chay_lan@moe.edu.sg |
 | Year Head Middle Primary | Ms Elsie Kwan | kwan_yin_teng@moe.edu.sg |
 | Year Head Lower Primary | Mr Kwan Hoi Leong | kwan_hoi_leong@moe.edu.sg |
 | Subject Head Aesthetics | Mrs Michelle Soh | michelle_wong_fei_fun@moe.edu.sg |
-| Subject Head NESS | Mdm Siti Faradina | siti_faradina_isa@moe.edu.sg |
+| Subject Head NE/SS | Mdm Siti Faradina | siti_faradina_isa@moe.edu.sg |
 | Subject Head ICT Systems | Mdm Lee Wee Fong | lee_wee_fong@moe.edu.sg |
 | Subject Head Student Management | Mr Thomas Ho | ho_wei_heong@moe.edu.sg  |
 | Subject Head Assessment | Ms Loy Hui Ming  | loy_hui_ming@moe.edu.sg  |
 | Subject Head VIA | Mdm Parameshwari | parameshwari_selvaraja@moe.edu.sg |
-| Subject Head ICT | Mdm Seri | seri_rahayu@moe.edu.sg |
+| Subject Head ICT | Mdm Seri Rahayu | seri_rahayu@moe.edu.sg |
+| Subject Head L&D | Ms Fadilah | fadilah_abdul_wahid@moe.edu.sg |
 | Level Head English Language | Mr Tan King Yang | tan_king_yang@moe.edu.sg |
+| Level Head English Language | Ms Kristine Loh Chin Chin | kristine_loh_chin_chin@moe.edu.sg  |
 | Level Head English Language | Ms Anastassia | nur_anastassia_fadzali@moe.edu.sg  |
 | Level Head Mathematics | Mr Khaarthik  | khaarthik_jaya_balan@moe.edu.sg  |
 | Level Head Science | Mdm Siti Zaleha  | siti_zaleha_abdul_majid@moe.edu.sg  |
@@ -55,5 +57,5 @@ variant: markdown
 | Senior Teacher (Science) | Mrs Susie Lee | phua_susie@moe.edu.sg |
 | Administration Manager  | Ms Ng Woan Ling  | ng_woan_ling@moe.edu.sg  |
 | Operations Manager  | Mr Kenny Chua  | kenny_chua_bee_kim@moe.edu.sg  |
-| ICT Manager | Mdm Kavery | sivalingam_kavery@moe.edu.sg |
+| ICT Manager | Ms Stella Tan Kai Ling | tan_kai_ling_a@schools.gov.sg |
 | | | |
