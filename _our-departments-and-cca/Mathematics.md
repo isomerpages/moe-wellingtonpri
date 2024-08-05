@@ -2,9 +2,10 @@
 title: Mathematics
 permalink: /our-departments-and-cca/mathematics/
 description: ""
+variant: markdown
 ---
 ##### **Critical Thinkers, Creative Problem-solvers**
-##### 
+
 ##### Our Vision
 
 Every child to be a confident problem solver of Mathematics
