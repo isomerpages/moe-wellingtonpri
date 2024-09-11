@@ -2,6 +2,7 @@
 title: School Mission, Vision & Values
 permalink: /about-us/school-mission-vision-n-values/
 description: ""
+variant: markdown
 ---
 ### Mission
 To empower every individual, nurture talents and groom leaders  
@@ -13,7 +14,7 @@ Becoming an excellent institution that grows future-ready leaders
 
 -----------------
 ### School Values
-Rice is an Asian staple food. It is therefore symbolic for us to use RICE2 as the acronym for our school values. We want to digest the values everyday so that we can internalize these values through our ‘Learning by Doing, Doing until we Become’ philosophy. RICE2, which stands for Respect, Integrity, Care, Empowerment, Responsibility, Innovation, Community and Excellence, are values that apply to both our staff and students.
+Rice is an Asian staple food. It is therefore symbolic for us to use RICE2 as the acronym for our school values. We want to digest the values everyday so that we can internalize these values through our ‘Learning by Doing, Doing until we Become’ philosophy. RICE2, which stands for Respect, Integrity, Care, Excellence, Responsibility, Innovation, Community and Empowerment, are values that apply to both our staff and students.
 
 Our belief that every member should be valued also means that we should strive to respect different opinions or perspectives and uphold the basic rights of each individual. Mutual respect is the basis of every relationship between two persons.
 
