@@ -31,6 +31,5 @@ Plan for Students can also be found at the below weblink.</p>
 <p><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 <br>
 </p>
-<p><a href="/files/Useful%20Links/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet Year</a>
-<a href="/files/Useful Links/Group Policy Insurance/product_fact_sheet_year_2024_may_revised.pdf" rel="noopener nofollow" target="_blank">2024 (revised in May)</a>
+<p><a href="/files/Useful Links/Group Policy Insurance/product_fact_sheet_year_2024_may_revised.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet 2024 (revised in May)</a>
 </p>
