@@ -8,7 +8,7 @@ variant: markdown
 To empower every individual, nurture talents and groom leaders  
   
 ### Vision
-Becoming an excellent institution that grows future-ready leaders
+An excellent institution that grows future-ready leaders
 
 ![](/images/MISSION%20VISION.png)
 
