@@ -3,6 +3,7 @@ title: Useful Links
 permalink: /useful-links/for-students/useful-links/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 ### Useful Links
 
@@ -14,11 +15,11 @@ third_nav_title: For Students
 [WTP School Library Catalogue](http://wellingtonpri.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME) <br>
 [Hour of Code](http://code.org/learn) <br>
 [Touch Typing Activity](https://typetastic.com/keyboarding-kickstart/lesson.html?nr=1) <br>
-[Dance Mat Touch Typing](http://tinyurl.com/wtps2022) <br>
-[ezhishi](https://www.ezhishi.net/Contents/) <br>
+[Dance Mat Touch Typing](https://tinyurl.com/wtps2024)&nbsp;<br>
+[eZhishi  (知识网)](https://www.ezhishi.net/Contents/) <br>
 
 ---------------------------
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i9fpBx9xeGU?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i9fpBx9xeGU?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-Please visit [myskillsfuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) for more information.
+Please visit&nbsp;[myskillsfuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)&nbsp;for more information.
