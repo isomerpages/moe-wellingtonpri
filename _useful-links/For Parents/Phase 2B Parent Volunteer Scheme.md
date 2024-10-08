@@ -1,14 +1,10 @@
 ---
-title: Parent Volunteer Programmes
-permalink: /useful-links/for-parents/parent-volunteer-programmes/
-description: ""
-third_nav_title: For Parents
+title: Phase 2B Parent Volunteer Scheme
+permalink: /phase-2b-parent-volunteer-scheme/
 variant: markdown
+description: Wellington Phase 2B Parent Volunteer Scheme
+third_nav_title: For Parents
 ---
-**Parent Support Group**<br>
-[Parent Support Group (PSG) Registration Form](/files/Useful%20Links/Parent%20Volunteer/WTP%20PSG%20Registration%20Form_28Apr21.pdf) <br>
-This form is to be completed by parents with children who are currently studying in Wellington Primary School. 
-
 **Phase 2B Parent Volunteer Scheme**<br>
 Only parents whose children are Singapore Citizens (SCs) or Singapore Permanent Residents (PRs) are eligible to apply for the Phase 2B Parent Volunteer (PV) Scheme.&nbsp;
 
