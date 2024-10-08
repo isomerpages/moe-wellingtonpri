@@ -59,8 +59,7 @@ variant: tiptap
 </div>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space Login</a> 
 <br><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/" rel="noopener noreferrer nofollow" target="_blank">Reset SLS Password</a> 
-<br><a href="/useful-links/for-students/student-learning-space" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space </a>
-<a href="https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html" rel="noopener noreferrer nofollow" target="_blank">Troubleshooting Guide</a>
+<br><a href="/useful-links/for-students/student-learning-space" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space Troubleshooting Guide</a>
 </p>
 <hr>
 <h3>Termly Nomination for Staff GEMS Award</h3>
