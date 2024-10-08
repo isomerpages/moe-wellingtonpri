@@ -57,10 +57,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/WTP_SLS.png">
 </div>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a> 
-<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiwrDGu9lZyUEzZzUhKfAvamcoTMYJ-f_SvRiFZNAUZfiNbQ/viewform" rel="noopener noreferrer nofollow" target="_blank">Request for SLS Password Reset</a> 
-<br><a href="/useful-links/for-students/student-learning-space" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space Frequently Asked Questions</a> 
-<br><a href="https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html" rel="noopener noreferrer nofollow" target="_blank">SLS Troubleshooting Guide</a>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space Login</a> 
+<br><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/" rel="noopener noreferrer nofollow" target="_blank">Reset SLS Password</a> 
+<br><a href="/useful-links/for-students/student-learning-space" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space </a>
+<a href="https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html" rel="noopener noreferrer nofollow" target="_blank">Troubleshooting Guide</a>
 </p>
 <hr>
 <h3>Termly Nomination for Staff GEMS Award</h3>
