@@ -21,4 +21,4 @@ Our mentor Wellington Primary&nbsp;*Wellington*!
 </p><p>
 	
 
-[Play song](https://for.edu.sg/wtps-song) <br><audio src="https://for.edu.sg/wtps-song" controls=""></audio></p></center>
+Play song <br><audio src="https://for.edu.sg/wtps-song" controls=""></audio></p></center>
