@@ -24,6 +24,4 @@ Our mentor Wellington Primary&nbsp;*Wellington*!
 [Play school song](https://drive.google.com/file/d/18pnWq78vQiouiYF54hMjC2ex_9IBdxYp/view?usp=sharing)
 <audio autoplay="" controls="">
   <source src="https://docs.google.com/uc?export=download&amp;id=18pnWq78vQiouiYF54hMjC2ex_9IBdxYp">
-</audio>	
-
-	</p></center>
+</audio></p></center>
