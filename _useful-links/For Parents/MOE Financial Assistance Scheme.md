@@ -3,19 +3,24 @@ title: MOE Financial Assistance Scheme
 permalink: /useful-links/For-Parents/moefas/
 description: ""
 third_nav_title: For Parents
+variant: tiptap
 ---
-### MOE Financial Assistance Scheme
-
-Please click on the links below for more info on the MOE Financial Assistance Scheme (FAS)
- 
- 
- 
- **MOE FAS 2024 Circular**  
- [MOE FAS Circular 2024](/files/moe%20fas%20circular_2024.pdf)
-
-
-
-
-**MOE FAS Application Form**
-
-[MOE FAS 2024 Application Form](/files/moe%20fas%202024%20application%20form.pdf)
+<h3>MOE Financial Assistance Scheme</h3>
+<p>Parents may refer to the attached circular for information on MOE Financial
+Assistance Scheme 2025.</p>
+<p><strong><a href="/files/MOE_FAS_2025_Circular.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS 2025 Circular</a></strong>
+<br>
+</p>
+<p><strong><a href="/files/MOE_FAS_Pamphlet.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2025 Phamplet</a></strong>
+</p>
+<p></p>
+<p>Parents have the option to choose to apply MOE FAS via one of the following
+modes:</p>
+<p>a) MOE e-FAS (online)</p>
+<p>https://go.gov.sg/moe-efas</p>
+<p></p>
+<p>b) Parents Gateway App</p>
+<p>Services -&gt; Financial Assistance</p>
+<p></p>
+<p>c) MOE FAS Application Form</p>
+<p></p>
