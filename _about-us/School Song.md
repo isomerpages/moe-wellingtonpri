@@ -21,9 +21,9 @@ Our mentor Wellington Primary&nbsp;*Wellington*!
 
 </p><p>
 	
-[Play school song](https://drive.google.com/file/d/18pnWq78vQiouiYF54hMjC2ex_9IBdxYp/view)
+[Play school song](https://drive.google.com/file/d/18pnWq78vQiouiYF54hMjC2ex_9IBdxYp/view?usp=sharing)
 <audio autoplay="" controls="">
-  <source type="audio/mpeg" src="https://drive.google.com/file/d/18pnWq78vQiouiYF54hMjC2ex_9IBdxYp/view">
+  <source src="https://docs.google.com/uc?export=download&amp;id=18pnWq78vQiouiYF54hMjC2ex_9IBdxYp">
 </audio>	
-	*Play song:* <br>
-<audio src="https://drive.google.com/file/d/18pnWq78vQiouiYF54hMjC2ex_9IBdxYp/view" controls=""></audio></p></center>
+
+	</p></center>
