@@ -18,11 +18,6 @@ Dear Wellington we’ll make you proud <br>
 We’ll share and care for every one <br>
 Empowerment through education <br>
 Our mentor Wellington Primary&nbsp;*Wellington*!
-
 </p><p>
 
-
-[Play school song](https://drive.google.com/file/d/18pnWq78vQiouiYF54hMjC2ex_9IBdxYp/view?usp=sharing)
-<audio autoplay="" controls="">
-  <source type="audio/mpeg" src="https://drive.google.com/file/d/18pnWq78vQiouiYF54hMjC2ex_9IBdxYp/view?usp=sharing">
-</audio></p></center>
+Play song<br><audio type="audio/mpeg" src="https://for.edu.sg/wtps-song" autoplay="" controls=""></audio></p></center>
