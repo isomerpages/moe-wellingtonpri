@@ -8,10 +8,10 @@ variant: tiptap
 <h3>MOE Financial Assistance Scheme</h3>
 <p>Parents may refer to the attached circular for information on MOE Financial
 Assistance Scheme 2025.</p>
-<p><strong><a href="/files/MOE_FAS_2025_Circular.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS 2025 Circular</a></strong>
+<p><strong><a href="/files/MOE FAS/MOE_FAS_2025_Circular.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2025 Circular</a></strong>
 <br>
 </p>
-<p><strong><a href="/files/MOE_FAS_Pamphlet.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2025 Pamphlet</a></strong>
+<p><strong><a href="/files/MOE FAS/moe fas pamphlet.pdf" rel="noopener nofollow" target="_blank">MOE FAS 2025 Pamphlet</a></strong>
 </p>
 <p></p>
 <p>Parents have the option to choose to apply MOE FAS via one of the following
