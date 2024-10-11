@@ -56,6 +56,6 @@ variant: markdown
 | Senior Teacher (Mathematics) | Mrs Jennifer Tan | lee_chin_fung@moe.edu.sg |
 | Senior Teacher (Science) | Mrs Susie Lee | phua_susie@moe.edu.sg |
 | Administration Manager  | Ms Ng Woan Ling  | ng_woan_ling@moe.edu.sg  |
-| Operations Manager  | Mr Kenny Chua  | kenny_chua_bee_kim@moe.edu.sg  |
-| ICT Manager | Ms Stella Tan Kai Ling | tan_kai_ling_a@schools.gov.sg |
+| Operations Manager  | Mr Rajoo  | S_P_Varatharajoo@moe.edu.sg  |
+| ICT Manager | Ms Stella Tan Kai Ling | tan_kai_ling_a@moe.edu.sg |
 | | | |
