@@ -20,4 +20,7 @@ Empowerment through education <br>
 Our mentor Wellington Primary&nbsp;*Wellington*!
 </p><p>
 
-Play song<br>https://for.edu.sg/wtps-song<br><audio type="audio/mpeg" src="https://for.edu.sg/wtps-song" autoplay="" controls=""></audio></p></center>
+<a href="https://for.edu.sg/wtps-song">Play song</a><br>
+
+<iframe allowfullscreen="" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Wellington Primary Schools Song" src="https://www.youtube.com/embed/TyCLzMuR7Z4?si=CdEZo_cL4-FTR6g0?&amp;autoplay=1" height="315" width="560"></iframe>
+</p></center>
