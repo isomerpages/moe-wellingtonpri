@@ -22,7 +22,7 @@ variant: markdown
 |  | Mdm Sahemah Yusope |  
 | **School Lab Technician** | Ms Santhi |  
 | **ICT Manager** | Ms Stella Tan Kai Ling |
-| **Desktop Engineers** | Mr Cheng Jat Sea |
+| **Desktop Engineers** | Mr Chen Jat Sea |
 |  | Ms Norrazimah |
 | **Librarian** | Mdm Siti Nurzulaiha |  
 | **Dental Therapists** | Ms Nur Adillah Soffian   |  
