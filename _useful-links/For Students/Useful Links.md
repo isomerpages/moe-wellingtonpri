@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Useful Links
 
-[School Rules](/useful-links/general/school-rules) <br>
+[School Rules](/files/School_Rules.pdf) <br>
 [Student Learning Space Login](https://vle.learning.moe.edu.sg/login) <br>
 [KooBits](https://member.koobits.com/) <br>
 [myON](https://www.myon.com.sg/) <br>
