@@ -73,9 +73,6 @@ staff now!&nbsp;</p>
 <p><strong>*Staff includes&nbsp;anyone&nbsp;who works at Wellington Primary such as teachers, executive and admin staff, contract staff, security personnel, canteen vendors and cleaning helpers.</strong>&nbsp;</p>
 <p><a href="https://for.edu.sg/wellingtonps-gems" rel="noopener noreferrer nofollow" target="_blank">Click here to fill in the Staff GEMS Award Nomination online.</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEMs.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/wellingtonps-gems"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEMs.jpg"></a>
 <hr>
 <p></p>
