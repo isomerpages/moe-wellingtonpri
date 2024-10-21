@@ -71,7 +71,7 @@ of their students, but go the extra mile to ensure their charges grow up
 to be confident and independent learners. Please nominate your deserving
 staff now!&nbsp;</p>
 <p><strong>*Staff includes&nbsp;anyone&nbsp;who works at Wellington Primary such as teachers, executive and admin staff, contract staff, security personnel, canteen vendors and cleaning helpers.</strong>&nbsp;</p>
-<p><a href="https://docs.google.com/a/moe.edu.sg/forms/d/e/1FAIpQLSd93un7MxxKdwyPCZhrqIEKIR9RJvdumpRzKGBi5ibX05XkZw/viewform" rel="noopener noreferrer nofollow" target="_blank">Click here to fill in the Staff GEMS Award Nomination online.</a>
+<p><a href="https://for.edu.sg/wellingtonps-gems" rel="noopener noreferrer nofollow" target="_blank">Click here to fill in the Staff GEMS Award Nomination online.</a>
 </p>
 <hr>
 <p></p>
