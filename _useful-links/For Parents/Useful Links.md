@@ -62,15 +62,14 @@ variant: tiptap
 <br><a href="/useful-links/for-students/student-learning-space" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space Troubleshooting Guide</a>
 </p>
 <hr>
-<h3>Termly Nomination for Staff GEMS Award</h3>
-<p>Our community deserves to hear about the amazing work these staff* are
-doing! Please nominate deserving staff of Wellington!&nbsp;</p>
-<p>The&nbsp;<strong>Staff GEMS</strong>&nbsp;Award aims to pay tribute to
-our staff who not only show care and concern for the holistic development
-of their students, but go the extra mile to ensure their charges grow up
-to be confident and independent learners. Please nominate your deserving
-staff now!&nbsp;</p>
-<p><strong>*Staff includes&nbsp;anyone&nbsp;who works at Wellington Primary such as teachers, executive and admin staff, contract staff, security personnel, canteen vendors and cleaning helpers.</strong>&nbsp;</p>
+<h3><strong>Going the Extra Mile (GEMS) Award</strong></h3>
+<p>At Wellington, we take pride in fostering a culture of service excellence.
+The GEMS Award is designed to recognize both teaching and non-teaching
+staff who demonstrate exceptional dedication and service to our school
+community. Whether in the classroom or through support roles, our staff
+continuously go above and beyond to make a difference. We encourage all
+members of the school community to participate by nominating individuals
+who embody the spirit of service excellence.&nbsp;</p>
 <p><a href="https://for.edu.sg/wellingtonps-gems" rel="noopener noreferrer nofollow" target="_blank">Click here to fill in the Staff GEMS Award Nomination online.</a>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/wellingtonps-gems"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEMs.jpg"></a>
