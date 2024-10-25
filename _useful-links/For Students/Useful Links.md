@@ -12,7 +12,6 @@ variant: markdown
 [KooBits](https://member.koobits.com/) <br>
 [myON](https://www.myon.com.sg/) <br>
 [Social Studies @ Wellington](https://sites.google.com/view/wtps-socialstudies/home) <br>
-[WTP School Library Catalogue](http://wellingtonpri.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME) <br>
 [Hour of Code](http://code.org/learn) <br>
 [Touch Typing Activity](https://typetastic.com/keyboarding-kickstart/lesson.html?nr=1) <br>
 [Dance Mat Touch Typing](https://tinyurl.com/wtps2024)&nbsp;<br>
