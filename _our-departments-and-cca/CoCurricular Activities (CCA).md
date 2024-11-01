@@ -90,15 +90,6 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/pop-and-jazz" rel="noopener noreferrer nofollow" target="_blank">Pop and Jazz</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kavitha</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/our-departments-and-cca/cca/modern-dance" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
 </p>
 </td>
@@ -131,14 +122,6 @@ year.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Seri Rahayu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
