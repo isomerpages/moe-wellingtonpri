@@ -392,7 +392,7 @@ and fruits.</p>
 <p>School Uniform Price List:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/School%20uniform%20/School_Uniform_Price_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Price List</a>
+<p><a href="/files/School uniform /school_uniform_price_list.pdf" rel="noopener noreferrer nofollow" target="_blank">Price List</a>
 </p>
 </td>
 </tr>
