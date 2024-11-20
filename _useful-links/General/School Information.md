@@ -309,7 +309,7 @@ and fruits.</p>
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener nofollow" target="_blank">wtps@pacificbookstores.com</a>
+<p><a href="mailto:wtps@pacificbookstores.com" rel="noopener nofollow" target="_blank">wtps@pacificbookstores.com</a>
 </p>
 </td>
 </tr>
