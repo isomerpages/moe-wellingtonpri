@@ -293,7 +293,7 @@ and fruits.</p>
 <p>Tel:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9855 2013 (WhatsApp preferred)</p>
+<p>9855 2013 (WhatsApp only)</p>
 </td>
 </tr>
 <tr>
@@ -309,12 +309,14 @@ and fruits.</p>
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wtps@pacificbookstores.com</p>
+<p><a rel="noopener nofollow" target="_blank">wtps@pacificbookstores.com</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For online purchases please visit www.pacificbookstores.com</p>
+<p>For online purchases please visit <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -350,7 +352,8 @@ and fruits.</p>
 <p>Website:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>www.myuniformshop.com.sg</p>
+<p><a href="https://www.myuniformshop.com.sg/" rel="noopener nofollow" target="_blank">www.myuniformshop.com.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -366,7 +369,8 @@ and fruits.</p>
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>myuniformshopasia@gmail.com</p>
+<p><a href="mailto:myuniformshopasia@gmail.com" rel="noopener nofollow" target="_blank">myuniformshopasia@gmail.com</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -505,9 +509,6 @@ read Terms &amp; Conditions Governing The Requests For Services
 </p>
 <p><strong>Daily School Bus Service</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="For Year 2024" src="/images/School%20Information/Bus_service_rates_for_2024.PNG">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="For Year 2025" src="/images/School%20Information/Bus_service_rates_for_2025.PNG">
 </div>
