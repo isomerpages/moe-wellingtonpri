@@ -45,7 +45,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/p1parentswtp/home" rel="noopener noreferrer nofollow" target="_blank">P1 Parents</a>
+<p><a href="https://wellingtonpri.moe.edu.sg/p1-parents/" rel="noopener nofollow" target="_blank">P1 Parents</a>
 </p>
 </li>
 <li>
