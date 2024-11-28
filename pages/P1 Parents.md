@@ -9,7 +9,7 @@ description: ""
 <h4>Attire</h4>
 <h4>Things to bring</h4>
 <h4>Lunch routines</h4>
-<h4>Arrival  and Dismissal gates</h4>
+<h4>Arrival and Dismissal gates</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Gate A Drop-off point</p>
