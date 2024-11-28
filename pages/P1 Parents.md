@@ -4,24 +4,28 @@ permalink: /p1-parents/
 variant: tiptap
 description: ""
 ---
-<h4>Journey with us - Session 1</h4>
-<h4>Journey with us - Session 2</h4>
-<h4>Attire</h4>
-<h4>Things to bring</h4>
-<h4>Lunch routines</h4>
-<h4>Arrival and Dismissal gates</h4>
+<h4><a href="/files/P1 Parents/01_P1_2025_Journey_with_us_Session_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Journey with us - Session 1</a></h4>
+<h4><a href="/files/P1 Parents/02_P1_2025_Journey_with_us_Session_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Journey with us - Session 2</a></h4>
+<h4><a href="/files/P1 Parents/03_Attire.pdf" rel="noopener noreferrer nofollow" target="_blank">Attire</a></h4>
+<h4><a href="/files/P1 Parents/04_2025_P1_Things_to_bring.pdf" rel="noopener noreferrer nofollow" target="_blank">Things to bring</a></h4>
+<h4><a href="https://drive.google.com/file/d/1gWScYaG6uFy-qrmlRjY7iixnTENRdz54/view?usp=drive_link" rel="noopener nofollow" target="_blank">Lunch routines</a></h4>
+<h4><a href="/files/P1 Parents/06_2025_Arrival_Dismissal_gate.pdf" rel="noopener noreferrer nofollow" target="_blank">Arrival and Dismissal gates</a></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Gate A Drop-off point</p>
+<p><a href="https://drive.google.com/file/d/1Ztoy8kTMYewZcZYv-RBnUnacE86AZcuN/view?usp=drive_link" rel="noopener nofollow" target="_blank">Gate A Drop-off point</a>
+</p>
 </li>
 <li>
-<p>Gate B</p>
+<p><a href="https://drive.google.com/file/d/1_4FrwM0Lb67si5hasZJ5E-1OT5qJV5dq/view?usp=drive_link" rel="noopener nofollow" target="_blank">Gate B</a>
+</p>
 </li>
 <li>
-<p>Gate D</p>
+<p><a href="https://drive.google.com/file/d/1_JE4JPYhZxdNu5_htaRNWreH_kSMtuXW/view?usp=drive_link" rel="noopener nofollow" target="_blank">Gate D</a>
+</p>
 </li>
 <li>
-<p>Gate G</p>
+<p><a href="https://drive.google.com/file/d/1_KyDJiKIF37rOUavwG43LSefxvPOsLmn/view?usp=drive_link" rel="noopener nofollow" target="_blank">Gate G</a>
+</p>
 </li>
 </ul>
 <p></p>
