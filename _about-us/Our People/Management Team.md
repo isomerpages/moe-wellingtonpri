@@ -29,8 +29,8 @@ variant: markdown
 | | | |
 |---|---|---|
 | HOD English Language | Mrs Anitha Aruljothi  | m_anitha@moe.edu.sg  |
+| HOD Mathematics | Mrs Jennifer Tan | lee_chin_fung@moe.edu.sg |
 | HOD Mother Tongue Language | Mr Wong Kian Kei | wong_kian_kei@moe.edu.sg |
-| HOD (Mathematics) | Mrs Jennifer Tan | lee_chin_fung@moe.edu.sg |
 | HOD Physical Education | Mrs Bernadette Chen | bernadette_choo_may_ling@moe.edu.sg |
 | HOD CCE  | Mdm Wendy Au  | wendy_au_may_lee@moe.edu.sg  
 | HOD Infocomm Technology | Mrs Sumathi Siva Kumar | sumathi_siva_kumar@moe.edu.sg |
@@ -38,7 +38,7 @@ variant: markdown
 | Year Head Middle Primary | Ms Elsie Kwan | kwan_yin_teng@moe.edu.sg |
 | Year Head Lower Primary | Mr Kwan Hoi Leong | kwan_hoi_leong@moe.edu.sg |
 | Subject Head NE/SS | Mdm Siti Faradina | siti_faradina_isa@moe.edu.sg |
-| Subject Head ICT Systems | Mdm Lee Wee Fong | lee_wee_fong@me.edu.sg |
+| Subject Head ICT Systems | Mdm Lee Wee Fong | lee_wee_fong@moe.edu.sg |
 | Subject Head Student Management | Mr Thomas Ho | ho_wei_heong@moe.edu.sg  |
 | Subject Head Assessment | Ms Anastassia | nur_anastassia_fadzali@moe.edu.sg  |
 | Subject Head VIA | Mdm Parameshwari | parameshwari_selvaraja@moe.edu.sg |
