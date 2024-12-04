@@ -38,7 +38,6 @@ variant: markdown
 | Year Head Middle Primary | Ms Elsie Kwan | kwan_yin_teng@moe.edu.sg |
 | Year Head Lower Primary | Mr Kwan Hoi Leong | kwan_hoi_leong@moe.edu.sg |
 | Subject Head NE/SS | Mdm Siti Faradina | siti_faradina_isa@moe.edu.sg |
-| Subject Head ICT Systems | Mdm Lee Wee Fong | lee_wee_fong@moe.edu.sg |
 | Subject Head Student Management | Mr Thomas Ho | ho_wei_heong@moe.edu.sg  |
 | Subject Head Assessment | Ms Anastassia | nur_anastassia_fadzali@moe.edu.sg  |
 | Subject Head VIA | Mdm Parameshwari | parameshwari_selvaraja@moe.edu.sg |
@@ -49,6 +48,7 @@ variant: markdown
 | Level Head Mathematics | Mr Khaarthik  | khaarthik_jaya_balan@moe.edu.sg  |
 | Level Head Science | Mdm Siti Zaleha  | siti_zaleha_abdul_majid@moe.edu.sg  |
 | Level Head Physical Education | Ms Sim Chin Mei | sim_chin_mei@moe.edu.sg |
+| Level Head ICT Systems | Mdm Lee Wee Fong | lee_wee_fong@moe.edu.sg |
 | Lead Teacher (Mathematics) | Ms Linda Chew | chew_chui_shiang_linda@moe.edu.sg |
 | Senior Teacher (English) | Mr Mark | mark_eric_nadhan@moe.edu.sg |
 | Senior Teacher (Science) | Mrs Susie Lee | phua_susie@moe.edu.sg |
