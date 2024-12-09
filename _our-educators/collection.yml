@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Form Teachers/.keep
-      - Form Teachers/Form Teachers.md
       - Form Teachers/Primary 1 Teachers.md
       - Form Teachers/Primary 2 Teachers.md
       - Form Teachers/Primary 3 Teachers.md
