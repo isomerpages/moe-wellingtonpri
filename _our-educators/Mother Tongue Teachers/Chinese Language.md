@@ -19,7 +19,6 @@ variant: markdown
 | Ms Liyo Chin Woon  |    
 | Ms Fannie Woo |    
 | Ms Kuang Xianyu |    
-| Ms Sharon Heng |
 | Ms Yvonne Tung |
 |Ms June Lee |
 | |
