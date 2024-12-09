@@ -2,6 +2,7 @@ collections:
   our-educators:
     output: true
     order:
+      - Our Educators.md
       - Form Teachers/.keep
       - Form Teachers/Primary 1 Teachers.md
       - Form Teachers/Primary 2 Teachers.md
