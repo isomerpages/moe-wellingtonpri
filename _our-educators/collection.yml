@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Form Teachers.md
-      - New Page.md
       - Form Teachers/.keep
       - Form Teachers/Primary 1 Teachers.md
       - Form Teachers/Primary 2 Teachers.md
