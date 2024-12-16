@@ -2,16 +2,18 @@
 title: School Partners
 permalink: /about-us/school-partners/
 description: ""
+variant: markdown
 ---
 | Name | Role |
 |---|---|
-| Mr Lim Zhee Long, Jimmy | Chairman |
-| Ms Cindy Goh | Honorary Treasurer |
+| Mr Jimmy Lim Zhe Xiang | Chairman |
+| Mr Lim Tze Wei | Honorary Treasurer |
 | Mr Albert Alcantara | Honorary Secretary |
-| Mr Chan Say Leong Jeff | Member |
 | Ms Ann Khong May Yoke | Member |
-| Mr Francis Tan | Member  |
-| Mr George Philip | Member |
+| Ms Cindy Goh | Member |
 | Mr Wilson Tan Saw Chin | Member |
-| Mr Lim Tze Wei | Member |
+| Mr Alan Wah | Member  |
+| Ms Charlotte Tay Tingyin | Member |
+| Mr Lim Meng Chong, Eddie | Member |
+| Dr Ong Sek Tong Derrick | Member |
 | | |
