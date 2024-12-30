@@ -583,6 +583,6 @@ Promotion Board (HPB) in introducing the&nbsp;<a href="https://www.hpb.gov.sg/sc
 one of the pioneer schools in 2011. We work closely with the canteen vendors
 to ensure their adherence to a set of HPB guidelines to bring wholesome
 meals and healthy snacks that provide optimum nutrition to our students.</p>
-<p><a href="/files/Useful Links/Canteen_menu_website_11_Sep_2024.pdf" rel="noopener nofollow" target="_blank">Click here</a> to
+<p><a href="/files/Useful Links/Canteen_menu_website_27_Dec_2024.pdf" rel="noopener nofollow" target="_blank">Click here</a> to
 view the stall menu.</p>
 <p></p>
