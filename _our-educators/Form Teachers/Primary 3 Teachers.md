@@ -7,19 +7,18 @@ variant: markdown
 ---
 | Class |  Name |  Email Address |
 |---|---|---|
-| 3A | Mr Abdul Hakim |	abdul_hakim_abdul_latib@moe.edu.sg |
-| 3A | Ms Shanu |keepa_shanu_dhanabalan@moe.edu.sg|
-| 3A | Ms Liyo Chin Woon | liyo_chin_woon@moe.edu.sg |
-| 3B | Ms Sarah Ahmad	| sarah_ahmad@moe.edu.sg  |
-| 3B | Mr Airi Bin Bujang	| airi_bujang@moe.edu.sg |
-| 3C | Ms Celine Chong	| celine_chong_xue_ying@moe.edu.sg |
-| 3C | Mr Shahrin	| mohd_shahrin_khamis@moe.edu.sg |
-| 3D | Mr Tan Wee Loon | tan_wee_loon@moe.edu.sg | 
-| 3D | Ms Kuang (Lucy)	| kuang_xian_yu@moe.edu.sg | 
+| 3A | Mr Loh (Cayman) | loh_ca-mon_cayman@moe.edu.sg |
+| 3A | Mdm Faridah Jaafar | faridah_jaafar@moe.edu.sg |
+| 3B | Mdm Parameshwari	| parameshwari_selvaraja@moe.edu.sg  |
+| 3B | Mr Kong (Patrick) | kong_sin_yu_patrick@moe.edu.sg |
+| 3C | Mdm Rosvina	| - |
+| 3C | Mdm Loh (Ting Tuan)	| loh_ting_tuan@moe.edu.sg |
+| 3C | Mrs Tan (Gina)	| wong_kar_lyle_gina@moe.edu.sg |
+| 3D | Mdm Zulaiha | siti_zulaiha_saidi@moe.edu.sg | 
+| 3D | Mr Tan (Paul)	| paul_tan@moe.edu.sg | 
 | 3D | Ms Elsie Kwan	| kwan_yin_teng@moe.edu.sg |
-| 3E | Mrs Goh (Mabel) |	liau_pei_ching_mabel@moe.edu.sg 
-| 3E | Ms Shantiny |	shantiny_ulaganathan@moe.edu.sg  
-| 3F | Ms Maryam |	maryam_nadheera_rizdwan@moe.edu.sg 
-| 3F | Mr Chan (Jeremy) |	chan_jian_yong_jeremy@moe.edu.sg
-| 3F | Ms Fadilah	| fadilah_abdul_wahid@moe.edu.sg
+| 3E | Ms Adelene (Shan Shan) |	tan_shan_shan_@moe.edu.sg 
+| 3E | Ms Lai Li Fei | lai_li_fei@moe.edu.sg  
+| 3F | Ms Loh (Kristine) | kristine_loh_chin_chi@moe.edu.sg 
+| 3F | Mrs Lee (Susie) | phua_susie@moe.edu.sg
 | | | |
