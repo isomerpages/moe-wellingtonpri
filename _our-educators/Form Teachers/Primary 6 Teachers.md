@@ -7,21 +7,19 @@ variant: markdown
 ---
 | Class |  Name |  Email Address |
 |---|---|---|
-| 6A | Mr Abdul Aziz	| abdul_aziz_kamaruddin@moe.edu.sg  |
-| 6A | Mrs Chen (Bernadette)	| bernadette_choo_may_ling@moe.edu.sg  |
-| 6B | Mdm Faradina	| siti_faradina_isa@schools.gov.sg  |
-| 6B | Mr Shah | muhamad_shahzulhari_johari@moe.edu.sg   |
-| 6B | Ms Sim Chin Mei |	sim_chin_mei@moe.edu.sg  |
-| 6C | Ms Nadiah |	insan_nadiah_mohd_sukarno@moe.edu.sg  |
-| 6C | Mrs Susie Lee| phua_susie@moe.edu.sg   |
-| 6D | Mdm Zulaiha	| siti_zulaiha_saidi@moe.edu.sg   |
-| 6D | Mrs Aw (Claira) |	claira_tan_chay_lan@moe.edu.sg |
-| 6D | Mrs Sumathi | sumathi_siva_kumar@moe.edu.sg |
-| 6E | Mrs Anitha Aruljothi	| m_anitha@moe.edu.sg  |
-| 6E | Mr Khaarthik	| khaarthik_jaya_balan@moe.edu.sg  |
-| 6F | Mdm Siti Zaleha	| siti_zaleha_abdul_majid@moe.edu.sg  |
-| 6F | Mr Keith Ng	| ng_zhao-xiang@moe.edu.sg  |
-| 6G | Mdm Parameshwari  | parameshwari_selvaraja@moe.edu.sg   |
-| 6G | Mdm Ida	| ida_ruyani_snin@moe.edu.sg |
-| 6G | Mdm Nooraihan | nooraihan_mohamed_ali@moe.edu.sg |
+| 6A | Mr Kwan (Hoi Leong) | kwan_hoi_leong@moe.edu.sg |
+| 6A | Ms Yew (Ci Hui) | yew_ci_hui@moe.edu.sg |
+| 6B | Mdm Nooraihan | nooraihan_mohamed_ali@schools.gov.sg |
+| 6B | Mr Ho (Thomas) | ho_wei_heong@moe.edu.sg |
+| 6B | Mrs Phebe Kumar | ashok_kumar_phebe@moe.edu.sg |
+| 6C | Ms Anastassia | nur_anastassia_fadzali@moe.edu.sg |
+| 6C | Mdm Saraswathi | saraswathi_velayudham@moe.edu.sg |
+| 6C | Mrs Aw (Claira) | claira_tan_chay_lan@moe.edu.sg |
+| 6D | Ms Au (Wendy) | wendy_au_may_lee@moe.edu.sg |
+| 6D | Ms Ng (Selena) |	ng_ailin_selena@moe.edu.sg |
+| 6E | Mdm Wang (Guohong)	| wang_guohong@moe.edu.sg |
+| 6E | Mrs Tan (Jennifer Lee)	| lee_chin_fung@moe.edu.sg |
+| 6E | Mr Lim (Daniel) | lim_phor_tien@moe.edu.sg |
+| 6F | Mr Abdul Aziz | abdul_aziz_kamaruddin@moe.edu.sg |
+| 6F | Mr Wong (Kian Kei)	| wong_kian_kei@moe.edu.sg  |
 | | | |
