@@ -7,18 +7,20 @@ variant: markdown
 ---
 | Name |
 | --- |
-| Mrs Eileen Lam |    
-| Mdm Qu Hong Wei |    
-| Mdm Wang Guo Hong |    
-| Mdm Zhang Yuan Ying |    
-| Mrs Claira Aw |    
-| Mr Wong Kian Kei |        
-| Mr Ren Weichen |    
-| Mdm Gu Yao  |    
-| Ms Yew Ci Hui |    
-| Ms Liyo Chin Woon  |    
-| Ms Fannie Woo |    
-| Ms Kuang Xianyu |    
-| Ms Yvonne Tung |
-|Ms June Lee |
+| Mrs Aw (Claira) | 
+| Mdm Gu Yao |
+| Ms Kuang (Lucy) | 
+| Mrs Lam (Eileen) |
+| Ms Lee (June) |
+| Ms Liyo (Chin Woon)  |
+| Mdm Qu (Hongwei) |
+| Mr Ren (Roy) |
+| Mr Tan (Paul) |
+| Mdm Tang (Wan Chin) |
+| Ms Tung (Yvonne) |
+| Mdm Wang (Guohong) |
+| Mr Wong (Kian Kei) |
+| Ms Woo (Fannie) | 
+| Ms Yew (Ci Hui) |    
+| Mdm Zhang (Yuanying) |
 | |
