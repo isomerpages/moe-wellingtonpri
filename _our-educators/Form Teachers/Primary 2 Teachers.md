@@ -7,20 +7,23 @@ variant: markdown
 ---
 | Class |  Name |  Email Address |
 |---|---|---|
-| 2A | Ms Adelene (Shan Shan)  | tan_shan_shan@moe.edu.sg |
-| 2A | Ms Heng (Sharon) | heng_shin_yuan@moe.edu.sg |
-| 2B | Ms Lallitha  | l_lallitha@moe.edu.sg |
-| 2B | Ms Lai (Li Fei) | lai_li_fei@moe.edu.sg |
-| 2C | Mr Ghanim Bin Salim | ghanim_salim@moe.edu.sg   |
-| 2C | Ms Qiu (Carolyn)| qiu_wanhui_carolyn@moe.edu.sg |
-| 2D | Mrs Neo (Elaine Mah) | elaine_mah_ke_yun@moe.edu.sg |
-| 2D | Mr Kong (Patrick) | kong_sin_yu_patrick@moe.edu.sg  |
-| 2E | Ms Madeleine Lim | lim_mei_ling_madeleine@moe.edu.sg |
-| 2E | Mr Tan King Yang | tan_king_yang@moe.edu.sg  |
-| 2F | Ms Zee (Wan Teng)  | zee_wan_teng@moe.edu.sg  |
-| 2F | Mdm Seri	| seri_rahayu@moe.edu.sg |
-| 2G | Ms Ong (Sandra)   | ong_li_hong_sandra@moe.edu.sg  |
-| 2G | Mdm Faridah Jaafar | faridah_jaafar@moe.edu.sg  |
-| 2H | Mdm Lee (Wee Fong)  | lee_wee_fong@moe.edu.sg  |
-| 2H | Mdm Qu (Hong Wei)  |  qu_hongwei@moe.edu.sg |
+| 2A | Mr Huang (Joshua) | huang_junhao_joshua@moe.edu.sg |
+| 2A | Ms Lee Wen Xin (June) | lee_wen_xin_june@moe.edu.sg |
+| 2B | Mr Choey (Paul) | choey_por_yen@moe.edu.sg |
+| 2B | Ms Tung (Yvonne) | yvonne_tung_wai_ling@moe.edu.sg |
+| 2C | Ms Karen Koek | koek_karen_jude@moe.edu.sg   |
+| 2C | Mdm Sabeela | sabeela_saadah_mohamad_azni@moe.edu.sg |
+| 2D | Mdm Sum (Chia Ling) | sum_chia_ling@moe.edu.sg |
+| 2D | Mdm Zhang (Yuanying) |zhang_yuanying@moe.edu.sg |
+| 2D | Mdm Thanmolie | - |
+| 2E | Ms Nur Ashikin | nur_ashikin_abdul_aziz@moe.edu.sg |
+| 2E | Ms Shanu | keepa_shanu_dhanabalan@moe.edu.sg  |
+| 2F | Mrs Ramesh (Meera) | meera_devi@moe.edu.sg |
+| 2F | Mrs Soh (Michelle)	| michelle_wong_fei_fun@moe.edu.sg |
+| 2G | Mr Hong (Yew Meng)  | hong_yew_meng@moe.edu.sg |
+| 2G | Mdm Julie Yana Rasidi | julie_yana_rasidi@moe.edu.sg |
+| 2G | Ms Tang (Wan Chin)  | tang_wan_chin@moe.edu.sg |
+| 2H | Mrs Ang (Ong Xi Jun)  | ong_xi_jun@moe.edu.sg |
+| 2H | Mr Ren (Roy) |  ren_weichen@moe.edu.sg |
+| 2H | Mdm Foo (Irene) | foo_irene@moe.edu.sg |
 | | | |
