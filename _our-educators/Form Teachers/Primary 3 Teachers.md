@@ -11,7 +11,7 @@ variant: markdown
 | 3A | Mdm Faridah Jaafar | faridah_jaafar@moe.edu.sg |
 | 3B | Mdm Parameshwari	| parameshwari_selvaraja@moe.edu.sg  |
 | 3B | Mr Kong (Patrick) | kong_sin_yu_patrick@moe.edu.sg |
-| 3C | Mdm Rosvina	| - |
+| 3C | Mdm Rosvina	| rosvina_hamzah@moe.edu.sg |
 | 3C | Mdm Loh (Ting Tuan)	| loh_ting_tuan@moe.edu.sg |
 | 3C | Mrs Tan (Gina)	| wong_kar_lyle_gina@moe.edu.sg |
 | 3D | Mdm Zulaiha | siti_zulaiha_saidi@moe.edu.sg | 
