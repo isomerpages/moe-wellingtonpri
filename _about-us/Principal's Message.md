@@ -4,46 +4,68 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<p>As we embark on the journey of 2024, I am excited to share some key insights
-from the 2023 Workplan Seminar where Minister outlined transformative shifts
-in the Future of Learning. To prepare our students sufficiently for the
-future, these measures were announced :</p>
-<p>i)&nbsp;Enhance 21st Century Competencies (21CC) to strengthen students'
-competencies and dispositions to thrive in school and in the future;</p>
-<p>ii)&nbsp;Harness technology as a capability multiplier to enhance and
-customise students' learning experiences; and</p>
-<p>iii)&nbsp;Enrich learning experiences through refreshed school environments
-and partnerships.</p>
-<p>These shifts reflect a collective commitment to preparing our students
-for the challenges and opportunities that lie ahead. The Future of Learning
-is evolving, and as educators, we are dedicated to staying at the forefront
-of these changes.</p>
-<p>For our young learners at Wellington Primary School, inventive thinking
-becomes a guiding principle. It goes beyond problem-solving; it encourages
-creativity, curiosity, and the exploration of diverse perspectives. We
-strive to ensure that our classrooms will be spaces where imagination is
-nurtured, questions are celebrated, and every child is empowered to express
-their unique thoughts.</p>
-<p>Inventive thinking is not only about finding solutions but also about
-asking the right questions.
-<br>We encourage our students to embrace uncertainty and see it as an opportunity
-for growth.</p>
-<p>As I emphasized last year, it is important that we prepare our students
-to navigate an increasingly uncertain and untidy world, and inventive thinking
-is a powerful tool in achieving this goal.</p>
-<p>To protect our students from the mental health risks from the use of technology
-and social media, the school will enhance students' cyber wellness by instilling
-healthy digital habits through the Character and Citizenship Education
-curriculum as well as Wellington’s own bespoke Cyber Wellness curriculum.</p>
-<p>We understand that primary school lays the foundation for a lifetime of
-learning. By embracing these shifts, we aim to create an environment where
-our students develop a love for learning, build resilience in the face
-of challenges, and cultivate the inventive thinking skills that will serve
-them well in their educational journey and beyond.</p>
-<p>As we embark on this exciting educational adventure in 2024, let us celebrate
-the potential for growth and discovery that these shifts bring. Our aim
-is to foster an environment where students feel inspired to explore, innovate,
-and discover their unique capabilities.</p>
+<p><strong>Welcome to 2025: Sustaining Our Efforts, Strengthening Our Community</strong>
+</p>
+<p>As we step into 2025, our focus at Wellington Primary School remains steadfast:
+to nurture students who possess a strong sense of self, empathy for others,
+and a deep sense of belonging. We want our students not only to excel academically
+but also to grow into productive individuals with a strong mission to contribute
+meaningfully to the community.</p>
+<p>Building on the transformative shifts outlined in previous years, we continue
+to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Strengthen 21st Century Competencies (21CC):</strong> Ensuring
+students develop the adaptability, resilience, communication and critical
+thinking skills needed to navigate an ever-evolving world.</p>
+</li>
+<li>
+<p><strong>Harness Technology Responsibly:</strong> Equipping students with
+digital literacy and cyber wellness skills for the good and purposeful
+use of technology.</p>
+</li>
+<li>
+<p><strong>Enrich Learning through Experiences &amp; Partnerships:</strong> Providing
+diverse learning opportunities that extend beyond the classroom to develop
+character, better cultural literacy, and a global perspective.</p>
+</li>
+</ul>
+<p>Reflecting on 2024, we celebrate several key milestones, including our
+Performing Arts Night held at the NUS University Cultural Centre, which
+showcased our students' talents and creativity. This event was a testament
+to the hard work and dedication of our teachers, the enthusiasm and commitment
+of our students, and the strong support of our parents. Another highlight
+of 2024 were the four Overseas Learning Journeys to Beijing, Shanghai/Wuxi,
+Hong Kong and Penang, marking the first such trips after the COVID-19 pandemic.
+These journeys were carefully planned to offer our students rich, hands-on
+learning experiences, further expanding their horizons and fostering global
+awareness.</p>
+<p>At Wellington Primary, we believe that learning is best enriched through
+experiences. Programmes such as our Values in Action initiatives, Overseas
+Learning Journeys, Primary 5 Camp, National Education Learning Journeys
+and NE Show, Applied Learning Programme (ALP), and Learning for Life Programme
+(LLP) provide vital platforms for students to develop essential skills
+while fostering a sense of purpose and responsibility. As the saying goes, <em>“Collect experiences, not things.”</em> We
+encourage our students to embrace these opportunities with enthusiasm,
+curiosity, and an open mind.</p>
+<p>Just as we expect our students to be lifelong learners, our teachers too
+are committed to continuous learning. Staying updated on current knowledge
+and educational best practices enables them to be better guides and mentors
+in shaping our students' growth.</p>
+<p>Cyber wellness remains a key priority as we help our students develop
+healthy digital habits and navigate the online world safely. At the same
+time, strong partnerships with parents and the community are integral to
+creating a nurturing and supportive environment for our students.</p>
+<p>Looking ahead, 2026 marks a significant milestone for us: Wellington Primary
+School will be 25-years old. This milestone presents a timely opportunity
+to reflect on our journey and the progress we've made over these 25 years.
+It is also a time for us to strengthen our connections with our stakeholders
+and continue building new partnerships that will help us achieve greater
+heights.</p>
+<p>As we embark on 2025 together, we will &nbsp;continue to work hand in
+hand—educators, parents, and the wider community—to provide a rich, holistic
+education that empowers our students to thrive, contribute, and make a
+difference.</p>
 <p><strong>Sincerely,<br>Albert Alfred Alcantara<br>Principal<br>Wellington Primary School</strong>
 </p>
 <blockquote>
