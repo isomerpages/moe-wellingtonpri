@@ -266,8 +266,9 @@ out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
 and is also downloadable <a href="https://form.gov.sg/677ce0d15b01d5dbedc80de7" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 opt-out form is to be submitted by 30/01/2025.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school (at
-<a href="mailto:wellingtonps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wellingtonps@moe.edu.sg</a>or 67533319) for discussion or to seek clarification
-about the school’s Sexuality Education programme.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school (at 67533319
+or <a href="mailto:wellingtonps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wellingtonps@moe.edu.sg</a>)
+for discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 <p><strong><em><u>&nbsp;</u></em></strong>
 </p>
