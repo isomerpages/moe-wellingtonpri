@@ -5,4 +5,271 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h3><strong>WELLINGTON PRIMARY SCHOOL</strong></h3><p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.&nbsp;</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality Education are:</p><p>(a) Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</p><p>(b) Guide students to make wise, informed and responsible decisions on sexuality matters.</p><p>(c) Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of Sexuality Education are:&nbsp;</p><p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love and respect yourself as you love and respect others;</p><p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);</p><p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible decisions for yourself, your family and society; and</p><p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.&nbsp;</p><p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information on MOE Sexuality Education.</p><p><strong><br></strong></p><p><strong>Overview of WELLINGTON PRIMARY SCHOOL’s Sexuality Education Programme for 2024</strong></p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality include:</p><p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p><p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p><p><strong><u>Sexuality Education Lessons</u></strong>:</p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources.&nbsp;</p><p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.<br></p><p><strong>At Wellington Primary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>&nbsp;</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANcAAAC2CAMAAAB9C+h4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMAUExURf///wAAAPfv9+/v71JSUubm5qWlpXt7hL29vd7W1sXOzggICJSMlIyMjJSclFpjWiEZIa21tc7W1ikpKa2trXN7e3Nzc73FxXOcY3NalHNa71paEHNaxRA6UkJazkJahBBaGRBazhBahHvv3qXF3qUZxXvF3qXOWqWUEKXOGc4QpWtrY6VaUpwpUmMpUqVaGZwpGWMpGYSUtZwIUmMIUpwIGWMIGUrv3kLvWkqt3kKtWkqtnEKtGUrvnELvGUIZ70IZpe+cpRCtWhCtGRAZ7xAZpRDvWhDvGXPvWnOUMXPvGXMpjErO3kLOWkrOnELOGRDOWhDOGXMIjDo6OhAQGUpKQqVa76VaxRBjUhAQUs4Q5s7FEM5SEM6MEM4ZEEJa70JapZxanJylYzFaGRBa7xBapZxae5yEY6XvWqWUMaXvGaUpjM4xpc5zpe8QpaUIjM5SpTFjUjEQUubOtc4x5s7FMc5SMc6MMc4ZMc7Fc85z5s5Sc8615s6Mc84ZcxmM7xmMrRAxGe8Q5u/FEO9SEO+MEO8ZEObOlM7FUs5S5s5SUs6U5s6MUs4ZUhmMzhmMjKWE5nuE5oRKUoRKGe8xpe9zpe9SpXvvrXMp73vFrXMpxc7vzkqM70KMa0qMrUKMKUIpzkIphM6ctRCMaxCMKRApzhAphHPOa3OlEHPOKc7vQs7vEM7vc3vvjHMI73vFjHMIxUqMzkKMSkqMjEKMCEIIzkIIhM6clBCMShCMCBAIzhAIhHPOSnOEEHPOCO/Fc+9z5u9Sc+8x5u/FMe9SMaXmre+15u+MMe8ZMe+Mc+8Zcxmt7xmtrRnv7xnvrRnO7xnOre/FUu9S5u9SUqXmjO+U5u+MUu8ZUhmtzhmtjBnvzhnvjBnOzhnOjKWl5nul5oRrUoRrGaXv76Up73OclM7vpaXvzqUI7+/vQu/vEO/vcykQCO/vpVpjOjExEDo6WvfvzqW9lK2Mte/W78XW773OnM7v73N7WnNSc+/W1q2ljNbv/wAQCP/v/wAACAAAAHKLy/QAAAEAdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wBT9wclAAAACXBIWXMAABcRAAAXEQHKJvM/AAAad0lEQVR4Xu1dW3LjuJIFCD4ASABJCRAXgeWQXMOswzu9//VRM+EPWxFWxZxMkJLs6urr6rltuid8qmzxLSTynQBo8Veg5cchLd/5EdCyDMF/yP/pY+nyy9bfjq5dNj4CWrpl629H97H8+it0KX9Ztn4DXblsfAT+Gl3GObVsvh//AH5FoeNvE/b59SsE3BiLZe+9+PT8snxL+N0bP5Rf4ffpUu7Mn87yx7vxyfk1uCEwRdWzM3zknfjM+hVUSEbUmZ420/defFJ+kcdSetxns0FI4res/SfmV/BoWxiXvVLMdPN7XfSnpUulWJwRa3zPu0aLsP8Nhn1aexjkZUBP+Kwnxitr6t/g9vb6pcLsSm3eWAWTnCjpmOZdZYVXOm/foOyjO8UE+n/CdnJImoIfm9JwUcKPELJVebAP5ij3KIxRCzGhuJqQK8I8KKV0+gMXsDW/4vPSJo9ISd2bBV2pCrYDnAIuGjTVb7M3uzC5b0G8emVSNrQbZAVczbZAGTIM9zB9EU1jRNCixyXqqCGwOH5vOlQoitwrRXwrotvya5GsYe5F8ZoZplS2mUdfdqmbnXNxdsmbe6pwTQ1+l3zs4t+I4rb2MGVBaoIwh+EPkhGlhKqgQhnLwRU2Ka2E0yy87o3ubeq/VEQvp1moWjgvhp6oXFsf5rIse8M45A/jF31i9CCqNLjVdGA1FHE5nrEpXRpqYcoTpCj4vRZ7hE1XqFbKNdbIqJpwNQ0wMvNFhHpAnF/NEap2ei2I2+kX9a9xPW/3yYyjME+vPFF8kVCgCv+UKkRlYELugIxMyVA3+QHpDbs21i8RojjYoLU6uAakrqdzI89lmfoKQnioDnWZLWcG/Btkz7TBqEFrC4FcTlyxsf8CXSlSBmJN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"></div><p></p><p><strong>2024 Sexuality Education Lessons in CCE 2021&nbsp;</strong></p><p><strong>Primary 5</strong></p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>CCE(FTGP) THEME</strong></p></td><td rowspan="1" colspan="1"><p><strong>LESSON TITLE / DURATION</strong></p></td><td rowspan="1" colspan="1"><p><strong>Lesson OVERVIEW</strong></p></td><td rowspan="1" colspan="1"><p><strong>TIME PERIOD</strong></p><p><strong>(e.g. Term 1 Week 2)</strong></p></td></tr><tr><td rowspan="3" colspan="1"><p>Growing Years</p></td><td rowspan="1" colspan="1"><p>The Changes in Me</p><p>(60 min)</p></td><td rowspan="1" colspan="1"><p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.</p><p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p></td><td rowspan="1" colspan="1"><p>Term 4 Week 2</p></td></tr><tr><td rowspan="1" colspan="1"><p>Did You Know?</p><p>(60 min)</p><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong></p><p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p></td><td rowspan="1" colspan="1"><p>Term 4 Week 3</p></td></tr><tr><td rowspan="1" colspan="1"><p>Keeping Myself Safe</p><p>(60 min)</p><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.</p><p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p></td><td rowspan="1" colspan="1"><p>Term 4 Week 4</p></td></tr></tbody></table><p><strong>&nbsp;</strong></p><p><strong><br></strong></p><p></p><p><strong>2024 Sexuality Education Lessons in CCE 2021</strong></p><p><strong>&nbsp;</strong></p><p><strong>Primary 6</strong></p><p><strong>&nbsp;</strong></p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>CCE(FTGP) THEME</strong></p></td><td rowspan="1" colspan="1"><p><strong>LESSON TITLE / DURATION</strong></p></td><td rowspan="1" colspan="1"><p><strong>Lesson Overview</strong></p></td><td rowspan="1" colspan="1"><p><strong>TIME PERIOD</strong></p><p><strong>(e.g. Term 1 Week 2)</strong></p></td></tr><tr><td rowspan="2" colspan="1"><p>Growing Years</p></td><td rowspan="1" colspan="1"><p>Are We More than Friends?</p><p>Lesson 1</p><p>(60 min)</p></td><td rowspan="1" colspan="1"><p>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p></td><td rowspan="1" colspan="1"><p>Term 4 Week 4</p></td></tr><tr><td rowspan="1" colspan="1"><p>Are We More than Friends?</p><p>Lesson 2</p><p>(60 min)</p></td><td rowspan="1" colspan="1"><p>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</p></td><td rowspan="1" colspan="1"><p>Term 4 Week 5</p></td></tr></tbody></table><p><strong><br></strong></p><p><strong>Information for Parents</strong></p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated &nbsp;to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/658be8cc745e840011a10aa1" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out form is to be submitted by 15/02/2024.</p><p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 67533319 for discussion or to seek clarification about the school’s Sexuality Education programme.</p><p><strong><em><a rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;</u></a></em></strong></p><p><strong><em><u>&nbsp;</u></em></strong></p>
+<h3><strong>WELLINGTON PRIMARY SCHOOL</strong></h3>
+<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
+aims to enable students to understand the physiological, social and emotional
+changes they experience as they mature, develop healthy and rewarding relationships
+with others, including those with members of the opposite sex, and make
+wise, informed and responsible decisions on sexuality matters. SEd is premised
+on the importance of the family as the basic unit of society. This means
+encouraging healthy, heterosexual marriages and stable nuclear family units
+with extended family support. The teaching and learning of SEd is based
+on respect for the values and beliefs of the different ethnic and religious
+communities in Singapore on sexuality issues.&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
+Education are:</p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+Sexuality Education are:&nbsp;</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love and respect yourself as you
+love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build positive relationships based
+on love and respect (which are the foundation for strong families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible decisions for
+yourself, your family and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before marriage is the best
+protection against STIs/HIV and unintended pregnancies. Casual sex can
+harm and hurt you and your loved ones.&nbsp;</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+<p><strong><br></strong>
+</p>
+<p><strong>Overview of WELLINGTON PRIMARY SCHOOL’s Sexuality Education Programme for 2025</strong>
+</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
+in a holistic manner through the school curriculum. The content for Sexuality
+Education is grouped into five main themes: Human Development, Interpersonal
+Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
+Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
+information on the scope of Sexuality Education in the school curriculum.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
+on sexuality include:</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+(CCE)</p>
+<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
+onset of puberty. With better nutrition and improved health care, children
+are reaching puberty at a younger age and have to grapple with physical,
+emotional and psychological changes in themselves. The implication is that
+our children are becoming biologically ready for sexual activity sooner
+without necessarily having the corresponding cognitive or emotional maturity
+to modulate their behaviours. Furthermore, our young are also exposed to
+a wide range of influences that could endanger health and undermine the
+integrity of the family. Our students require close guidance so that they
+can respond with discernment to the sexual messages in the media and other
+sources.&nbsp;</p>
+<p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are
+taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons,
+students will learn healthy ways to manage the physiological, social and
+emotional changes in their growing years. They learn to build healthy and
+rewarding relationships with others, including those with members of the
+opposite sex. Students are also guided to make wise, informed and responsible
+decisions to keep themselves safe from sexuality-related risks.
+<br>
+</p>
+<p><strong>At Wellington Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>&nbsp;</p>
+<p></p>
+<p><strong>2025 Sexuality Education Lessons in CCE&nbsp;</strong>
+</p>
+<p><strong>Primary 5</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCE(FTGP) THEME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON TITLE / DURATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON OVERVIEW</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TIME PERIOD</strong>
+</p>
+<p><strong>(e.g. Term 1 Week 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Changes in Me</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on helping students identify the emotions and stress
+caused by physical changes during puberty. Students will learn to describe
+the healthy ways to manage their negative feelings during this time. They
+will also learn to recognise that one’s identity need not be negatively
+affected, even when one’s body is experiencing changes due to puberty.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Did You Know?</p>
+<p>(60 min)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on helping students know what pornography is and how
+it can affect themselves and others. Students will learn about the dangers
+of being exposed to sexually explicit materials and reject the viewing
+and/or reading of pornographic materials. They will learn to evaluate their
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
+</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Keeping Myself Safe</p>
+<p>(60 min)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn about sexual abuse, how it can happen
+during online and offline interactions and the impact of such abuse on
+victims. They also learn how to take precautionary measures to be safe
+and how to seek help for themselves and their friends.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><br></strong>
+</p>
+<p></p>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+</p>
+<p><strong>&nbsp;Primary 6</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCE(FTGP) THEME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON TITLE / DURATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON OVERVIEW</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TIME PERIOD</strong>
+</p>
+<p><strong>(e.g. Term 1 Week 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?</p>
+<p>Lesson 1</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn to distinguish between the characteristics
+of love and infatuation, and identify the strong emotions that may arise
+from In this lesson, students will learn to distinguish between the characteristics
+of love and infatuation, and identify the strong emotions that may arise
+from experiencing the feelings of infatuation. They will recognise that
+experiencing feelings of infatuation is part of growing up and becoming
+infatuated with someone does not mean that they should be involved in a
+romantic relationship. Instead, they should focus on building strong and
+healthy friendships with their circles of friends.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?</p>
+<p>Lesson 2</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn healthy ways to manage the emotions
+arising from infatuation and recognise the importance of respecting the
+boundaries of any relationship. They will also recognise the negative impact
+of teasing their peers who may be experiencing the feelings of infatuation
+and learn to behave maturely towards each other.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 7</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br></strong>
+</p>
+<p><strong>Information for Parents</strong>
+</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
+out of Sexuality Education lessons, and/or supplementary Sexuality Education
+programmes by MOE-approved external providers.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the Sexuality Education lessons need to complete an opt-out form.
+This form will be communicated &nbsp;to parents at the start of the year
+and is also downloadable <a href="https://form.gov.sg/677ce0d15b01d5dbedc80de7" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 30/01/2025.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school (at
+<a rel="noopener noreferrer nofollow" target="_blank">wellingtonps@moe.edu.sg</a>or 67533319) for discussion or to seek clarification
+about the school’s Sexuality Education programme.</p>
+<p><strong><em><a rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;</u></a></em></strong>
+</p>
+<p><strong><em><u>&nbsp;</u></em></strong>
+</p>
