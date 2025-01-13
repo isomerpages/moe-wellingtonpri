@@ -16,7 +16,6 @@ variant: markdown
 | 3C | Mrs Tan (Gina)	| wong_kar_lyle_gina@moe.edu.sg |
 | 3D | Mdm Zulaiha | siti_zulaiha_saidi@moe.edu.sg | 
 | 3D | Mr Tan (Paul)	| paul_tan@moe.edu.sg | 
-| 3D | Ms Elsie Kwan	| kwan_yin_teng@moe.edu.sg |
 | 3E | Ms Adelene (Shan Shan) |	tan_shan_shan_@moe.edu.sg 
 | 3E | Ms Lai Li Fei | lai_li_fei@moe.edu.sg  
 | 3F | Ms Loh (Kristine) | kristine_loh_chin_chin@moe.edu.sg 
