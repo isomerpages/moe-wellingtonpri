@@ -42,8 +42,7 @@ Plan for Students can also be found at the below weblink.</p>
 <br><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/</a>
 </p>
 <p>Income’s website
-<br><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">h</a>
-<a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">ttps://www.income.com.sg/studentgpa</a>
+<br><a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 <br>
 </p>
 <p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet 2025</a>
