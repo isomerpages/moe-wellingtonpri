@@ -35,7 +35,7 @@ variant: markdown
 | HOD CCE  | Mdm Wendy Au  | wendy_au_may_lee@moe.edu.sg  
 | HOD Infocomm Technology | Mrs Sumathi Siva Kumar | sumathi_siva_kumar@moe.edu.sg |
 | Year Head Upper Primary | Mrs Claira Aw | claira_tan_chay_lan@moe.edu.sg |
-| Year Head Middle Primary | Ms Elsie Kwan | kwan_yin_teng@moe.edu.sg |
+| Year Head Middle Primary | Mrs Bernadette Chen | bernadette_choo_may_ling@moe.edu.sg |
 | Year Head Lower Primary | Mr Kwan Hoi Leong | kwan_hoi_leong@moe.edu.sg |
 | Subject Head NE/SS | Mdm Siti Faradina | siti_faradina_isa@moe.edu.sg |
 | Subject Head Student Management | Mr Thomas Ho | ho_wei_heong@moe.edu.sg  |
