@@ -19,6 +19,6 @@ variant: markdown
 | 3D | Ms Elsie Kwan	| kwan_yin_teng@moe.edu.sg |
 | 3E | Ms Adelene (Shan Shan) |	tan_shan_shan_@moe.edu.sg 
 | 3E | Ms Lai Li Fei | lai_li_fei@moe.edu.sg  
-| 3F | Ms Loh (Kristine) | kristine_loh_chin_chi@moe.edu.sg 
+| 3F | Ms Loh (Kristine) | kristine_loh_chin_chin@moe.edu.sg 
 | 3F | Mrs Lee (Susie) | phua_susie@moe.edu.sg
 | | | |
