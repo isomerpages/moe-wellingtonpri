@@ -55,7 +55,7 @@ curriculum time. However, additional training sessions might be scheduled
 for them. To maximise the full potential of every student, once he/she
 is accepted for the CCA, he/she will remain in the CCA for at least one
 year.</p>
-<h3>Performing Arts</h3>
+<h3>Visual and Performing Arts</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -72,6 +72,14 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Arts and Crafts Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ang (Ong Xi Jun)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/our-departments-and-cca/cca/chinese-dance" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
 </p>
 </td>
@@ -85,7 +93,7 @@ year.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Jing Yi</p>
+<p>Mrs Michelle Soh</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +159,7 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/badminton-club" rel="noopener noreferrer nofollow" target="_blank">Badminton Club(Boys and Girls)</a>
+<p><a href="/our-departments-and-cca/cca/badminton-club" rel="noopener noreferrer nofollow" target="_blank">Badminton Club</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,16 +168,17 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/football-club" rel="noopener noreferrer nofollow" target="_blank">Football Club (Boys/Girls)</a>
+<p><a href="/our-departments-and-cca/cca/football-club" rel="noopener noreferrer nofollow" target="_blank">Soccer Club</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Shahrin Khamis (Boys) / Ms Sim Chin Mei (Girls)</p>
+<p>Mr Mohd Shahrin Khamis (Boys)</p>
+<p>Ms Sim Chin Mei (Girls)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/table-tennis" rel="noopener noreferrer nofollow" target="_blank">Table Tennis(Boys and Girls)</a>
+<p><a href="/our-departments-and-cca/cca/table-tennis" rel="noopener noreferrer nofollow" target="_blank">Table Tennis</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,7 +230,7 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/scouts" rel="noopener noreferrer nofollow" target="_blank">Scouts (Boys and Girls)</a>
+<p><a href="/our-departments-and-cca/cca/scouts" rel="noopener noreferrer nofollow" target="_blank">Scouts</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -255,7 +264,7 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/drama-and-debating-club" rel="noopener noreferrer nofollow" target="_blank">Drama &amp; Debating Club</a>
+<p><a href="/our-departments-and-cca/cca/drama-and-debating-club" rel="noopener noreferrer nofollow" target="_blank">Drama / Debating Club</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -282,20 +291,11 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/art-and-crafts-club" rel="noopener noreferrer nofollow" target="_blank">Art and Crafts Club</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ang Xi Jun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/our-departments-and-cca/cca/chinese-cultural-club" rel="noopener noreferrer nofollow" target="_blank">Chinese Cultural Club</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yew Ci Hui</p>
+<p>Ms Liyo Chin Woon</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +330,7 @@ year.</p>
 <p>P1 Attentiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lucy Kuang Xianyu</p>
+<p>Ms Shantiny</p>
 </td>
 </tr>
 <tr>
@@ -338,7 +338,7 @@ year.</p>
 <p>P1 Benevolence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shantiny</p>
+<p>Ms Lallitha</p>
 </td>
 </tr>
 <tr>
@@ -346,7 +346,7 @@ year.</p>
 <p>P1 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kris Ong</p>
+<p>Ms Qiu (Carolyn)</p>
 </td>
 </tr>
 <tr>
@@ -354,7 +354,7 @@ year.</p>
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ida</p>
+<p>Mdm Quek Pei Jin</p>
 </td>
 </tr>
 <tr>
@@ -362,7 +362,7 @@ year.</p>
 <p>P1 Enthusiasm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah Ahmad</p>
+<p>Mdm Qu Hongwei</p>
 </td>
 </tr>
 <tr>
@@ -370,7 +370,7 @@ year.</p>
 <p>P1 Forgiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ramesh</p>
+<p>Ms Zee Wan Teng</p>
 </td>
 </tr>
 <tr>
@@ -378,7 +378,7 @@ year.</p>
 <p>P1 Generosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julie Yana Rasidi</p>
+<p>Ms Diyana</p>
 </td>
 </tr>
 <tr>
@@ -386,7 +386,7 @@ year.</p>
 <p>P1 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Irene Foo</p>
+<p>Mdm Ida</p>
 </td>
 </tr>
 <tr>
@@ -418,7 +418,7 @@ year.</p>
 <p>P2 Attentiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Adelene Tan Shan Shan</p>
+<p>Ms Lee (June)</p>
 </td>
 </tr>
 <tr>
@@ -426,7 +426,7 @@ year.</p>
 <p>P2 Benevolence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lallitha</p>
+<p>Ms Sabrina</p>
 </td>
 </tr>
 <tr>
@@ -434,7 +434,7 @@ year.</p>
 <p>P2 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Carolyn Qiu</p>
+<p>Ms Chai Yee</p>
 </td>
 </tr>
 <tr>
@@ -442,7 +442,7 @@ year.</p>
 <p>P2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Elaine Neo</p>
+<p>Ms Xiao Wen</p>
 </td>
 </tr>
 <tr>
@@ -458,7 +458,7 @@ year.</p>
 <p>P2 Forgiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zee Wan Teng</p>
+<p>Mrs Ramesh (Meera)</p>
 </td>
 </tr>
 <tr>
@@ -466,7 +466,7 @@ year.</p>
 <p>P2 Generosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sandra Ong</p>
+<p>Mdm Lee Wai Fong</p>
 </td>
 </tr>
 <tr>
@@ -474,7 +474,7 @@ year.</p>
 <p>P2 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Qu Hongwei</p>
+<p>Ms Stella</p>
 </td>
 </tr>
 <tr>
