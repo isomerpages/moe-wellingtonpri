@@ -22,7 +22,7 @@ variant: markdown
 | 2F | Mrs Soh (Michelle)	| michelle_wong_fei_fun@moe.edu.sg |
 | 2G | Mr Hong (Yew Meng)  | hong_yew_meng@moe.edu.sg |
 | 2G | Mdm Julie Yana Rasidi | julie_yana_rasidi@moe.edu.sg |
-| 2G | Ms Tang (Wan Chin)  | tang_wan_chin@moe.edu.sg |
+| 2G | Ms Tang (Wan Chin)  | tang_wan_chin_a@moe.edu.sg |
 | 2H | Mrs Ang (Ong Xi Jun)  | ong_xi_jun@moe.edu.sg |
 | 2H | Mr Ren (Roy) |  ren_weichen@moe.edu.sg |
 | 2H | Mdm Foo (Irene) | foo_irene@moe.edu.sg |
