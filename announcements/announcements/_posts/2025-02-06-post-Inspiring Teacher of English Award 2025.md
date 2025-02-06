@@ -9,7 +9,10 @@ variant: tiptap
 ---
 <p><em>Nominate your English teacher for the Inspiring Teacher of English Award 2025!&nbsp;</em>
 </p>
-<p><em>Please review the nomination criteria and submit your nomination at <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information</a> by 5 PM on 4 April 2025.</em>
+<p><em>Please review the nomination criteria <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener nofollow" target="_blank">here</a> and submit your nomination by 6pm on 24 March 2025.</em>
 </p>
-<p><a href="/files/Announcements/Inspiring_Teacher_of_English_Award_2025.pdf" rel="noopener nofollow" target="_blank">file</a>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inspiring_Teacher_of_English_Award_2025.jpg">
+</div>
+<p></p>
