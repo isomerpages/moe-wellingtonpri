@@ -378,7 +378,7 @@ year.</p>
 <p>P1 Generosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Diyana</p>
+<p>Ms Shariffah Diyana</p>
 </td>
 </tr>
 <tr>
@@ -434,7 +434,7 @@ year.</p>
 <p>P2 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chai Yee</p>
+<p>Ms Tay Chai Yee</p>
 </td>
 </tr>
 <tr>
@@ -442,7 +442,7 @@ year.</p>
 <p>P2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Xiao Wen</p>
+<p>Ms Zhang Xiaowen</p>
 </td>
 </tr>
 <tr>
