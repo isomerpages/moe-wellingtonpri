@@ -11,18 +11,19 @@ variant: markdown
 | **Operations Manager** | Mr Rajoo |
 | **Admin Executive** | Mrs Tamilselvi Sukumar |  
 |  | Mdm Koh Geok Choo |    
+|  | Ms Heng Hui Shan |    
 | **Management Support Officer** | Ms Tan Guek Wah Alice |  
 | **Lobby Ambassador** | Ms Josephine Foo |  
 | **Operation Support Officers** | Mr Shafree Bin Abdul Sarip |  
 |  | Mdm Chia Siew Kim |  
 |  | Mr Shukor Bin Junid |  
 |  | Mdm A Krishnamma |  
-|  | Mdm S Vijaya Letchime |  
 |  | Mdm Sahemah Binte Yusope |  
+|  | Mdm Siti Subaidah Binte Hamzah |  
 | **School Lab Technician** | Ms Santhi | 
 | **Gardener** | Mr Neo Bock Hoo | 
 | **ICT Manager** | Ms Stella Tan Kai Ling |
-| **ICT Admin Assistant** | Ms Naimah Abdul Hamid |
+| **ICT Manager** | Mr Rasis Bin Abdul Rahim |
 | **ICT Trainer** | Mdm Noor Ainie Binte Othman |
 | **Desktop Engineers** | Mr Chen Jat Sea |
 |  | Ms Norrazimah |
