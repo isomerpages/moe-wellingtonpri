@@ -8,6 +8,7 @@ variant: markdown
 | | |
 |---|---|
 | **Administration Manager** | Ms Ng Woan Ling |  
+| **Operations Manager** | Mr Brendan Chua |
 | **Operations Manager** | Mr Rajoo |
 | **Admin Executive** | Mrs Tamilselvi Sukumar |  
 |  | Mdm Koh Geok Choo |    
