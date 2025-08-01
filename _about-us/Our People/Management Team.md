@@ -54,6 +54,8 @@ variant: markdown
 | Senior Teacher (Science) | Mrs Susie Lee | phua_susie@moe.edu.sg |
 | Senior Teacher (Malay) | Mr Airi Bin Bujang | airi_bujang@moe.edu.sg |
 | Administration Manager  | Ms Ng Woan Ling  | ng_woan_ling@moe.edu.sg  |
+| Operations Manager  | Mr Brendan Chua  | chua_thiam_keong_brendan@moe.edu.sg  |
 | Operations Manager  | Mr Rajoo  | S_P_Varatharajoo@moe.edu.sg  |
 | ICT Manager | Ms Stella Tan Kai Ling | tan_kai_ling_a@moe.edu.sg |
+| ICT Manager | Mr Rasis | rasis_abdul_rahim_a@moe.edu.sg |
 | | | |
