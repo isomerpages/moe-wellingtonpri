@@ -7,22 +7,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgif.gif
+      background: /images/Website Banner/2025_WTP_Banner_V3.gif
       url: /contact-us/
-      key_highlights:
-        - title: School Events
-          description: ""
-          url: /school-events/
-  - infopic:
-      title: Improved Traffic Flow During School Dismissal
-      subtitle: "ANNOUNCEMENT:"
-      description: Click for more information below!
-      button: Read more
-      url: /announcements/announcements/improved-traffic-flow-during-school-dismissal
-      image: /images/60267157_1167349620119320_1960500086400090112_n.jpg
-      alt: Image alt text
   - resources:
       title: Announcements
-      subtitle: Check out the latest
       button: View more
+  - textcards:
+      title: For Parents
+      id: textcards
+      cards:
+        - title: P1 Registration
+          description: Useful information regarding P1 Registration
+          linktext: Learn more
+          url: https://www.moe.gov.sg/primary/p1-registration
+        - title: School Information
+          description: General information about school operating hours and more
+          linktext: Learn more
+          url: /useful-links/general/school-information/
+        - title: School Calendar
+          description: Calendar of upcoming school activities and events
+          linktext: Learn more
+          url: https://www.wellingtonpri.moe.edu.sg/useful-links/general/calendar/
 ---
