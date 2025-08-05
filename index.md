@@ -27,5 +27,5 @@ sections:
         - title: School Calendar
           description: Calendar of upcoming school activities and events
           linktext: Learn more
-          url: https://www.wellingtonpri.moe.edu.sg/useful-links/general/calendar/
+          url: /useful-links/general/calendar/
 ---
