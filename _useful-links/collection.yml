@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Contact Us.md
       - General/.keep
       - General/School Information.md
       - General/Calendar.md
@@ -23,3 +22,4 @@ collections:
       - For Students/Student Learning Space.md
       - For Students/Student iCon.md
       - For Staff.md
+      - Contact Us.md
