@@ -23,4 +23,15 @@ contacts:
       - email: wellingtonps@moe.edu.sg
       - other: ""
     title: General Enquiries
+  - content:
+      - phone: +65 6753 3765
+      - email: ""
+      - other: ""
+    title: Fax
+  - content:
+      - phone: +65 9019 7237
+      - email: ""
+      - other: For facility related emergencies after office hours.
+    title: DIGO-Term Contractor
+feedback: ""
 ---
