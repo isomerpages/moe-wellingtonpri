@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Wellington Primary School
-description: An Isomer site of the Singapore Government
+description: An Isomer site of Wellington Primary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
