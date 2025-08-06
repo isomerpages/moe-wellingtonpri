@@ -9,7 +9,7 @@ locations:
       - Singapore 757702
       - ""
     operating_hours: []
-    maps_link: ""
+    maps_link: https://maps.app.goo.gl/dp1EYVf6eR6YynBG9
     title: Wellington Primary School
 contacts:
   - content:
