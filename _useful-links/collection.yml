@@ -4,9 +4,8 @@ collections:
     order:
       - General/.keep
       - General/School Information.md
-      - General/Privacy Policy.md
       - General/Calendar.md
-      - General/Contact Us.md
+      - General/Privacy Policy.md
       - For Parents/.keep
       - For Parents/Useful Links.md
       - For Parents/Online Payment for MOE Bill and School Bill.md

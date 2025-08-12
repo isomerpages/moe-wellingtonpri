@@ -1,5 +1,5 @@
 ---
-title: 2025年全国杰出华文教师奖
+title: Distinguished Chinese Language Teachers Awards 2025
 permalink: /2025/
 date: 2025-03-13
 layout: post
