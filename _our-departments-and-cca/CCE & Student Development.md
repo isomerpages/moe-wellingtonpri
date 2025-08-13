@@ -29,3 +29,33 @@ strong national identity based on a sense of belonging to the nation, a
 sense of hope in themselves and the future, an awareness of the reality
 of Singapore’s vulnerabilities and constraints, and the will to act on
 improving the lives of others and building a future for our nation.</p>
+<p></p>
+<h4><strong>Figure 1: CCE Curriculum Frame</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_Curriculum_Frame.png">
+</div>
+<p><strong>The CCE Curriculum Frame spells out three key elements of CCE</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>CCE Curriculum Content</strong> which is based on the three big
+ideas of Identity, Relationships and Choices</p>
+</li>
+<li>
+<p><strong>Enactment of CCE</strong> through CCE lessons, Key Student Development
+Experiences, school-based initiatives, other subjects and opportunities
+for personal application</p>
+</li>
+<li>
+<p><strong>Caring &amp; Enabling School Environment</strong> where every teacher
+is a CCE teacher and every student aims to be a peer supporter.</p>
+</li>
+</ol>
+<p></p>
+<h3>Wellington CCE Programmes</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_Programmes.png">
+</div>
+<p></p>
