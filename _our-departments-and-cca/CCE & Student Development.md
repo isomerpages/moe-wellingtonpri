@@ -35,6 +35,7 @@ improving the lives of others and building a future for our nation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_Curriculum_Frame.png">
 </div>
+<p></p>
 <p><strong>The CCE Curriculum Frame spells out three key elements of CCE</strong>
 </p>
 <ol data-tight="true" class="tight">
