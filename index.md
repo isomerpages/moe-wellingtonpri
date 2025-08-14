@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website Banner/2025_WTP_Banner_V3.gif
+      background: /images/Website Banner/2025_WTP_Banner_V4.gif
       url: /contact-us/
   - resources:
       title: Announcements
