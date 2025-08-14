@@ -16,10 +16,9 @@ variant: markdown
 
 Other Links
 *  [MOE Intranet](https://intranet.moe.gov.sg/)
-*  [SSOE2 Portal](https://ssoe2.moe.edu.sg/)
+*  [SSOE2 Portal (Intranet)](https://ssoe2.moe.edu.sg/)
 *  [HRP Portal](https://www.hrp.gov.sg/)
 *  [SSOE MIMS Portal](https://portal.mims.moe.gov.sg/idmdash)
 *  [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
 *  [WTP Facebook](https://www.facebook.com/wellingtonprisg)
 * [Request for Wellington Parent Network (WePN) Support](https://docs.google.com/forms/d/e/1FAIpQLSevGTpLCxpHnmhlBCoC2LZsi8D1VyjRecJS827Rp4Mn3MUL2w/viewform?c=0&w=1)
-*  [SWN Wireless Portal](http://portal.swn.moe.edu.sg/)
