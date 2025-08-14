@@ -2,6 +2,7 @@
 title: English
 permalink: /our-departments-and-cca/english/
 description: ""
+variant: markdown
 ---
 ##### Our Mission
 We aim to instil the Joy of Learning English in Wellington \[ J.E.W.E.L\].
@@ -47,4 +48,4 @@ STELLAR aims to strengthen both language and reading skills as well as promote a
 * [www.sightwords.com/sight-words/dolch/](http://www.sightwords.com/sight-words/dolch/)      
 * [http://www.bbc.com/news/](http://www.bbc.com/news/)   
 * [http://catalogue.nlb.gov.sg](http://catalogue.nlb.gov.sg/)   
-* [http://www.learnenglish.org.uk](http://www.learnenglish.org.uk/)
+* [https://learnenglish.britishcouncil.org/](https://learnenglish.britishcouncil.org/)
