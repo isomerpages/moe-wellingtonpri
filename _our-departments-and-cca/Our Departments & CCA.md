@@ -20,5 +20,5 @@ variant: tiptap
 &nbsp;&nbsp;<a href="/our-departments-and-cca/cce-n-student-development" rel="noopener noreferrer nofollow" target="_blank">CCE &amp; Student Development</a>&nbsp;
 &nbsp; &nbsp;&nbsp;<a href="/our-departments-n-cca/physical-n-health-education" rel="noopener noreferrer nofollow" target="_blank">Physical &amp; Health Education </a>&nbsp;
 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href="/our-departments-and-cca/aesthetics" rel="noopener noreferrer nofollow" target="_blank">Aesthetics</a>&nbsp;</p>
-<h4><a href="https://wellingtonpri.moe.edu.sg/under-construction/" rel="noopener noreferrer nofollow" target="_blank">Click to view our Co-Curricular Activities</a></h4>
+<h4><a href="/under-construction/" rel="noopener noreferrer nofollow" target="_blank">Click to view our Co-Curricular Activities</a></h4>
 <p></p>
