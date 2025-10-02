@@ -2,13 +2,23 @@
 title: Our Departments & CCA
 permalink: /our-departments-and-cca/our-departments-and-cca/
 description: ""
+variant: tiptap
 ---
-<img src="/images/departments1.jpg" 
-     style="width:90%">
-		 
-   [English](/our-departments-and-cca/english)                          [Mathematics](/our-departments-and-cca/mathematics)                [Chinese](/our-departments-and-cca/chinese)                         [Science](/our-departments-and-cca/science)                         [Malay](/our-departments-and-cca/malay)
-
-![](/images/2%20(1).jpg)
-   [Tamil](/our-departments-and-cca/tamil)             [ICT](/our-departments-and-cca/infocomm-technology-ict)                  [CCE & Student Development](/our-departments-and-cca/cce-n-student-development)      [Physical & Health Education ](/our-departments-n-cca/physical-n-health-education)         [Aesthetics](/our-departments-and-cca/aesthetics) 
-
-#### [Click to view our Co-Curricular Activities](/our-departments-and-cca/cca/)
+<div class="isomer-image-wrapper">
+<img style="width:90%" height="auto" width="100%" src="/images/departments1.jpg">
+</div>
+<p><a href="/our-departments-and-cca/english" rel="noopener noreferrer nofollow" target="_blank">English</a>&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="/our-departments-and-cca/mathematics" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="/our-departments-and-cca/chinese" rel="noopener noreferrer nofollow" target="_blank">Chinese</a>&nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="/our-departments-and-cca/science" rel="noopener noreferrer nofollow" target="_blank">Science</a>&nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="/our-departments-and-cca/malay" rel="noopener noreferrer nofollow" target="_blank">Malay</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2%20(1).jpg">
+</div>
+<p>&nbsp;&nbsp;&nbsp;<a href="/our-departments-and-cca/tamil" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>&nbsp; &nbsp; <a href="/our-departments-and-cca/infocomm-technology-ict" rel="noopener noreferrer nofollow" target="_blank">ICT</a>&nbsp;
+&nbsp;&nbsp;<a href="/our-departments-and-cca/cce-n-student-development" rel="noopener noreferrer nofollow" target="_blank">CCE &amp; Student Development</a>&nbsp;
+&nbsp; &nbsp;&nbsp;<a href="/our-departments-n-cca/physical-n-health-education" rel="noopener noreferrer nofollow" target="_blank">Physical &amp; Health Education </a>&nbsp;
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href="/our-departments-and-cca/aesthetics" rel="noopener noreferrer nofollow" target="_blank">Aesthetics</a>&nbsp;</p>
+<h4><a href="https://wellingtonpri.moe.edu.sg/under-construction/" rel="noopener noreferrer nofollow" target="_blank">Click to view our Co-Curricular Activities</a></h4>
+<p></p>
