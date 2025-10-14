@@ -37,10 +37,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/FAQs%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Overseas Learning Journey</a>
-</p>
-</li>
-<li>
 <p><a href="/files/PG%20one-time%20onboard.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
 </p>
 </li>
