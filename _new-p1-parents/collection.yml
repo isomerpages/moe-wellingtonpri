@@ -1,5 +1,4 @@
 collections:
   new-p1-parents:
     output: true
-    order:
-      - New P1 Parents.md
+    order: []
