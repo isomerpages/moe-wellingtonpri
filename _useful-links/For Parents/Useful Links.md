@@ -37,7 +37,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/PG%20one-time%20onboard.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+<p><a href="/files/PG%20one-time%20onboard.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway Onboarding</a>
+</p>
+</li>
+<li>
+<p><a href="https://ask.gov.sg/parentsgateway" rel="noopener nofollow" target="_blank">Parents Gateway FAQ</a>
 </p>
 </li>
 </ul>
