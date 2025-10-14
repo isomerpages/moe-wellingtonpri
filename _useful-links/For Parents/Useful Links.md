@@ -44,10 +44,6 @@ variant: tiptap
 <p><a href="/files/PG%20one-time%20onboard.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
 </p>
 </li>
-<li>
-<p><a href="https://sites.google.com/view/p1parentswtp" rel="noopener nofollow" target="_blank">P1 Parents</a>
-</p>
-</li>
 </ul>
 <hr>
 <div class="isomer-image-wrapper">
