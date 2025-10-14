@@ -2,5 +2,4 @@ collections:
   new-p1-parents:
     output: true
     order:
-      - Parents Gateway/.keep
       - New P1 Parents.md
