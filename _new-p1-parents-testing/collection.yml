@@ -2,5 +2,6 @@ collections:
   new-p1-parents-testing:
     output: true
     order:
+      - New P1 Parents Landing.md
       - Edusave Account (for Singapore Citizens only).md
       - Parents Gateway Testing.md
