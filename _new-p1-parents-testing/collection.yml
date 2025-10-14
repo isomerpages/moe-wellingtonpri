@@ -2,6 +2,7 @@ collections:
   new-p1-parents-testing:
     output: true
     order:
+      - New Parents Landing/Student Details Form.md
       - New Parents Landing/.keep
       - New Parents Landing/Parents Gateway Testing.md
       - New Parents Landing/Edusave Account (for Singapore Citizens only).md
