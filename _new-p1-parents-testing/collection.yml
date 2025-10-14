@@ -1,4 +1,5 @@
 collections:
   new-p1-parents-testing:
     output: true
-    order: []
+    order:
+      - Parents Gateway Testing.md
