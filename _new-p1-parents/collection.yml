@@ -1,5 +1,4 @@
 collections:
   new-p1-parents:
     output: true
-    order:
-      - Parents Gateway.md
+    order: []
