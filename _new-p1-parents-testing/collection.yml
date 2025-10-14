@@ -1,6 +1,0 @@
-collections:
-  new-p1-parents-testing:
-    output: true
-    order:
-      - Edusave Account (for Singapore Citizens only).md
-      - Parents Gateway Testing.md
