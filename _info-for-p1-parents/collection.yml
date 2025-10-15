@@ -2,6 +2,6 @@ collections:
   info-for-p1-parents:
     output: true
     order:
-      - GIRO.md
       - Parents Gateway.md
       - Edusave Account.md
+      - GIRO.md
