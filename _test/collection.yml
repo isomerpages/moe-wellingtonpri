@@ -2,6 +2,6 @@ collections:
   test:
     output: true
     order:
-      - Test GIRO.md
-      - Test Edusave Account.md
       - Test Parents Gateway.md
+      - Test Edusave Account.md
+      - Test GIRO.md
