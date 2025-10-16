@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - My Folder/.keep
-      - Test Parents Gateway.md
       - Test Edusave Account.md
       - Test GIRO.md
