@@ -8,7 +8,7 @@ third_nav_title: For Parents
 <p>New to Primary 1? Find out about our arrival and dismissal gates <a href="https://sites.google.com/view/p1parentswtp" rel="noopener nofollow" target="_blank">here</a>.</p>
 <hr>
 <h3>Administrative Matters</h3>
-<h4><sup>Parents Gateway</sup></h4>
+<h4>Parents Gateway</h4>
 <p>Parents Gateway (PG) is a mobile app specially designed for parents. The
 app allows parents to receive information and perform a range of administrative
 functions including receiving announcements from school, giving consent
