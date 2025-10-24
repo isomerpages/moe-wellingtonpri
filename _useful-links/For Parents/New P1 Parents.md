@@ -203,5 +203,14 @@ good money habits, you may sign up for the Smart Buddy via <a rel="noopener nore
 to Smart Buddy Registration Letter (PayBuddy) for more information.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Travel Declaration</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>If your child is travelling during the 2025 year-end school holidays,
+please declare his/her travel plans via Parents Gateway (under Services
+tab). If your child is not travelling during the holidays, no action is
+required. Only one parent is required to make the declaration.</p>
+</div>
+</details>
 </div>
 <p></p>
