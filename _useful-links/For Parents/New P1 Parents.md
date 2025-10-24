@@ -8,7 +8,7 @@ third_nav_title: For Parents
 <p>New to Primary 1? Find out about our arrival and dismissal gates <a href="https://sites.google.com/view/p1parentswtp" rel="noopener nofollow" target="_blank">here</a>.</p>
 <hr>
 <h3>Administrative Matters</h3>
-<h4>Parents Gateway</h4>
+<h4><sup>Parents Gateway</sup></h4>
 <p>Parents Gateway (PG) is a mobile app specially designed for parents. The
 app allows parents to receive information and perform a range of administrative
 functions including receiving announcements from school, giving consent
@@ -37,6 +37,7 @@ process. Please refer to the following documents for additional information:</p>
 quick answers to general questions</p>
 </li>
 </ul>
+<hr>
 <h4>Student Details Form</h4>
 <p>As your child/ward will be starting primary one in January 2026, the Ministry
 of Education (MOE) would like to collect necessary information about you
@@ -47,11 +48,11 @@ portal from 1 Dec 2025, 10.00am to 31 Dec 2025. The portal can be accessed
 via the URL <a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>,
 Parents Gateway (under Services tab) or the QR code below. Either parent
 can login to submit the required particulars.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Student_Details_Form" src="/images/New P1 Parents/Student_Details_Form_QR.jpg">
 </div>
-<p></p>
+<h4></h4>
+<hr>
 <h4>GIRO</h4>
 <p>Sign up for MOE GIRO scheme to enjoy these benefits:</p>
 <ul data-tight="true" class="tight">
@@ -73,7 +74,7 @@ charges via Parents Gateway (under Services tab) or online at <a href="https://w
 For details, please refer to <a href="https://go.gov.sg/moeegirouserguide" rel="noopener noreferrer nofollow" target="_blank">eGIRO user guide</a>.</p>
 <p>If a successful GIRO application is made by 27 Jan 2026, the first deduction
 will occur on 26 Feb 2026, covering both January and February fees.</p>
-<p></p>
+<hr>
 <h4>Edusave Account</h4>
 <p>All Singapore Citizen (SC) students have an Edusave account automatically
 opened for them and receive a yearly contribution. Parents can sign up
@@ -87,7 +88,7 @@ For details, please refer to the Information Sheet <em>[create hyperlink to INFO
 <p>You need to submit the standing order form by 20 Jan 2026 for it to take
 effect in the January-February MOE bill. You will receive an email notification
 regarding successful or unsuccessful activation by the end of January.</p>
-<p></p>
+<hr>
 <h4>MOE Financial Assistance Scheme</h4>
 <p>Application for the MOE Financial Assistance Scheme can be made online
 at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.
@@ -96,7 +97,7 @@ For more information, please visit <a rel="noopener noreferrer nofollow" target=
 to apply by 30 November 2025 to ensure that your child can collect the
 free textbooks and uniform during the allocated collection period from
 15 to 17 Dec 2025.</p>
-<p></p>
+<hr>
 <h4>School Textbooks and Uniform</h4>
 <p>Our appointed vendors are Pacific Bookstores (for textbooks) and My Uniform
 (Asia) Pte Ltd (for uniforms). &nbsp;<a href="/files/New P1 Parents/P1_BOOK_LIST___Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the booklist</a>.</p>
@@ -169,48 +170,31 @@ submit it to the bookshop staff.</p>
 </table>
 <p><em>NOTE:</em><strong><em> </em></strong><em>Do not purchase textbooks and uniforms if you are applying for financial assistance (FAS), as successful applicants will enjoy free textbooks and uniforms. There will be no reimbursement or retrospective subsidies provided in respect of expenditure items provided under FAS.</em>
 </p>
-<p></p>
+<hr>
 <h4>School-based Student Care</h4>
 <p>Singapore EduSmart Learning Hub Pte Ltd is our after-school student care
 service provider who will follow-up with parents who have indicated their
 interest by 20 Sep 2025. Please contact the operator&nbsp;directly at
 <a rel="noopener noreferrer nofollow" target="_blank">wellington_sccops@singaporeedusmart.edu.sg</a>&nbsp;or&nbsp;9648 6188&nbsp;should
 you have any queries.</p>
-<p></p>
+<hr>
 <h4>School Bus Services</h4>
 <p>Our school bus operator is L&amp;W Transport Services Pte Ltd. Should
 you require school bus service, please contact the operator at <a rel="noopener noreferrer nofollow" target="_blank">sales@wltransportservices.com</a> or
 8404 7323.</p>
-<p></p>
+<hr>
 <h4>Travel Declaration</h4>
 <p>If your child is travelling during the 2025 year-end school holidays,
 please declare his/her travel plans via Parents Gateway (under Services
 tab). If your child is not travelling during the holidays, no action is
 required. Only one parent is required to make the declaration.</p>
-<p></p>
+<hr>
 <h4>POSB Smart Buddy</h4>
 <p>The school canteen stalls and bookshop accept cashless payment via the
 Smart Buddy watch/card as well as ezlink card. To help your children cultivate
 good money habits, you may sign up for the Smart Buddy via <a rel="noopener noreferrer nofollow" target="_blank">go.posb.com.sg/sb-pg</a>. Please refer
 to Smart Buddy Registration Letter (PayBuddy) for more information.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>POSB Smart Buddy</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The school canteen stalls and bookshop accept cashless payment via the
-Smart Buddy watch/card as well as ezlink card. To help your children cultivate
-good money habits, you may sign up for the Smart Buddy via <a rel="noopener noreferrer nofollow" target="_blank">go.posb.com.sg/sb-pg</a>. Please refer
-to Smart Buddy Registration Letter (PayBuddy) for more information.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Travel Declaration</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>If your child is travelling during the 2025 year-end school holidays,
-please declare his/her travel plans via Parents Gateway (under Services
-tab). If your child is not travelling during the holidays, no action is
-required. Only one parent is required to make the declaration.</p>
-</div>
-</details>
-</div>
+<hr>
+<p></p>
+<p></p>
 <p></p>
