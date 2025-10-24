@@ -49,7 +49,7 @@ Parents Gateway (under Services tab) or the QR code below. Either parent
 can login to submit the required particulars.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Student_Details_Form" src="/images/New P1 Parents/Student_Details_Form_QR.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="Student_Details_Form" src="/images/New P1 Parents/Student_Details_Form_QR.jpg">
 </div>
 <p></p>
 <p></p>
