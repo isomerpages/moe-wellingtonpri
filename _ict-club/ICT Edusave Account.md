@@ -1,6 +1,6 @@
 ---
-title: Test Edusave Account
-permalink: /useful-links/for-parents/test/test-edusave-account/
+title: ICT Edusave Account
+permalink: /our-departments-and-cca/ict-club/ict-edusave-account/
 variant: markdown
 description: ""
 ---

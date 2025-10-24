@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /useful-links/for-parents/new-p1-parents/
+permalink: /useful-links/for-parents/new-p1-parents/parent-gateway/
 variant: tiptap
 description: ""
 ---

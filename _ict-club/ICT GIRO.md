@@ -1,6 +1,6 @@
 ---
-title: Test GIRO
-permalink: /useful-links/for-parents/test/test-giro/
+title: ICT GIRO
+permalink: /our-departments-and-cca/ict-club/ict-giro/
 variant: markdown
 description: ""
 ---

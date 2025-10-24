@@ -1,6 +1,6 @@
 ---
-title: Test Parents Gateway
-permalink: /useful-links/for-parents/test/test-parents-gateway/
+title: ICT Parents Gateway
+permalink: /our-departments-and-cca/ict-club/ict-parents-gateway/
 variant: markdown
 description: ""
 ---

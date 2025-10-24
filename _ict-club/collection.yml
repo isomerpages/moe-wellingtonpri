@@ -1,0 +1,8 @@
+collections:
+  ict-club:
+    output: true
+    order:
+      - ICT Test.md
+      - ICT Parents Gateway.md
+      - ICT Edusave Account.md
+      - ICT GIRO.md
