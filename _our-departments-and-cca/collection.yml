@@ -2,8 +2,8 @@ collections:
   our-departments-and-cca:
     output: true
     order:
-      - ICT Club.md
       - Our Departments & CCA.md
+      - ICT Club.md
       - English.md
       - Mathematics.md
       - Chinese.md
