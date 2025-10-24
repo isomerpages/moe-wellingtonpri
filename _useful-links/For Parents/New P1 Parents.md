@@ -6,6 +6,7 @@ description: ""
 third_nav_title: For Parents
 ---
 <p>New to Primary 1? Find out about our arrival and dismissal gates <a href="https://sites.google.com/view/p1parentswtp" rel="noopener nofollow" target="_blank">here</a>.</p>
+<hr>
 <h3>Administrative Matters</h3>
 <h4>Parents Gateway</h4>
 <p>Parents Gateway (PG) is a mobile app specially designed for parents. The
@@ -36,7 +37,6 @@ process. Please refer to the following documents for additional information:</p>
 quick answers to general questions</p>
 </li>
 </ul>
-<p></p>
 <h4>Student Details Form</h4>
 <p>As your child/ward will be starting primary one in January 2026, the Ministry
 of Education (MOE) would like to collect necessary information about you
@@ -106,4 +106,101 @@ and/or uniforms are as shown in the table.</p>
 <p>For walk-in without pre-order, please print out and complete the <a href="/files/New P1 Parents/Name_Tag_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Name Tag Form</a> and
 submit it to the bookshop staff.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New P1 Parents/Collection_of_pre_ordered_textbooks_and_uniforms_.jpg">
+</div>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Vendor</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Item</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Online Order</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Enquiries</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pacific Bookstores Pte Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Textbooks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wtps@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">wtps@pacificbookstores.com</a>
+<br><em>*Launched on 11 Nov 2025</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9855 2013 (WhatsApp only)
+<br>wtps@pacificbookstores.com</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>My Uniform (Asia) Pte Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Uniforms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>www.myuniformshop.com.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8014 9923 (WhatsApp only)
+<br><a href="mailto:myuniformshopasia@gmail.com" rel="noopener noreferrer nofollow" target="_blank">myuniformshopasia@gmail.com</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>NOTE:</em><strong><em> </em></strong><em>Do not purchase textbooks and uniforms if you are applying for financial assistance (FAS), as successful applicants will enjoy free textbooks and uniforms. There will be no reimbursement or retrospective subsidies provided in respect of expenditure items provided under FAS.</em>
+</p>
+<p></p>
+<h4>School-based Student Care</h4>
+<p>Singapore EduSmart Learning Hub Pte Ltd is our after-school student care
+service provider who will follow-up with parents who have indicated their
+interest by 20 Sep 2025. Please contact the operator&nbsp;directly at
+<a rel="noopener noreferrer nofollow" target="_blank">wellington_sccops@singaporeedusmart.edu.sg</a>&nbsp;or&nbsp;9648 6188&nbsp;should
+you have any queries.</p>
+<p></p>
+<h4>School Bus Services</h4>
+<p>Our school bus operator is L&amp;W Transport Services Pte Ltd. Should
+you require school bus service, please contact the operator at <a rel="noopener noreferrer nofollow" target="_blank">sales@wltransportservices.com</a> or
+8404 7323.</p>
+<p></p>
+<h4>Travel Declaration</h4>
+<p>If your child is travelling during the 2025 year-end school holidays,
+please declare his/her travel plans via Parents Gateway (under Services
+tab). If your child is not travelling during the holidays, no action is
+required. Only one parent is required to make the declaration.</p>
+<p></p>
+<h4>POSB Smart Buddy</h4>
+<p>The school canteen stalls and bookshop accept cashless payment via the
+Smart Buddy watch/card as well as ezlink card. To help your children cultivate
+good money habits, you may sign up for the Smart Buddy via <a rel="noopener noreferrer nofollow" target="_blank">go.posb.com.sg/sb-pg</a>.
+Please refer to Smart Buddy Registration Letter (PayBuddy) for more information.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>The school canteen stalls and bookshop accept cashless payment via the Smart Buddy watch/card as well as ezlink card. To help your children cultivate good money habits, you may sign up for the Smart Buddy via <a rel="noopener noreferrer nofollow" target="_blank">go.posb.com.sg/sb-pg</a>. Please refer to Smart Buddy Registration Letter (PayBuddy) for more information.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
