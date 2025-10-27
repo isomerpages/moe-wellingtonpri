@@ -43,7 +43,7 @@ and your child/ward to provide educational services for your child/ward
 in our schools.</p>
 <p>Please submit the information through the online Student Details Form
 portal from 1 Dec 2025, 10.00am to 31 Dec 2025. The portal can be accessed
-via the URL <a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>,
+via the URL <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>,
 Parents Gateway (under Services tab) or the QR code below. Either parent
 can login to submit the required particulars.</p>
 <div class="isomer-image-wrapper">
