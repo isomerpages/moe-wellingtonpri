@@ -153,7 +153,7 @@ submit it to the bookshop staff.</p>
 <p>Uniforms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.myuniformshop.com.sg" rel="noopener nofollow" target="_blank">www.myuniformshop.com.sg</a>
+<p><a href="https://www.myuniformshop.com.sg" rel="noopener nofollow" target="_blank">www.myuniformshop.com.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
