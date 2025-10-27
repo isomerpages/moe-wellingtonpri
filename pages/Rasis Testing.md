@@ -40,7 +40,7 @@ and your child/ward to provide educational services for your child/ward
 in our schools.</p>
 <p>Please submit the information through the online Student Details Form
 portal from 1 Dec 2025, 10.00am to 31 Dec 2025. The portal can be accessed
-via the URL <a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>,
+via the URL <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>,
 Parents Gateway (under Services tab) or the QR code below. Either parent
 can login to submit the required particulars.</p>
 <div class="isomer-image-wrapper">
@@ -78,16 +78,15 @@ pay miscellaneous fees and enrichment programmes to reduce their cash out-of-poc
 expenses.</p>
 <p>Application is to be made via Parents Gateway (under Services tab) or
 the online <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">Standing Order for Use of Edusave Account At Govt / Govt-Aided School (wef June 2025) | FormSG</a>.
-For details, please refer to the Information Sheet <em>[create hyperlink to INFORMATION SHEET: EDUSAVE AND GIRO STANDING ORDER]</em> or
-<a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener noreferrer nofollow" target="_blank">Edusave Account | MOE</a>.</p>
+For details please refer to <a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener noreferrer nofollow" target="_blank">Edusave Account | MOE</a>.</p>
 <p>You need to submit the standing order form by 20 Jan 2026 for it to take
 effect in the January-February MOE bill. You will receive an email notification
 regarding successful or unsuccessful activation by the end of January.</p>
 <hr>
 <h4>MOE Financial Assistance Scheme</h4>
 <p>Application for the MOE Financial Assistance Scheme can be made online
-at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.
-For more information, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/financial-assistance-moe</a>.</p>
+at <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.
+For more information, please visit <a href="https://go.gov.sg/financial-assistance-moe" rel="noopener nofollow" target="_blank">https://go.gov.sg/financial-assistance-moe</a>.</p>
 <p>While applications are accepted throughout the year, we encourage you
 to apply by 30 November 2025 to ensure that your child can collect the
 free textbooks and uniform during the allocated collection period from
@@ -99,7 +98,7 @@ free textbooks and uniform during the allocated collection period from
 <p>Parents are encouraged to place online orders and choose either home delivery
 or self-collection in school. The dates for collection of pre-ordered textbooks
 and/or uniforms are as shown in the table.</p>
-<p>For walk-in without pre-order, please print out and complete the <a href="/files/New P1 Parents/Name_Tag_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Name Tag Form</a> and
+<p>For walk-in without pre-order, please print out and complete the <a href="/files/New P1 Parents/Name_Tag_Form_2026_WTPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Name Tag Form</a> and
 submit it to the bookshop staff.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -136,13 +135,14 @@ submit it to the bookshop staff.</p>
 <p>Textbooks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wtps@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">wtps@pacificbookstores.com</a>
+<p><a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a>
 <br><em>*Launched on 11 Nov 2025</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9855 2013 (WhatsApp only)
-<br>wtps@pacificbookstores.com</p>
+<br><a href="mailto:wtps@pacificbookstores.com" rel="noopener nofollow" target="_blank">wtps@pacificbookstores.com</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +153,8 @@ submit it to the bookshop staff.</p>
 <p>Uniforms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>www.myuniformshop.com.sg</p>
+<p><a href="https://www.myuniformshop.com.sg" rel="noopener nofollow" target="_blank">www.myuniformshop.com.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8014 9923 (WhatsApp only)
@@ -170,12 +171,12 @@ submit it to the bookshop staff.</p>
 <p>Singapore EduSmart Learning Hub Pte Ltd is our after-school student care
 service provider who will follow-up with parents who have indicated their
 interest by 20 Sep 2025. Please contact the operator&nbsp;directly at
-<a rel="noopener noreferrer nofollow" target="_blank">wellington_sccops@singaporeedusmart.edu.sg</a>&nbsp;or&nbsp;9648 6188&nbsp;should
+<a href="mailto:wellington_sccops@singaporeedusmart.edu.sg" rel="noopener nofollow" target="_blank">wellington_sccops@singaporeedusmart.edu.sg</a>&nbsp;or&nbsp;9648 6188&nbsp;should
 you have any queries.</p>
 <hr>
 <h4>School Bus Services</h4>
 <p>Our school bus operator is L&amp;W Transport Services Pte Ltd. Should
-you require school bus service, please contact the operator at <a rel="noopener noreferrer nofollow" target="_blank">sales@wltransportservices.com</a> or
+you require school bus service, please contact the operator at <a href="mailto:sales@wltransportservices.com" rel="noopener nofollow" target="_blank">sales@wltransportservices.com</a> or
 8404 7323.</p>
 <hr>
 <h4>Travel Declaration</h4>
@@ -187,5 +188,6 @@ required. Only one parent is required to make the declaration.</p>
 <h4>POSB Smart Buddy</h4>
 <p>The school canteen stalls and bookshop accept cashless payment via the
 Smart Buddy watch/card as well as ezlink card. To help your children cultivate
-good money habits, you may sign up for the Smart Buddy via <a rel="noopener noreferrer nofollow" target="_blank">go.posb.com.sg/sb-pg</a>. Please refer
-to Smart Buddy Registration Letter (PayBuddy) for more information.</p>
+good money habits, you may sign up for the Smart Buddy via <a href="https://go.posb.com.sg/sb-pg" rel="noopener nofollow" target="_blank">go.posb.com.sg/sb-pg</a>.
+Please refer to <a href="/files/New P1 Parents/Smart_Buddy_Registration_Letter__PayBuddy_.pdf" rel="noopener noreferrer nofollow" target="_blank">Smart Buddy Registration Letter (PayBuddy)</a> for
+more information.</p>
