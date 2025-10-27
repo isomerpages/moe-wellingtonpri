@@ -40,7 +40,7 @@ and your child/ward to provide educational services for your child/ward
 in our schools.</p>
 <p>Please submit the information through the online Student Details Form
 portal from 1 Dec 2025, 10.00am to 31 Dec 2025. The portal can be accessed
-via the URL <a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>,
+via the URL <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>,
 Parents Gateway (under Services tab) or the QR code below. Either parent
 can login to submit the required particulars.</p>
 <div class="isomer-image-wrapper">
@@ -78,16 +78,15 @@ pay miscellaneous fees and enrichment programmes to reduce their cash out-of-poc
 expenses.</p>
 <p>Application is to be made via Parents Gateway (under Services tab) or
 the online <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">Standing Order for Use of Edusave Account At Govt / Govt-Aided School (wef June 2025) | FormSG</a>.
-For details, please refer to the Information Sheet <em>[create hyperlink to INFORMATION SHEET: EDUSAVE AND GIRO STANDING ORDER]</em> or
-<a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener noreferrer nofollow" target="_blank">Edusave Account | MOE</a>.</p>
+For details please refer to <a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener noreferrer nofollow" target="_blank">Edusave Account | MOE</a>.</p>
 <p>You need to submit the standing order form by 20 Jan 2026 for it to take
 effect in the January-February MOE bill. You will receive an email notification
 regarding successful or unsuccessful activation by the end of January.</p>
 <hr>
 <h4>MOE Financial Assistance Scheme</h4>
 <p>Application for the MOE Financial Assistance Scheme can be made online
-at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.
-For more information, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/financial-assistance-moe</a>.</p>
+at <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.
+For more information, please visit <a href="https://go.gov.sg/financial-assistance-moe" rel="noopener nofollow" target="_blank">https://go.gov.sg/financial-assistance-moe</a>.</p>
 <p>While applications are accepted throughout the year, we encourage you
 to apply by 30 November 2025 to ensure that your child can collect the
 free textbooks and uniform during the allocated collection period from
