@@ -135,7 +135,7 @@ submit it to the bookshop staff.</p>
 <p>Textbooks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a>
+<p><a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a>
 <br><em>*Launched on 11 Nov 2025</em>
 </p>
 </td>
