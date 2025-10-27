@@ -89,8 +89,8 @@ regarding successful or unsuccessful activation by the end of January.</p>
 <hr>
 <h4>MOE Financial Assistance Scheme</h4>
 <p>Application for the MOE Financial Assistance Scheme can be made online
-at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.
-For more information, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/financial-assistance-moe</a>.</p>
+at <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.
+For more information, please visit <a href="https://go.gov.sg/financial-assistance-moe" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/financial-assistance-moe</a>.</p>
 <p>While applications are accepted throughout the year, we encourage you
 to apply by 30 November 2025 to ensure that your child can collect the
 free textbooks and uniform during the allocated collection period from
