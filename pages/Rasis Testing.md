@@ -98,7 +98,7 @@ free textbooks and uniform during the allocated collection period from
 <p>Parents are encouraged to place online orders and choose either home delivery
 or self-collection in school. The dates for collection of pre-ordered textbooks
 and/or uniforms are as shown in the table.</p>
-<p>For walk-in without pre-order, please print out and complete the <a href="/files/New P1 Parents/Name_Tag_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Name Tag Form</a> and
+<p>For walk-in without pre-order, please print out and complete the <a href="/files/New P1 Parents/Name_Tag_Form_2026_WTPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Name Tag Form</a> and
 submit it to the bookshop staff.</p>
 <p></p>
 <div class="isomer-image-wrapper">
