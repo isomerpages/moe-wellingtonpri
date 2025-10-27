@@ -189,4 +189,5 @@ required. Only one parent is required to make the declaration.</p>
 <p>The school canteen stalls and bookshop accept cashless payment via the
 Smart Buddy watch/card as well as ezlink card. To help your children cultivate
 good money habits, you may sign up for the Smart Buddy via <a href="go.posb.com.sg/sb-pg" rel="noopener nofollow" target="_blank">go.posb.com.sg/sb-pg</a>.
-Please refer to Smart Buddy Registration Letter (PayBuddy) for more information.</p>
+Please refer to <a href="/files/New P1 Parents/Smart_Buddy_Registration_Letter__PayBuddy_.pdf" rel="noopener noreferrer nofollow" target="_blank">Smart Buddy Registration Letter (PayBuddy)</a> for
+more information.</p>
