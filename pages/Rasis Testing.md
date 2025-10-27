@@ -171,12 +171,12 @@ submit it to the bookshop staff.</p>
 <p>Singapore EduSmart Learning Hub Pte Ltd is our after-school student care
 service provider who will follow-up with parents who have indicated their
 interest by 20 Sep 2025. Please contact the operator&nbsp;directly at
-<a rel="noopener noreferrer nofollow" target="_blank">wellington_sccops@singaporeedusmart.edu.sg</a>&nbsp;or&nbsp;9648 6188&nbsp;should
+<a href="mailto:wellington_sccops@singaporeedusmart.edu.sg" rel="noopener nofollow" target="_blank">wellington_sccops@singaporeedusmart.edu.sg</a>&nbsp;or&nbsp;9648 6188&nbsp;should
 you have any queries.</p>
 <hr>
 <h4>School Bus Services</h4>
 <p>Our school bus operator is L&amp;W Transport Services Pte Ltd. Should
-you require school bus service, please contact the operator at <a rel="noopener noreferrer nofollow" target="_blank">sales@wltransportservices.com</a> or
+you require school bus service, please contact the operator at <a href="mailto:sales@wltransportservices.com" rel="noopener nofollow" target="_blank">sales@wltransportservices.com</a> or
 8404 7323.</p>
 <hr>
 <h4>Travel Declaration</h4>
@@ -188,5 +188,5 @@ required. Only one parent is required to make the declaration.</p>
 <h4>POSB Smart Buddy</h4>
 <p>The school canteen stalls and bookshop accept cashless payment via the
 Smart Buddy watch/card as well as ezlink card. To help your children cultivate
-good money habits, you may sign up for the Smart Buddy via <a rel="noopener noreferrer nofollow" target="_blank">go.posb.com.sg/sb-pg</a>. Please refer
-to Smart Buddy Registration Letter (PayBuddy) for more information.</p>
+good money habits, you may sign up for the Smart Buddy via <a href="go.posb.com.sg/sb-pg" rel="noopener nofollow" target="_blank">go.posb.com.sg/sb-pg</a>.
+Please refer to Smart Buddy Registration Letter (PayBuddy) for more information.</p>
