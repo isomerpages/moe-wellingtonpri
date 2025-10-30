@@ -4,22 +4,32 @@ permalink: /our-departments-and-cca/cca/chinese-dance/
 description: ""
 variant: tiptap
 ---
+<h4>Chinese Dance</h4>
 <p>Wellington Primary School Chinese Dance Troupe develops our dancers not
-only physically and aesthetically, but also aims to foster in them an appreciation
-of the Chinese Arts as well as instill in them discipline.Our experienced
-instructor provides professional guidance and over time, our dancers learnt
-skills that would improve their motor reflexes and present themselves with
-grace and finesse. They are also taught various traditional and contemporary
-dance techniques.&nbsp;</p>
+only physically and aesthetically but also aims to foster in them an appreciation
+of the Chinese Arts as well as instill in them discipline.</p>
+<p>Our experienced instructors provide professional guidance and over time,
+our dancers learnt skills that would improve their motor reflexes and present
+themselves with grace and finesse. They are also taught various traditional
+and contemporary dance techniques.</p>
 <p>Through the CCA, our dancers learn the values of commitment, perseverance,
 self-discipline, and the importance of teamwork. With our motto “When there
 is a will, there is a way”, all dancers are encouraged to work towards
 a common goal of attaining excellence, overcoming challenges and persevering
-till the end.&nbsp;</p>
-<p>Every year, our dancers perform in the school and at public places. In
-addition, they also take part in the bi-annual nationwide Singapore Youth
-Festival.</p>
+till the end.</p>
+<p>Every year, our dancers perform in the school and at public places.&nbsp;
+In addition, they also take part in the bi-annual nationwide Singapore
+Youth Festival.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/chinese%20dance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Dance CCA/Chinese_Dance_01.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Dance CCA/Chinese_Dance_02.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Dance CCA/Chinese_Dance_03.png">
 </div>
 <p></p>
