@@ -22,14 +22,14 @@ In addition, they also take part in the bi-annual nationwide Singapore
 Youth Festival.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Dance CCA/Chinese_Dance_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Dance CCA/Chinese_Dance_01.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Dance CCA/Chinese_Dance_02.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Dance CCA/Chinese_Dance_02.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Dance CCA/Chinese_Dance_03.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Dance CCA/Chinese_Dance_03.jpg">
 </div>
 <p></p>
