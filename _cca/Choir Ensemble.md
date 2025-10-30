@@ -86,3 +86,16 @@ confidence.</p>
 <p>Whether you’re an experienced singer or just beginning your musical journey,
 the Choir CCA offers a supportive and inspiring environment to find your
 voice and grow as both a musician and a team player.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir CCA/Choir_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir CCA/Choir_02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir CCA/Choir_03.jpg">
+</div>
+<p></p>
