@@ -20,16 +20,13 @@ contributors to a greener future.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mr Tan Wee Loon</strong>
-</p>
+<p>Mr Tan Wee Loon</p>
 </li>
 <li>
-<p><strong>Mdm Siti Zaleha</strong>
-</p>
+<p>Mdm Siti Zaleha</p>
 </li>
 <li>
-<p><strong>Mdm Zulaiha</strong>
-</p>
+<p>Mdm Zulaiha</p>
 </li>
 </ul>
 <p></p>
