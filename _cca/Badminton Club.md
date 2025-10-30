@@ -4,10 +4,18 @@ permalink: /our-departments-and-cca/cca/badminton-club/
 description: ""
 variant: tiptap
 ---
-The badminton club seeks to equip technical and tactical badminton skills in budding players who have a keen interest in this popular sport. All students are given opportunities to develop their leadership skills. The club hopes to imbue sportsmanship qualities in all students. Everyone gets a chance to develop the basic skills through drills and trainings with their peers.&nbsp;  
-
-The club is divided into the following groups: non-school team members, Junior Boys and Girls School team members and Senior Boys and Girls School team members.&nbsp;
-
-Students train under the tutelage of a professional coach engaged by the school. They are also given opportunities to apply their skills during competitions. This year, the Senior badminton players participated in the North Zone Badminton tournament. Although the team did not advance into the second round of the tournament, they learnt the importance of teamwork and sportsmanship. The Junior team, consisting of Primary 3, 4 and 5 students, was formed at the beginning of this year. They will be taking part in the Junior tournament in the coming year.
-
-<img src="/images/badminton%20club.jpg" style="width:80%">
+<p>Badminton CCA serves to equip budding students with technical and tactical
+badminton skills. Every player gets the opportunity to develop the basic
+skills through drills and games with their peers. Students who demonstrate
+greater potential through diligence and positive training attitude will
+be invited for after-school training sessions.</p>
+<p>These after-school training sessions are conducted by a professional coach
+who is engaged by the school. Some of the students who attend the after-school
+training sessions will be selected to represent the school in the annual
+National School Games (NSG) competitions.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/badminton%20club.jpg">
+</div>
+<p></p>
