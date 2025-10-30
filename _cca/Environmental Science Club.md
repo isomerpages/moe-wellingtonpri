@@ -2,17 +2,61 @@
 title: Environmental Science Club
 permalink: /our-departments-and-cca/cca/environmental-science-club/
 description: ""
+variant: tiptap
 ---
-Green Innovation Club aims to develop an awareness among students in environmental conservation and protection. Efforts are made by the club to encourage students to deepen their commitment towards 5R initiatives – Replant, Refuse, Reduce, Reuse and Recycle. Through various activities, we hope to inspire in them a love for nature and cultivate responsibility and care.&nbsp;  
-
-In 2019, selected members from Green Innovation Club participated in National Youth Upcycling Movement (NYUM) competition and achieved the GOLD award. Club members were empowered to initiate a project and lead the team, raising awareness on upcycling in school and in the community.&nbsp;
-
-Every session, club members search for caterpillars in our school Butterfly Sanctuary. They are taught how to look after the caterpillars. Interested members are allowed to bring home the caterpillars and look after them before releasing them in our school Butterfly Sanctuary after they turn into butterflies.&nbsp;
-
-  
-
-Besides that, students from Green Innovation Club are tasked to plant vegetables in the school’s garden. They acquire basic planting skills and the harvested vegetables are brought home by interested members. Leadership opportunities are given to Club members. Some CCAs sessions are allocated for them to guide their Lower Primary friends spot for caterpillars in our school Butterfly Sanctuary and to teach them how to classify the type of waste.
-
-<img src="/images/Green%201.jpg" style="width:70%">
-		 
-<img src="/images/environmental%20club.jpg" style="width:80%">
+<h4><strong>Environmental Science Club (Green Club)</strong></h4>
+<p><strong>Discover. Create. Protect.</strong>
+</p>
+<p>The <strong>Environmental Science Club</strong> offers students an exciting
+opportunity to explore the wonders of nature through <strong>STEM (Science, Technology, Engineering and Mathematics)</strong>.
+Members take part in hands-on investigations, simple experiments, and creative
+projects that promote environmental awareness and sustainable living. From
+building solar cookers and wind turbines to crafting eco-friendly items,
+students learn how science and innovation can make the world a better place.</p>
+<p>Through school-wide and community-based green initiatives, our young Eco-Scientists
+also learn to take responsibility for their surroundings and become active
+contributors to a greener future.</p>
+<p><strong>Teachers-in-Charge</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Mr Tan Wee Loon</strong>
+</p>
+</li>
+<li>
+<p><strong>Mdm Siti Zaleha</strong>
+</p>
+</li>
+<li>
+<p><strong>Mdm Zulaiha</strong>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Objectives</strong>
+<br><strong>1. Environmental Awareness:</strong>
+<br>To nurture a sense of care and responsibility towards the environment
+through engaging and meaningful activities.
+<br><strong>2. STEM Exploration:</strong>
+<br>To develop curiosity and creativity by applying scientific concepts in
+real-life environmental challenges.
+<br><strong>3. Problem-Solving and Innovation:</strong>
+<br>To encourage students to think critically and design simple solutions
+for a sustainable world.
+<br><strong>4. Collaboration and Leadership:</strong>
+<br>To build teamwork and leadership skills as members plan and carry out
+eco-projects together.</p>
+<p></p>
+<p><strong>Join Us!</strong>
+<br>If you love exploring, creating, and caring for the planet, the <strong>Environmental Science Club</strong> is
+the perfect place for you! Together, we’ll <strong>learn, invent, and inspire change</strong> —
+one green step at a time!
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/Green%201.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/environmental%20club.jpg">
+</div>
+<p></p>
