@@ -4,6 +4,7 @@ permalink: /our-departments-and-cca/cca/badminton-club/
 description: ""
 variant: tiptap
 ---
+<h4>Badminton</h4>
 <p>Badminton CCA serves to equip budding students with technical and tactical
 badminton skills. Every player gets the opportunity to develop the basic
 skills through drills and games with their peers. Students who demonstrate
