@@ -4,6 +4,7 @@ permalink: /our-departments-and-cca/cca/malay-dance/
 description: ""
 variant: tiptap
 ---
+<h4>Malay Dance</h4>
 <p>With 40 members,&nbsp;<em>Tari Wellington</em>&nbsp;or Wellington Primary
 School’s Malay Dance team, is committed to showcasing the Malay culture
 through dance. We named ourselves "Tari Wellington" to build a strong bond
