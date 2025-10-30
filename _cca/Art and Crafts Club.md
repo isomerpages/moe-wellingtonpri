@@ -20,14 +20,13 @@ and events. This year, our students took part in Singapore Youth Festival
 and external art competitions.</p>
 <p></p>
 <p><strong>Objectives:</strong>
-</p>
-<p>To encourage creativity in students and develop their self-expression
+<br>To encourage creativity in students and develop their self-expression
 in art.
 <br>To foster a love in art among the students through their appreciation
 for visual arts.
 <br>To strive for excellence through participation in art competitions.</p>
 <p></p>
-<p><strong><u>Teachers In-Charge:</u></strong>
+<p><strong>Teachers In-Charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
