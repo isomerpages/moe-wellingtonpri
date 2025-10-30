@@ -113,10 +113,10 @@ Course (2<sup>nd</sup> Run) 2018.&nbsp;</p>
 <p>Chief Scout Farwell Dance Performance 2023</p>
 </li>
 </ul>
-<hr>
-<p><strong>Activities and Events&nbsp;</strong>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scouts CCA/Scouts_2025.gif">
+</div>
 <p></p>
 <p>
 <br>
