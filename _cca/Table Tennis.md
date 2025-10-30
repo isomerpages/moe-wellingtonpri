@@ -4,26 +4,126 @@ permalink: /our-departments-and-cca/cca/table-tennis/
 description: ""
 variant: tiptap
 ---
-Table Tennis is a non-contact sport that increases one's agility and flexibility, strength and reflexes. Students are put through a rigorous training programme to help them develop these key areas. Wellington’s Table Tennis Club started in 2015 and our members have been participating in the North Zone Inter Primary Schools Championships since 2016. Through the competition, our players gain a better understanding of the sport, learn from their peers as well as to develop their resilience. To prepare for the competitions, selected members will be invited to attend school-team training sessions, in addition to the usual CCA training sessions.&nbsp;  
-
-To improve the skills of players and to maximize training effectiveness, Table Tennis Robots were purchased. The robots allow students to practice their strokes as the ping pong balls are fed to them consistently. This will allow them to build their muscle memory and improve their technique.&nbsp;  
-
-Our student, Toh Jun Hui, was awarded the Peter Lim SOF Scholarship. This scholarship is given to deserving athletes who showed good performance at the National School Games (NSG).  
-
-**CCA Training Days:** <br>
-Monday, 3.30 to 5.30 p.m. <br>
-Wednesday, 3.30 to 5.30 p.m. <br>
-Friday, 7.45 to 9.45 a.m.  
-
-The CCA is open to all Primary 3 to 6 students. Students interested in joining the CCA may approach the following teachers for assistance at the end of the year:
-
-Ms Denise Yeoh (OIC)&nbsp;<br>
-Ms Ang Lee Ching <br>
-Mdm Jennifer Lee&nbsp;<br>
-Mr Keith Ng <br>
-Mdm Radha&nbsp;<br>
-Mdm Sulaiha&nbsp;<br>
-Mr Tan King Yang&nbsp;<br> 
-Mdm Wong Joon Noi
-
-<img src="/images/table%20tennis.jpg" style="width:80%">
+<h4>Table Tennis</h4>
+<p></p>
+<p>Our Table Tennis CCA aims to build students’ performance character through
+the sport. On top of learning the technical skills in Table Tennis, the
+CCA also provides opportunities for students to sharpen their interpersonal
+skills through various training drills and gameplays. Our School team has
+consistently shown grit in the yearly Senior and Junior National School
+Games, maintaining our statuses in the League 2 and League 1 games respectively.
+We believe that character development comes before game skills, and we
+welcome any students who show keen interest in becoming their better self
+to join the school team development squad. Want to know more about our
+CCA? Approach any of the teachers in charge to ask us about it!</p>
+<p></p>
+<p><strong>Teachers-in-charge:</strong>
+</p>
+<ul>
+<li>
+<p>Mdm Faridah</p>
+</li>
+<li>
+<p>Mdm Ida</p>
+</li>
+<li>
+<p>Ms Karen Koek</p>
+</li>
+<li>
+<p>Mr Kareem</p>
+</li>
+<li>
+<p>Mr Patrick Kong</p>
+</li>
+<li>
+<p>Mr Tan King Yang</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Coaches:</strong>
+</p>
+<ul>
+<li>
+<p>Mr Dexter Han (Head Coach)</p>
+</li>
+<li>
+<p>Mr Seto Wai Hong (Coach)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Our Achievement for 2025:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Qaisara (5C) &amp; Ashley Low (5D)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion in Tier 2 Junior NSG Doubles</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jin Enru (3E) &amp; Lorene Koh (4E)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd position in Tier 1 Junior NSG Doubles</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhd Aryan (5F)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Entered Tier 2 in Junior NSG Singles</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chloe Lee (4C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Entered Tier 2 in Junior NSG Singles</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Luzano Mark Eron Soriano (6A)</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Sportsmanship Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhd Aryan (5F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jin Enru (3E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lorene Koh (4E)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
