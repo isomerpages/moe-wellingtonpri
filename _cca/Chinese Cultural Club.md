@@ -4,12 +4,13 @@ permalink: /our-departments-and-cca/cca/chinese-cultural-club/
 description: ""
 variant: tiptap
 ---
-Chinese Culture Club (CCC) will start next year, 2021!
-
-Our CCA Goal - To stimulate pupils’ interest in the learning of Chinese language and to promote Chinese culture via different activities such as Di Zi Gui.
-
-CCC aims to provide a platform for members to learn Chinese language and immerse in Traditional Chinese Culture. Through the activities and programmes organized, members will have a chance to acquire skills to speak good Mandarin and appreciate the learning of Chinese language and culture activities such as Chinese calligraphy, Chinese painting, The art of tea, etc.
-
-In addition, students will learn Di Zi Gui at a deeper level where they will apply the principles learnt in their daily life. Di Zi Gui will be used to cultivate the appreciation of Chinese classics and to instill moral values.&nbsp;
-
-Join us now to learn Traditional Chinese Culture in a happy atmosphere.
+<h4>Chinese Cultural Club</h4>
+<p>The Chinese Cultural Club offers students a meaningful opportunity to
+explore and appreciate the richness of Chinese heritage through language,
+arts, and traditions. Rooted in thousands of years of history, Chinese
+culture places a strong emphasis on values such as respect, harmony, and
+filial piety. Through activities like calligraphy, traditional music, festivals,
+and storytelling, students develop cultural awareness, strengthen their
+character, and learn the importance of community and identity. This CCA
+encourages not only the appreciation of culture but also the nurturing
+of values that help shape responsible and respectful individuals.</p>
