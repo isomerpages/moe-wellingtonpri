@@ -4,7 +4,7 @@ permalink: /our-departments-and-cca/cca/art-and-crafts-club/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Art Club</strong></h4>
+<h4><strong>Art and Crafts Club</strong></h4>
 <p>The Art &amp; Crafts Club aims to provide our students opportunities and
 exposure in art making and art appreciation. Club members will learn to
 express their ideas, feelings and experiences through different art forms
@@ -42,6 +42,9 @@ for visual arts.
 <p>Ms Luca (Teacher-in-charge)</p>
 </li>
 </ul>
+<p></p>
+<p><a href="https://drive.google.com/file/d/1qLS-UGEB9MdCSv_RQ3IlezWGTKeEQ5vE/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Art and Crafts CCA!</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art Club CCA/Art___Crafts_Club_01.jpg">
