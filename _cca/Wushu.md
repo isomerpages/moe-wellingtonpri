@@ -4,24 +4,32 @@ permalink: /our-departments-and-cca/cca/wushu/
 description: ""
 variant: tiptap
 ---
-<p>Wushu</p>
-<p>Wushu is a Chinese martial arts that focuses primarily on hand &amp; arm
-strikes and kicking techniques. Not only does it build strength and muscles,
-it promotes flexibility, balance and coordination of movements. In addition,
-it also develops discipline of character as students go through rigorous
-training to master the different skills. Friendships are also forged through
-teamwork.&nbsp;</p>
-<p>Many Wushu styles also utilize traditional martial arts weapons such as
-the cudgel, sword, broad sword and spear. Besides acquiring the fundamentals
-of Wushu, our coaches train Wushu members to put up the lion dance performance
-during Lunar New Year.&nbsp;</p>
-<p>Our school team members are given the opportunity to represent our school
-in the National Wushu competitions where they hone their skills in a competitive
-setting. They also perform during festive events such as the Lunar New
-Year and Mid-Autumn festival.</p>
-<p>Click <a href="https://drive.google.com/file/d/1qAk8uNO7RAsVoxjBoSFovqEKqyMWwtPW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the WUSHU CCA promotional video.</p>
+<h4>Wushu</h4>
+<p>In Wushu CCA, students enhance their strength, flexibility, and coordination
+through practicing fundamental techniques such as stable stances, precise
+punches, powerful kicks, and agile jumps. They will also have the opportunity
+to learn both basic and intermediate routines in fist and weapon forms,
+gaining a deeper appreciation of the artistry and discipline behind this
+traditional Chinese martial art.</p>
+<p></p>
+<p>Beyond physical training, Wushu cultivates important life skills and values.
+Through consistent practice, students develop focus, perseverance, and
+self-discipline. They learn to work together as a team, show respect to
+one another, and build confidence as they overcome challenges.</p>
+<p></p>
+<p>As they progress, students are encouraged to perform during school events
+and take part in competitions, including the <strong>National School Games</strong>,
+where they proudly display their dedication and school spirit.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/wushu.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Wushu CCA/Wushu_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Wushu CCA/Wushu_02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Wushu CCA/Wushu_03.jpg">
 </div>
 <p></p>
