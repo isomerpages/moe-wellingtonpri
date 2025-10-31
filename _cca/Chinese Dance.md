@@ -21,6 +21,9 @@ till the end.</p>
 In addition, they also take part in the bi-annual nationwide Singapore
 Youth Festival.</p>
 <p></p>
+<p><a href="https://drive.google.com/file/d/1dkTyaqDN1xB-UShnBAHwWYCZ5Cec10rU/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Chinese Dance CCA!</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese Dance CCA/Chinese_Dance_01.jpg">
 </div>
