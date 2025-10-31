@@ -16,10 +16,8 @@ also teamwork, strategy, and mental strength. Members were also given opportunit
 to represent the school in friendly matches and national tournaments, testing
 their abilities against other schools while strengthening camaraderie and
 school pride.</p>
-<p></p>
 <p><a href="https://drive.google.com/file/d/1retYCOMG6ccFy8Env3Q-8A2FqF148ER7/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Football CCA!</a>
 </p>
-<p></p>
 <p>Our school’s football teams have made us proud once again with their outstanding
 performances at the <strong>National School Games</strong>:</p>
 <p>🏅 <strong>Senior Boys Team</strong> – <em>3rd Place in National League 2</em>
