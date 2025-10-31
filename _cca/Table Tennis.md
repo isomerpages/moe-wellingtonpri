@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4>Table Tennis</h4>
-<p></p>
 <p>Our Table Tennis CCA aims to build students’ performance character through
 the sport. On top of learning the technical skills in Table Tennis, the
 CCA also provides opportunities for students to sharpen their interpersonal
@@ -16,7 +15,8 @@ We believe that character development comes before game skills, and we
 welcome any students who show keen interest in becoming their better self
 to join the school team development squad. Want to know more about our
 CCA? Approach any of the teachers in charge to ask us about it!</p>
-<p></p>
+<p><a href="https://drive.google.com/file/d/135I4QwokRfURsdSGZGMucrgrWrCgs9Hx/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Table Tennis CCA!</a>
+</p>
 <p><strong>Teachers-in-charge:</strong>
 </p>
 <ul>
@@ -127,5 +127,3 @@ CCA? Approach any of the teachers in charge to ask us about it!</p>
 </tbody>
 </table>
 <p></p>
-<p><a href="https://drive.google.com/file/d/135I4QwokRfURsdSGZGMucrgrWrCgs9Hx/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Table Tennis CCA!</a>
-</p>
