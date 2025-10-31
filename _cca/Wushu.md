@@ -21,6 +21,9 @@ one another, and build confidence as they overcome challenges.</p>
 and take part in competitions, including the <strong>National School Games</strong>,
 where they proudly display their dedication and school spirit.</p>
 <p></p>
+<p><a href="https://drive.google.com/file/d/1nP-u3IINFRgHMkBwKlkcVKxqAlS-LWIm/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Wushu CCA!</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Wushu CCA/Wushu_01.jpg">
 </div>
