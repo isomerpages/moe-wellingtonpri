@@ -11,12 +11,10 @@ punches, powerful kicks, and agile jumps. They will also have the opportunity
 to learn both basic and intermediate routines in fist and weapon forms,
 gaining a deeper appreciation of the artistry and discipline behind this
 traditional Chinese martial art.</p>
-<p></p>
 <p>Beyond physical training, Wushu cultivates important life skills and values.
 Through consistent practice, students develop focus, perseverance, and
 self-discipline. They learn to work together as a team, show respect to
 one another, and build confidence as they overcome challenges.</p>
-<p></p>
 <p>As they progress, students are encouraged to perform during school events
 and take part in competitions, including the <strong>National School Games</strong>,
 where they proudly display their dedication and school spirit.</p>
