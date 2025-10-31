@@ -32,6 +32,9 @@ to the community through inspiring artistry and cultural expression. The
 shared joy of performing and celebrating milestones as a united troupe
 creates an unforgettable journey that shapes both heart and character.</p>
 <p></p>
+<p><a href="https://drive.google.com/file/d/1lVH6I-QAXCVZ_vlKGskowdPNo76g-rT8/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Modern Dance CCA!</a>
+</p>
+<p></p>
 <p><strong><u>Recent Achievements</u></strong>
 </p>
 <ul data-tight="true" class="tight">
