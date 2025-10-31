@@ -127,3 +127,5 @@ CCA? Approach any of the teachers in charge to ask us about it!</p>
 </tbody>
 </table>
 <p></p>
+<p><a href="https://drive.google.com/file/d/135I4QwokRfURsdSGZGMucrgrWrCgs9Hx/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Table Tennis CCA!</a>
+</p>
