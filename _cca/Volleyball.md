@@ -27,10 +27,8 @@ resilience, teamwork and discipline.</p>
 <p>Membership is open to Primary 3 to 6 students who are interested to pick
 up basic volleyball skills. Recruitment is open at the end of the year
 to those who wish to join the CCA.&nbsp;</p>
-<p></p>
 <p>For more information, interested students are to look for Mdm Wang Guohong,
 the overall teacher-in-charge of Volleyball.</p>
-<p></p>
 <p><a href="https://drive.google.com/file/d/1PN8ayfKPf_aW2YiK-EbHMkDrcyx-fXHu/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Volleyball CCA!</a>
 </p>
 <p></p>
