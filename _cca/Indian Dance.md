@@ -20,10 +20,8 @@ dance.&nbsp;</p>
 sessions are held every Friday from 7.35 to 9.35am.&nbsp; Additional practice
 sessions are conducted after school if there are upcoming performances
 or competitions.</p>
-<p></p>
 <p><a href="https://drive.google.com/file/d/1pkqvuj55OTxVRK4sMcRcVmjVsRfrFia9/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Indian Dance CCA!</a>
 </p>
-<p></p>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <ul data-tight="true" class="tight">
