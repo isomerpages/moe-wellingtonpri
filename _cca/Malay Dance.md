@@ -63,6 +63,10 @@ about embracing a community of passion, culture, and friendship. Whether
 you’re an experienced dancer or just beginning your journey, come and be
 part of a group that moves with heart, harmony, and heritage.&nbsp;</p>
 <p></p>
+<p><a href="https://drive.google.com/file/d/1hk8Bfcd536E_lDewREJFBMuwLFdhQ8pB/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Malay Dance CCA!</a>
+</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay%20dance.jpg">
 </div>
