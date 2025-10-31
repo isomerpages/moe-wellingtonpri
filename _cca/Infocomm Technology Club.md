@@ -38,6 +38,9 @@ them with essential 21st-century skills.</p>
 <p>The Primary 3 to Primary 6 students are introduced to different coding
 platforms and digital media production:</p>
 <p></p>
+<p><a href="https://drive.google.com/file/d/1tNQNEv7HC7X6iRyqHXv4uazXzAfQbSGy/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Infocomm Technology Club CCA!</a>
+</p>
+<p></p>
 <p><strong>Photography</strong>
 <br>The Photography module is introduced to Primary 3 students as part of
 their foundational learning in digital media. This programme aims to nurture
