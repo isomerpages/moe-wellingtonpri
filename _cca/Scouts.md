@@ -14,10 +14,8 @@ components of the overall drive towards encouraging “Fun &amp; Discovery”
 amongst the Cubs. The activities are based on the natural sense of fun
 and enthusiasm of the age group, thus the training is achieved primarily
 through games, interaction in small groups and activities.</p>
-<p></p>
 <p><a href="https://drive.google.com/file/d/1fYVnk_aHekVWc4D5eXy4g2tRBQjhTLZJ/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Scouts CCA!</a>
 </p>
-<p></p>
 <p>At the end of their time in the CCA, Cub Scouts from Primary 3 to Primary
 6 would have achieved the following Progress Awards:</p>
 <ul data-tight="true" class="tight">
