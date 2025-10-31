@@ -20,7 +20,8 @@ dance.&nbsp;</p>
 sessions are held every Friday from 7.35 to 9.35am.&nbsp; Additional practice
 sessions are conducted after school if there are upcoming performances
 or competitions.&nbsp;</p>
-<p>Teacher-in-charge</p>
+<p><strong>Teachers-in-charge</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mdm Saraswathi Velayudham (OIC)</p>
