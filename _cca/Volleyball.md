@@ -26,20 +26,14 @@ resilience, teamwork and discipline.</p>
 <p>Membership is open to Primary 3 to 6 students who are interested to pick
 up basic volleyball skills. Recruitment is open at the end of the year
 to those who wish to join the CCA.&nbsp;</p>
-<p><strong>CCA Training Days:</strong> 
-<br>Tuesday, 3.30 to 5.00 p.m.
-<br>Friday, 7.45 to 9.45 a.m.&nbsp;</p>
+<p></p>
 <p>For more information, interested students are to look for Mdm Wang Guohong,
 the overall teacher-in-charge of Volleyball.</p>
-<p><strong>CCA Teachers:</strong> 
-<br>Mdm Wang Guohong (OIC)
-<br>Mdm Lee Yi Jun
-<br>Mrs Pun Zi Ai
-<br>Mrs Bernadette Chen</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/Volleyball%204.png">
 </div>
-<p>SSSC NSG Volleyball Senior Games WTP vs DLS</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/volleyball.jpg">
 </div>
