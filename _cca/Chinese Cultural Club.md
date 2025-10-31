@@ -14,3 +14,6 @@ and storytelling, students develop cultural awareness, strengthen their
 character, and learn the importance of community and identity. This CCA
 encourages not only the appreciation of culture but also the nurturing
 of values that help shape responsible and respectful individuals.</p>
+<p></p>
+<p><a href="https://drive.google.com/file/d/1g-_D83FWGYsHkpqorG4JBXxnILrrDS-c/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Chinese Cultural Club CCA!</a>
+</p>
