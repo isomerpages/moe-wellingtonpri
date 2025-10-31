@@ -12,8 +12,6 @@ and problem-solving abilities while fostering collaboration, leadership,
 and confidence. Through participation in projects and competitions, students
 gain practical experience and a deeper understanding of technology, equipping
 them with essential 21st-century skills.</p>
-<p>The Primary 3 to Primary 6 students are introduced to different coding
-platforms and digital media production:</p>
 <p><a href="https://drive.google.com/file/d/1tNQNEv7HC7X6iRyqHXv4uazXzAfQbSGy/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Infocomm Technology Club CCA!</a>
 </p>
 <p><strong>Teachers-in-Charge:</strong>
@@ -36,7 +34,8 @@ platforms and digital media production:</p>
 <br>To develop strong proficiency and confidence in ICT skills.
 <br>To equip with a comprehensive understanding of technology and its applications.
 <br>To cultivate creativity and inspire innovation.</p>
-<p></p>
+<p>The Primary 3 to Primary 6 students are introduced to different coding
+platforms and digital media production:</p>
 <p><strong>Photography</strong>
 <br>The Photography module is introduced to Primary 3 students as part of
 their foundational learning in digital media. This programme aims to nurture
