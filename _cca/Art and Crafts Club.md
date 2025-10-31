@@ -19,6 +19,9 @@ and events. This year, our students took part in Singapore Youth Festival
 (SYF) Visual Arts Competition (Primary) 2025, PAssionArts festival 2025
 and external art competitions.</p>
 <p></p>
+<p><a href="https://drive.google.com/file/d/1qLS-UGEB9MdCSv_RQ3IlezWGTKeEQ5vE/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Art and Crafts CCA!</a>
+</p>
+<p></p>
 <p><strong>Objectives:</strong>
 <br>To encourage creativity in students and develop their self-expression
 in art.
@@ -43,8 +46,7 @@ for visual arts.
 </li>
 </ul>
 <p></p>
-<p><a href="https://drive.google.com/file/d/1qLS-UGEB9MdCSv_RQ3IlezWGTKeEQ5vE/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Art and Crafts CCA!</a>
-</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art Club CCA/Art___Crafts_Club_01.jpg">
