@@ -14,7 +14,6 @@ be invited for after-school training sessions.</p>
 who is engaged by the school. Some of the students who attend the after-school
 training sessions will be selected to represent the school in the annual
 National School Games (NSG) competitions.</p>
-<p></p>
 <p><a href="https://drive.google.com/file/d/1vF3rovQiRSUI0TzaW-46ND7_FEqFcWTu/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Badminton CCA!</a>
 </p>
 <p></p>
