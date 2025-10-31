@@ -24,7 +24,7 @@ the season. Despite tough competition, the team displayed resilience and
 unity, securing an impressive 3rd place finish in League 2. Their performance
 reflects their hard work and commitment to continuous growth.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football CCA/Senior_Boys.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Football CCA/Senior_Boys.jpg">
 </div>
 <p>🏆 <strong>Junior Boys Team</strong> – <em>Group Champion - National Tier 2</em>
 <br>The Junior Boys shone brightly in their division, topping their group
@@ -32,7 +32,7 @@ in the Tier 2 competition. Their teamwork, determination, and never-give-up
 attitude were evident in every match, setting a strong foundation for future
 success.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football CCA/Junior_Boys.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Football CCA/Junior_Boys.jpg">
 </div>
 <p>🏆 <strong>Junior Girls Team</strong> – <em>Group Champion - National Tier 2</em>
 </p>
@@ -42,7 +42,7 @@ dedication, collaboration, and resilience of both students and teachers
 who have worked tirelessly to raise the team’s standards and spirit.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football CCA/Junior_Girls.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Football CCA/Junior_Girls.jpg">
 </div>
 <p>All teams have grown immensely, not only in skill but also in character.
 Our players have learned the importance of sportsmanship, leadership, and
