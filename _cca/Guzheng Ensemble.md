@@ -19,6 +19,9 @@ sharing our love for the Guzheng with others. If you enjoy music and want
 to be part of a fun and talented team, come join the Guzheng Ensemble —
 where we make music, friendship, and memories together!</p>
 <p></p>
+<p><a href="https://drive.google.com/file/d/1lmxVhckPvIbf-GUy6iaYnTav41cPN3_4/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Guzheng CCA!</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/guzheng%20ensemble.jpg">
 </div>
