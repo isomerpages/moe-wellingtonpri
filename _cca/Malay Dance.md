@@ -11,25 +11,23 @@ close-knit group of 40 passionate dancers from Primary 3 to Primary 6 who
 share a love for movement, culture, and tradition. Through graceful gestures
 and rhythmic steps, our dancers bring the beauty of Malay heritage to life
 on stage.</p>
-<p></p>
 <p>Over their three-year journey, members are immersed in the rich traditions
 of Asli, Inang, Masri, Joget, and Zapin — dance forms that reflect the
 diversity and elegance of the Malay world. Each routine tells a story of
 joy, unity, and cultural pride, allowing our dancers to express themselves
 creatively while learning about their roots.</p>
-<p></p>
 <p>Beyond mastering dance techniques, our ensemble emphasizes the core values
 of discipline, respect, grace, and humility. Every dancer learns the importance
 of teamwork, perseverance, and poise — qualities that shine both on stage
 and in daily life. We believe that every dancer is a leader in their own
 way, and we provide ample opportunities for them to develop confidence,
 leadership, and stage presence.</p>
-<p></p>
 <p>Our dancers have represented the school in numerous performances and competitions,
 gaining meaningful experiences and lasting friendships along the way. The
 joy of performing together and celebrating milestones as a team makes the
 journey truly memorable.</p>
-<p></p>
+<p><a href="https://drive.google.com/file/d/1hk8Bfcd536E_lDewREJFBMuwLFdhQ8pB/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Malay Dance CCA!</a>
+</p>
 <p><strong><u>Recent Achievements</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -62,10 +60,6 @@ journey truly memorable.</p>
 about embracing a community of passion, culture, and friendship. Whether
 you’re an experienced dancer or just beginning your journey, come and be
 part of a group that moves with heart, harmony, and heritage.&nbsp;</p>
-<p></p>
-<p><a href="https://drive.google.com/file/d/1hk8Bfcd536E_lDewREJFBMuwLFdhQ8pB/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Malay Dance CCA!</a>
-</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay%20dance.jpg">
