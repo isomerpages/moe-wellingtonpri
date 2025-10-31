@@ -5,6 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h4>Infocomm Technology Club</h4>
+<p>The Infocomm Technology Club provides students with opportunities to explore
+technology, digital media, and coding through hands-on projects and interactive
+activities. The club aims to develop students’ technical skills, creativity,
+and problem-solving abilities while fostering collaboration, leadership,
+and confidence. Through participation in projects and competitions, students
+gain practical experience and a deeper understanding of technology, equipping
+them with essential 21st-century skills.</p>
+<p>The Primary 3 to Primary 6 students are introduced to different coding
+platforms and digital media production:</p>
+<p><a href="https://drive.google.com/file/d/1tNQNEv7HC7X6iRyqHXv4uazXzAfQbSGy/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Infocomm Technology Club CCA!</a>
+</p>
 <p><strong>Teachers-in-Charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -21,25 +32,10 @@ variant: tiptap
 <p>Ms Yvonne Tung (Primary 5 &amp; 6 Teacher-in-charge)</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Objectives:</strong>
 <br>To develop strong proficiency and confidence in ICT skills.
 <br>To equip with a comprehensive understanding of technology and its applications.
 <br>To cultivate creativity and inspire innovation.</p>
-<p></p>
-<p><strong>Overview:</strong>
-<br>The Infocomm Technology Club provides students with opportunities to explore
-technology, digital media, and coding through hands-on projects and interactive
-activities. The club aims to develop students’ technical skills, creativity,
-and problem-solving abilities while fostering collaboration, leadership,
-and confidence. Through participation in projects and competitions, students
-gain practical experience and a deeper understanding of technology, equipping
-them with essential 21st-century skills.</p>
-<p>The Primary 3 to Primary 6 students are introduced to different coding
-platforms and digital media production:</p>
-<p></p>
-<p><a href="https://drive.google.com/file/d/1tNQNEv7HC7X6iRyqHXv4uazXzAfQbSGy/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Infocomm Technology Club CCA!</a>
-</p>
 <p></p>
 <p><strong>Photography</strong>
 <br>The Photography module is introduced to Primary 3 students as part of
