@@ -2,7 +2,7 @@
 title: Chinese Cultural Club
 permalink: /our-departments-and-cca/cca/chinese-cultural-club/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4>Chinese Cultural Club</h4>
 <p>The Chinese Cultural Club offers students a meaningful opportunity to
