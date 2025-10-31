@@ -19,7 +19,11 @@ dance.&nbsp;</p>
 <p>The CCA is open to all Primary 3 to 6 students and the dance practice
 sessions are held every Friday from 7.35 to 9.35am.&nbsp; Additional practice
 sessions are conducted after school if there are upcoming performances
-or competitions.&nbsp;</p>
+or competitions.</p>
+<p></p>
+<p><a href="https://drive.google.com/file/d/1pkqvuj55OTxVRK4sMcRcVmjVsRfrFia9/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Indian Dance CCA!</a>
+</p>
+<p></p>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <ul data-tight="true" class="tight">
