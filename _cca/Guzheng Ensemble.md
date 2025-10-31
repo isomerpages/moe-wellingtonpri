@@ -18,7 +18,6 @@ and even take the Guzheng grading exams to earn music certificates!</p>
 sharing our love for the Guzheng with others. If you enjoy music and want
 to be part of a fun and talented team, come join the Guzheng Ensemble —
 where we make music, friendship, and memories together!</p>
-<p></p>
 <p><a href="https://drive.google.com/file/d/1lmxVhckPvIbf-GUy6iaYnTav41cPN3_4/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Guzheng CCA!</a>
 </p>
 <p></p>
