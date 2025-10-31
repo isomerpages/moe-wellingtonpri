@@ -47,7 +47,11 @@ eco-projects together.</p>
 <p><strong>Join Us!</strong>
 <br>If you love exploring, creating, and caring for the planet, the <strong>Environmental Science Club</strong> is
 the perfect place for you! Together, we’ll <strong>learn, invent, and inspire change</strong> —
-one green step at a time!
+one green step at a time!</p>
+<p></p>
+<p><a href="https://drive.google.com/file/d/1l6OmBM_rjxsaKee9UYlsKiy4vwY3Ckby/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Environmental Science Club CCA!</a>
+</p>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
