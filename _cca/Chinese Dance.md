@@ -20,7 +20,6 @@ till the end.</p>
 <p>Every year, our dancers perform in the school and at public places.&nbsp;
 In addition, they also take part in the bi-annual nationwide Singapore
 Youth Festival.</p>
-<p></p>
 <p><a href="https://drive.google.com/file/d/1dkTyaqDN1xB-UShnBAHwWYCZ5Cec10rU/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a video of our Chinese Dance CCA!</a>
 </p>
 <p></p>
