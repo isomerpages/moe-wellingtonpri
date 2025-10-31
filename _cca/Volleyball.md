@@ -31,7 +31,7 @@ to those who wish to join the CCA.&nbsp;</p>
 <p>For more information, interested students are to look for Mdm Wang Guohong,
 the overall teacher-in-charge of Volleyball.</p>
 <p></p>
-<p><a href="https://drive.google.com/file/d/1PN8ayfKPf_aW2YiK-EbHMkDrcyx-fXHu/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here to watch a the promotional video for our Volleyball CCA!</a>
+<p><a href="https://drive.google.com/file/d/1PN8ayfKPf_aW2YiK-EbHMkDrcyx-fXHu/view?usp=drive_link" rel="noopener nofollow" target="_blank"><u>Click here to watch a the promotional video for our Volleyball CCA!</u></a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
