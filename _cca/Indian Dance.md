@@ -125,14 +125,14 @@ or competitions.&nbsp;</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Indian Dance CCA/Indian_Dance_01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Indian Dance CCA/Indian_Dance_01.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Indian Dance CCA/Indian_Dance_02.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Indian Dance CCA/Indian_Dance_02.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Indian Dance CCA/Indian_Dance_03.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Indian Dance CCA/Indian_Dance_03.jpg">
 </div>
 <p></p>
