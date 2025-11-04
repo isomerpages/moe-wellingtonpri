@@ -72,7 +72,8 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Arts and Crafts Club</p>
+<p><a href="/our-departments-and-cca/cca/art-and-crafts-club/" rel="noopener nofollow" target="_blank">Arts and Crafts Club</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ang (Ong Xi Jun)</p>
