@@ -9,35 +9,35 @@ variant: tiptap
 level.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Booklist 2025/P1_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
+<p><a href="/files/Booklist 2026/P1_BOOK_LIST___Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist 2025/P2_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
+<p><a href="/files/Booklist 2026/P2_BOOK_LIST___Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist 2025/P3_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
+<p><a href="/files/Booklist 2026/P3_BOOK_LIST___Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist 2025/P4_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
+<p><a href="/files/Booklist 2026/P4_BOOK_LIST___Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist 2025/P5__FDN__Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Foundation</a>
+<p><a href="/files/Booklist 2026/P5__FDN__BOOK_LIST___Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Foundation</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist 2025/P5_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Standard</a>
+<p><a href="/files/Booklist 2026/P5_BOOK_LIST___Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Standard</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist 2025/P6__FDN__Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation</a>
+<p><a href="/files/Booklist 2026/P6__FDN__BOOK_LIST___Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist 2025/P6_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Standard</a>
+<p><a href="/files/Booklist 2026/P6_BOOK_LIST___Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Standard</a>
 </p>
 </li>
 </ul>
