@@ -4,7 +4,7 @@ permalink: /our-departments-and-cca/cca/environmental-science-club/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Environmental Science Club (Green Club)</strong></h4>
+<h4>Environmental Science Club (Green Club)</h4>
 <p><strong>Discover. Create. Protect.</strong>
 </p>
 <p>The <strong>Environmental Science Club</strong> offers students an exciting
