@@ -4,7 +4,7 @@ permalink: /our-departments-and-cca/cca/art-and-crafts-club/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Art and Crafts Club</strong></h4>
+<h4>Art and Crafts Club</h4>
 <p>The Art &amp; Crafts Club aims to provide our students opportunities and
 exposure in art making and art appreciation. Club members will learn to
 express their ideas, feelings and experiences through different art forms

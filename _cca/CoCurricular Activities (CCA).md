@@ -1,6 +1,6 @@
 ---
 title: CoCurricular Activities (CCA)
-permalink: /our-departments-and-cca/cca/temp/
+permalink: /our-departments-and-cca/cca/
 description: ""
 variant: tiptap
 ---
@@ -55,7 +55,7 @@ curriculum time. However, additional training sessions might be scheduled
 for them. To maximise the full potential of every student, once he/she
 is accepted for the CCA, he/she will remain in the CCA for at least one
 year.</p>
-<h3>Visual and Performing Arts</h3>
+<h3>Performing Arts</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -72,15 +72,6 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/art-and-crafts-club/" rel="noopener nofollow" target="_blank">Arts and Crafts Club</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ang (Ong Xi Jun)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/our-departments-and-cca/cca/chinese-dance" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
 </p>
 </td>
@@ -94,7 +85,7 @@ year.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Michelle Soh</p>
+<p>Ms Goh Jing Yi</p>
 </td>
 </tr>
 <tr>
@@ -133,14 +124,6 @@ year.</p>
 <p>Mdm Seri Rahayu</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Sports Club</h3>
@@ -160,7 +143,7 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/badminton-club" rel="noopener noreferrer nofollow" target="_blank">Badminton Club</a>
+<p><a href="/our-departments-and-cca/cca/badminton-club" rel="noopener noreferrer nofollow" target="_blank">Badminton Club(Boys and Girls)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,17 +152,16 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/football-club" rel="noopener noreferrer nofollow" target="_blank">Soccer Club</a>
+<p><a href="/our-departments-and-cca/cca/football-club" rel="noopener noreferrer nofollow" target="_blank">Football Club (Boys/Girls)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Shahrin Khamis (Boys)</p>
-<p>Ms Sim Chin Mei (Girls)</p>
+<p>Mr Mohd Shahrin Khamis (Boys) / Ms Sim Chin Mei (Girls)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/table-tennis" rel="noopener noreferrer nofollow" target="_blank">Table Tennis</a>
+<p><a href="/our-departments-and-cca/cca/table-tennis" rel="noopener noreferrer nofollow" target="_blank">Table Tennis(Boys and Girls)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -231,7 +213,7 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/scouts" rel="noopener noreferrer nofollow" target="_blank">Scouts</a>
+<p><a href="/our-departments-and-cca/cca/scouts" rel="noopener noreferrer nofollow" target="_blank">Scouts (Boys and Girls)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -265,7 +247,7 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-departments-and-cca/cca/drama-and-debating-club" rel="noopener noreferrer nofollow" target="_blank">Drama / Debating Club</a>
+<p><a href="/our-departments-and-cca/cca/drama-and-debating-club" rel="noopener noreferrer nofollow" target="_blank">Drama &amp; Debating Club</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -292,11 +274,20 @@ year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/our-departments-and-cca/cca/art-and-crafts-club" rel="noopener noreferrer nofollow" target="_blank">Art and Crafts Club</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ang Xi Jun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/our-departments-and-cca/cca/chinese-cultural-club" rel="noopener noreferrer nofollow" target="_blank">Chinese Cultural Club</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liyo Chin Woon</p>
+<p>Ms Yew Ci Hui</p>
 </td>
 </tr>
 <tr>
@@ -379,7 +370,7 @@ year.</p>
 <p>P1 Generosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shariffah Diyana</p>
+<p>Ms Shariffa Diyana</p>
 </td>
 </tr>
 <tr>
@@ -443,7 +434,7 @@ year.</p>
 <p>P2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Xiaowen</p>
+<p>Ms Zang Xiaowen</p>
 </td>
 </tr>
 <tr>
