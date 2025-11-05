@@ -4,7 +4,7 @@ permalink: /our-departments-and-cca/cca/scouts/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Wellington Wolverine Cub Scout Unit&nbsp;</strong></h4>
+<h4>Wellington Wolverine Cub Scout Unit&nbsp;</h4>
 <p>The Wellington Cub Scouts Unit, which comprises boys and girls cubs, is
 the only Uniformed Group CCA in school. The objective of the Cub Scouts
 programme is to provide a group environment which is intellectually stimulating,
