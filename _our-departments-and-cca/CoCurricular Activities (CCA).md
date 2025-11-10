@@ -1,8 +1,8 @@
 ---
 title: CoCurricular Activities (CCA)
 permalink: /our-departments-and-cca/cca/
-variant: tiptap
 description: ""
+variant: tiptap
 ---
 <p>CCAs are offered in the school to emphasise on ‘Building Character’ in
 every student. Character traits like resilience, tenacity, confidence,
@@ -85,7 +85,7 @@ year.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Jing Yi</p>
+<p>Mrs Michelle Soh</p>
 </td>
 </tr>
 <tr>
