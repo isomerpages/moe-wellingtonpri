@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://schoolbag.sg/story/safeguarding-your-child-online" rel="noopener noreferrer nofollow" target="_blank">Safeguarding Your Child Online</a>
+<p><a href="https://www.schoolbag.edu.sg/story-tag/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness</a>
 </p>
 </li>
 <li>

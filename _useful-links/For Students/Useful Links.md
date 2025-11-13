@@ -11,7 +11,6 @@ variant: markdown
 [Student Learning Space Login](https://vle.learning.moe.edu.sg/login) <br>
 [KooBits](https://member.koobits.com/) <br>
 [myON](https://www.myon.com.sg/) <br>
-[Social Studies @ Wellington](https://sites.google.com/view/wtps-socialstudies/home) <br>
 [Hour of Code](http://code.org/learn) <br>
 [Touch Typing Activity](https://typetastic.com/keyboarding-kickstart/lesson.html?nr=1) <br>
 [Dance Mat Touch Typing](https://tinyurl.com/wtps2024)&nbsp;<br>
