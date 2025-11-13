@@ -21,4 +21,3 @@ Other Links
 *  [SSOE MIMS Portal](https://portal.mims.moe.gov.sg/idmdash)
 *  [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
 *  [WTP Facebook](https://www.facebook.com/wellingtonprisg)
-* [Request for Wellington Parent Network (WePN) Support](https://docs.google.com/forms/d/e/1FAIpQLSevGTpLCxpHnmhlBCoC2LZsi8D1VyjRecJS827Rp4Mn3MUL2w/viewform?c=0&w=1)
