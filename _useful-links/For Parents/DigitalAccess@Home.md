@@ -3,6 +3,7 @@ title: DigitalAccess@Home
 permalink: /useful-links/for-parents/digitalaccessathome/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ### DigitalAccess@Home
 
@@ -10,4 +11,4 @@ DigitalAccess@Home scheme by IMDA provides subsidised broadband and laptops/tabl
 
 For more information, please visit IMDA website [here](https://eservice.imda.gov.sg/das/homepage).
 
-For enquiries, you may contact IMDA via Hotline: 6377 3800 or email: digitalaccess@imda.gov.sg
+For enquiries, you may contact IMDA via Hotline: 6377 3800 or email: [digitalaccess@imda.gov.sg](mailto:digitalaccess@imda.gov.sg)
