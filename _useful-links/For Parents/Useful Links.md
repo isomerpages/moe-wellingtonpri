@@ -44,6 +44,10 @@ variant: tiptap
 <p><a href="https://ask.gov.sg/parentsgateway" rel="noopener nofollow" target="_blank">Parents Gateway FAQ</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.healthhub.sg/programmes/parent-hub/grow-well-sg?utm_source=content-partners&amp;utm_medium=referral&amp;utm_campaign=fy24-gwsg&amp;utm_content=moh" rel="noopener nofollow" target="_blank">Parent Hub: Grow Well SG</a>
+</p>
+</li>
 </ul>
 <hr>
 <div class="isomer-image-wrapper">
