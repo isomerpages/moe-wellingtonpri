@@ -503,7 +503,8 @@ access the booking form
 <br>
 </p>
 <p><strong>Terms &amp; Conditions</strong> 
-<br><a href="/files/Useful Links/School_Bus_Booking_Form_2026.pdf" rel="noopener nofollow" target="_blank">Click here</a>&nbsp;to
+<br><a href="/files/Useful Links/School_Bus_Booking_Form_2026.pdf" rel="noopener nofollow" target="_blank">Cli</a>
+<a href="/files/TERMS AND CONDITIONS GOVERNING THE REQUESTS FOR SERVICES.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Useful Links/School_Bus_Booking_Form_2026.pdf" rel="noopener nofollow" target="_blank">ck here</a>&nbsp;to
 read Terms &amp; Conditions Governing The Requests For Services
 <br>
 </p>
