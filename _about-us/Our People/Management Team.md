@@ -19,9 +19,8 @@ variant: markdown
 
 | | | |
 |---|---|---|
-|  Centre Head  |  Mrs Marian Lee |  marian_lee@schools.gov.sg |
-|  Deputy Centre Head  |  Mdm Uva Jothi d/o G. Divagaran |  uva_jothi_g_divagaran@schools.gov.sg |
-|  Level Head  |  Ms Vanessa Chng Xian Na  |  vanessa_chng_xian_na@schools.gov.sg  |
+|  Centre Head  |  Ms Sitti Fatima Noordin |  sitti_fatima_noordin@schools.gov.sg |
+|  Deputy Centre Head  |  Ms Vanessa Chng Xian Na  |  vanessa_chng_xian_na@schools.gov.sg  |
 | | |
 
 ##### Management Team
