@@ -503,14 +503,15 @@ access the booking form
 <br>
 </p>
 <p><strong>Terms &amp; Conditions</strong> 
-<br><a href="/files/Useful%20Links/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;to
+<br><a href="/files/Useful Links/School_Bus_Booking_Form_2026.pdf" rel="noopener nofollow" target="_blank">Click here</a>&nbsp;to
 read Terms &amp; Conditions Governing The Requests For Services
 <br>
 </p>
 <p><strong>Daily School Bus Service</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="For Year 2025" src="/images/School%20Information/Bus_service_rates_for_2025.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/Bus_service_rates_for_2026.png">
 </div>
 <p><strong>Bus Services for after school activities (i.e. sending students home from school after supplementary lessons /enrichment programmes and Co-Curricular Activities)</strong>
 </p>
