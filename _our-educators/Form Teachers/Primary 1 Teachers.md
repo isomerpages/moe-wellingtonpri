@@ -54,7 +54,7 @@ variant: tiptap
 <p>Ms Ang Lee Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ang_lee_ching_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nadiah Binte Mohamad</p>
+<p>Ms Siti Nadiah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_nadiah_m_toha@moe.edu.sg</p>
