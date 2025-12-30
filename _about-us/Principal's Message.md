@@ -53,5 +53,4 @@ to thrive and make a difference.</p>
 <p>We welcome you to our Wellington family as we continue to forge brave
 and innovative pathways in empowering leaders, touching lives and transforming
 futures.</p>
-<p>Ms Ng Hui Min
-<br>Principal</p>
+<p>Ms Ng Hui Min</p>
