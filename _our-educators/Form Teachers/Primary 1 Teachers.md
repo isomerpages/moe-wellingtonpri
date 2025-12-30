@@ -87,7 +87,7 @@ variant: tiptap
 <p>Ms Siti Nadiah Binte Mohamad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>siti_nadiah_m_toha@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ variant: tiptap
 <p>Ms Liyo Chin Woon&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>liyo_chin_woon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -106,10 +106,10 @@ variant: tiptap
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kris Ong (FAJT)</p>
+<p>Mrs Kris Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wong_sau_har_kris_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ variant: tiptap
 <p>Ms Celine Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>celine_chong_xue_ying@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ variant: tiptap
 <p>Ms Lee Wen Xin, June</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_wen_xin_june@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ variant: tiptap
 <p>Ms Karen Koek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>koek_karen_jude@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
