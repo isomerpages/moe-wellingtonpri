@@ -153,7 +153,7 @@ variant: tiptap
 <p>Ms Nur Natasha&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +164,7 @@ variant: tiptap
 <p>Mrs Neo (Elaine Mah)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>elaine_mah_ke_yun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -172,10 +172,10 @@ variant: tiptap
 <p>1F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Saraswathi D/O Velayudham</p>
+<p>Mdm Saraswathi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>saraswathi_velayudham@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +197,7 @@ variant: tiptap
 <p>Ms Nurul Fathihah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nurul_fathihah_mohd_jamil_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ variant: tiptap
 <p>Mrs Michelle Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>michelle_wong_fei_fun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ variant: tiptap
 <p>Mdm Irene Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>foo_irene@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
