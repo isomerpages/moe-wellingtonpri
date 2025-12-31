@@ -3,12 +3,79 @@ title: School Leaders
 permalink: /about-us/our-people/school-leaders/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-| School Leaders |  |  |
-|---|---|---|
-| Principal  |  Ms Ng Hui Min  | [ng_hui_min@schools.gov.sg](mailto:ng_hui_min@schools.gov.sg) 
-| Vice Principal  |  Mrs Lau Whee Sien  | [hoong\_whee\_sien@schools.gov.sg](mailto:hoong_whee_sien@schools.gov.sg) |
-| Vice Principal | Mdm Shahrulhana Mohamed | [shahrulhana\_mohamed@schools.gov.sg](mailto:shahrulhana\_mohamed@schools.gov.sg) |
-|  Vice Principal  |  Mr Ng Wee Ming Dennis | [ng\_wee\_ming\_dennis@schools.gov.sg](mailto:ng_wee_ming_dennis@schools.gov.sg) |
-| | |
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h2>School Leaders</h2>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_hui_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_min@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lau Whee Sien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hoong_whee_sien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoong_whee_sien@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shahrulhana Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shahrulhana_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahrulhana_mohamed@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Wee Ming Dennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_wee_ming_dennis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wee_ming_dennis@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
