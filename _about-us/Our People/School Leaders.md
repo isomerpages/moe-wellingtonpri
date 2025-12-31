@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
+<h2>School Leaders</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -13,9 +14,15 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<h2>School Leaders</h2>
-</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
