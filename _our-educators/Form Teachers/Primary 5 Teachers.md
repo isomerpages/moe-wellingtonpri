@@ -3,20 +3,191 @@ title: Primary 5 Teachers
 permalink: /about-us/our-people/our-educators/form-teachers/primary-5-teachers/
 description: ""
 third_nav_title: Form Teachers
-variant: markdown
+variant: tiptap
 ---
-| Class |  Name | Email Address |
-|---|---|---|
-| 5A | Ms Nadiah | insan_nadiah_mohd_sukarno@moe.edu.sg |
-| 5A | Ms Kuang (Lucy) | kuang_xian_yu@moe.edu.sg |
-| 5B | Mr Mark | mark_eric_nadhan@moe.edu.sg |
-| 5B | Mdm Faradina |	siti_faradina_isa@moe.edu.sg |
-| 5C | Mdm Rahaini | rahaini_subhan_bt_sulor@moe.edu.sg |
-| 5C | Ms Woo (Fannie) |woo_seow_fan_fannie@moe.edu.sg |
-| 5D | Mrs Tay (Karen Ten) | karen_ten_wai_yun@moe.edu.sg |
-| 5D | Mr Shah | muhamad_shahzulhari_johari@moe.edu.sg |
-| 5E | Mrs Anitha	| m_anitha@moe.edu.sg |
-| 5E | Mr Khaarthik |	khaarthik_jaya_balan@moe.edu.sg |
-| 5F | Mdm Gu Yao	| gu_yao@moe.edu.sg |
-| 5F | Mdm Siti Zaleha | siti_zaleha_abdul_majid@moe.edu.sg |
-| | | |
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kwan Hoi Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kwan_hoi_leong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Thanmolie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>thanmolie_do_k_vellasamy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho (Thomas)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ho_wei_heong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan (Jennifer Lee)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_chin_fung@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rashida</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rashida_sehan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wendy Au&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wendy_au_may_lee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sumathi Siva Kumar&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sumathi_siva_kumar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Anastassia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_anastassia_fadzali@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Kian Kei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_kian_kei@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Goh (Mabel)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liau_pei_ching_mabel@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ren&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ren_weichen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Susie Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>phua_susie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yew (Ci Hui)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yew_ci_hui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Danny Ling Yih Jye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ling_yih_jye@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
