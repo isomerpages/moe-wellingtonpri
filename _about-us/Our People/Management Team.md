@@ -32,8 +32,7 @@ variant: tiptap
 <p>Ms Ng Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hui_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_min@schools.gov.sg</a>
-</p>
+<p>ng_hui_min@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -44,8 +43,7 @@ variant: tiptap
 <p>Mrs Lau Whee Sien</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hoong_whee_sien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoong_whee_sien@schools.gov.sg</a>
-</p>
+<p>hoong_whee_sien@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -56,8 +54,7 @@ variant: tiptap
 <p>Mdm Shahrulhana Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahrulhana_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahrulhana_mohamed@schools.gov.sg</a>
-</p>
+<p>shahrulhana_mohamed@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -68,8 +65,7 @@ variant: tiptap
 <p>Mr Ng Wee Ming Dennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_wee_ming_dennis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wee_ming_dennis@schools.gov.sg</a>
-</p>
+<p>ng_wee_ming_dennis@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
