@@ -32,12 +32,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor</p>
+<p>Mdm Faridah Jaafar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Faridah Jaafar</p>
+<p>Ms Nur Hidayah</p>
 </td>
 </tr>
 <tr>
