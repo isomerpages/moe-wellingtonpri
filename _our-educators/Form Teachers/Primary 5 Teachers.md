@@ -160,10 +160,10 @@ variant: tiptap
 <p>5F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yew (Ci Hui)</p>
+<p>Ms Liyo Chin Woon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yew_ci_hui@moe.edu.sg</p>
+<p>liyo_chin_woon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
