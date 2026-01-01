@@ -95,10 +95,10 @@ variant: tiptap
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liyo Chin Woon&nbsp;</p>
+<p>Ms Yew (Ci Hui)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liyo_chin_woon@moe.edu.sg</p>
+<p>yew_ci_hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
