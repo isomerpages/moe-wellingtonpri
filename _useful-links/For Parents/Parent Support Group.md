@@ -7,16 +7,16 @@ third_nav_title: For Parents
 ---
 <h4><strong>Our Vision</strong><br></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our PSG Vision" src="/images/PSG/PSG01_Vision.png">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Vision" src="/images/PSG/PSG001.jpg">
 </div>
 <h4><strong>Our Mission</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our PSG Mission" src="/images/PSG/PSG02_Mission.png">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Mission" src="/images/PSG/PSG002.jpg">
 </div>
-<blockquote>
 <p></p>
-<p>Roles &amp; Involvements</p>
+<blockquote>
+<h4>Roles &amp; Involvements</h4>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
