@@ -39,8 +39,5 @@ third_nav_title: For Parents
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Why Join PSG" src="/images/PSG/PSG06_Why_Join.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Join PSG QR Code" src="/images/PSG/PSG07_QR_code.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/thp5pe"><img style="width: 100%" height="auto" width="100%" alt="Join PSG QR Code" src="/images/PSG/PSG07_QR_code.png"></a>
 <p></p>
