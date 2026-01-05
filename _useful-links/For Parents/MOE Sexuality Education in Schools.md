@@ -75,4 +75,69 @@ opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At Wellington Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCE(FTGP) THEME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON TITLE / DURATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON OVERVIEW</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p><strong>TIME PERIOD</strong>
+</p>
+<p><strong>(e.g. Term 1 Week 2)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Changes in Me</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on helping students identify the emotions and stress
+caused by physical changes during puberty. Students will learn to describe
+the healthy ways to manage their negative feelings during this time. They
+will also learn to recognise that one’s identity need not be negatively
+affected, even when one’s body is experiencing changes due to puberty.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
