@@ -214,6 +214,35 @@ and learn to behave maturely towards each other.</p>
 <br>Week 5</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>Information for Parents</strong>
+</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
+children out of Sexuality Education lessons, and/or supplementary Sexuality
+Education programmes by MOE-approved external providers.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
+opt their children out of the Sexuality Education lessons need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also available <a href="https://form.gov.sg/69539557ac85943c4cfc9280" rel="noopener nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 31/01/2026.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at (email
+address: <a href="wellingtonps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wellingtonps@moe.edu.sg</a>,
+Telephone Number: 67533319) for discussion or to seek clarification about
+the school’s Sexuality Education programme.</p>
 <p></p>
