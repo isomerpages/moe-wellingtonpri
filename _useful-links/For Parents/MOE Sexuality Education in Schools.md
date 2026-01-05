@@ -18,14 +18,17 @@ with extended family support. The teaching and learning of SEd is based
 on respect for the values and beliefs of the different ethnic and religious
 communities in Singapore on sexuality issues.</p>
 <p></p>
-<p>2. The Goals of Sexuality Education are:
-<br>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.
-<br>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.
-<br>(c) Help students develop a moral compass and respect for themselves and
-others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Goals of Sexuality Education
+are:
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support students in managing their
+physiological, social and emotional changes as they grow up and develop
+safe and healthy relationships.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guide students to make wise, informed
+and responsible decisions on sexuality matters.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Help students develop a moral compass
+and respect for themselves and others by having positive mainstream values
+and attitudes about sexuality that are premised on the family as the basic
+unit of society.</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:
@@ -233,16 +236,15 @@ and learn to behave maturely towards each other.</p>
 <p></p>
 <p><strong>Information for Parents</strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
-children out of Sexuality Education lessons, and/or supplementary Sexuality
-Education programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
-opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <a href="https://form.gov.sg/69539557ac85943c4cfc9280" rel="noopener nofollow" target="_blank">here</a>. The completed
-opt-out form is to be submitted by 31/01/2026.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at (email
-address: <a href="wellingtonps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wellingtonps@moe.edu.sg</a>,
-Telephone Number: 67533319) for discussion or to seek clarification about
-the school’s Sexuality Education programme.</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
+out of Sexuality Education lessons, and/or supplementary Sexuality Education
+programmes by MOE-approved external providers.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the Sexuality Education lessons need to complete an opt-out form.
+This form will be communicated to parents at the start of the year and
+is also available <a href="https://form.gov.sg/69539557ac85943c4cfc9280" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 31/01/2026.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at (email address:
+<a href="mailto:wellingtonps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wellingtonps@moe.edu.sg</a>, Telephone Number: 67533319) for discussion
+or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
