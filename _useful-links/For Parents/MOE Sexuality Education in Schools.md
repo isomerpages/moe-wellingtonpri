@@ -104,7 +104,7 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,6 +127,9 @@ affected, even when oneâ€™s body is experiencing changes due to puberty.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Did You Know?</p>
 <p>(60 min)</p>
 </td>
@@ -142,6 +145,72 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
+<br>Week 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keeping Myself Safe</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn about sexual abuse, how it can happen
+during online and offline interactions and the impact of such abuse on
+victims. They also learn how to take precautionary measures to be safe
+and how to seek help for themselves and their friends.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3
+<br>Week 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?</p>
+<p>Lesson 1</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn to distinguish between the characteristics
+of love and infatuation, and identify the strong emotions that may arise
+from experiencing the feelings of infatuation. They will recognise that
+experiencing feelings of infatuation is part of growing up and becoming
+infatuated with someone does not mean that they should be involved in a
+romantic relationship. Instead, they should focus on building strong and
+healthy friendships with their circles of friends.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2
+<br>Week 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?</p>
+<p>Lesson 2</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn healthy ways to manage the emotions
+arising from infatuation and recognise the importance of respecting the
+boundaries of any relationship. They will also recognise the negative impact
+of teasing their peers who may be experiencing the feelings of infatuation
+and learn to behave maturely towards each other.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2
 <br>Week 5</p>
 </td>
 </tr>
