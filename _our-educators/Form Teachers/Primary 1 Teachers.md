@@ -153,7 +153,7 @@ variant: tiptap
 <p>Ms Nur Natasha&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>nur_natasha_mohamed_khairuddin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
