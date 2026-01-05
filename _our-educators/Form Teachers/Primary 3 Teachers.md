@@ -28,7 +28,7 @@ variant: tiptap
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zhou Huiru</p>
+<p>Ms Zhou (Denise)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>zhou_huiru@moe.edu.sg</p>
@@ -64,7 +64,7 @@ variant: tiptap
 <p>Ms Judy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>song_ming_choo_judy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ variant: tiptap
 <p>Mdm Noormarlina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>noormarlina_tasrib@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -146,13 +146,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Indra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>indra_bahadur_gurung@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
