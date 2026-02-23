@@ -41,3 +41,11 @@ third_nav_title: For Parents
 </div>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/thp5pe"><img style="width: 100%" height="auto" width="100%" alt="Join PSG QR Code" src="/images/PSG/PSG07_QR_code.png"></a>
 <p></p>
+<blockquote>
+<p>PSG EXCO Committee</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSG EXCO" src="/images/PSG/PSG_EXCO.jpg">
+</div>
+<p></p>
