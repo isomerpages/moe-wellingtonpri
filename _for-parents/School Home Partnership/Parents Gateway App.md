@@ -6,7 +6,6 @@ description: ""
 third_nav_title: School Home Partnership
 ---
 <h3><strong>MOE’s Parents Gateway Mobile App</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/PG_Icon.jpg">
 </div>
