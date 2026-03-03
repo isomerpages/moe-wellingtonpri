@@ -38,3 +38,12 @@ a section that categorises all stories from primary schools</p>
 </ul>
 <p>Scan the QR code to stay updated with the latest school stories, education
 news and more!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Schoolbag01.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Schoolbag02.png">
+</div>
+<p></p>
