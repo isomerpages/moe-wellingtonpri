@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Character & Wellbeing/.keep
       - Calendar.md
       - School Home Partnership/.keep
       - Curriculum/.keep
