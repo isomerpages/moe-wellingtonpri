@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Calendar.md
+      - School Home Partnership/Parenting Workshops.md
       - School Home Partnership/Schoolbag.md
       - School Home Partnership/Families for Life.md
       - School Home Partnership/.keep
