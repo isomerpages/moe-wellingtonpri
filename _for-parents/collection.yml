@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Curriculum/.keep
-      - School Home Partnership Guidelines & Resources.md
       - Calendar.md
