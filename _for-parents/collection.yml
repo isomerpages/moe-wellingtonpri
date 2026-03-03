@@ -2,11 +2,11 @@ collections:
   for-parents:
     output: true
     order:
-      - Parent Support Group.md
-      - New P1 Parents.md
-      - Pre Registration to P1/.keep
-      - Admin & Finance/.keep
-      - Character & Wellbeing/.keep
       - Calendar.md
       - School Home Partnership/.keep
       - Curriculum/.keep
+      - Character & Wellbeing/.keep
+      - Admin & Finance/.keep
+      - Pre Registration to P1/.keep
+      - New P1 Parents.md
+      - Parent Support Group.md
