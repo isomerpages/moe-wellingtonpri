@@ -24,5 +24,5 @@ depending on parents’ needs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/ParentingMOE_Logo.jpg">
 </div>
-<p><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/parentingwith.moesg/</a>
+<p style="text-align: center;"><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/parentingwith.moesg/</a>
 </p>
