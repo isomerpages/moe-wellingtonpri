@@ -6,10 +6,7 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h3><strong>Student Learning Space (SLS)</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Parents/sls.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Parents/sls.png"></a>
 <p>As part of Ministry of Education’s (MOE) commitment to nurture future-ready
 learners, an online learning platform known as the Singapore Student Learning
 Space (SLS) is made available to the students.</p>
