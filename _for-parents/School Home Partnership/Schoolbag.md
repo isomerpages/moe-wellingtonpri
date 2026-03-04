@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Home Partnership
 ---
-<h3><strong>Schoolbag</strong></h3><a class="isomer-image-wrapper" href="https://www.schoolbag.edu.sg/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/Schoolbag_Icon.png"></a>
+<h3><strong>Schoolbag</strong></h3><a class="isomer-image-wrapper" href="https://www.schoolbag.edu.sg/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/For Parents/Schoolbag_Icon.png"></a>
 <p>Launched in 2008, Schoolbag is MOE’s signature repository of school stories
 that are useful and relevant to parents with school-going children. Over
 the years, it has grown into a viable communications channel of the Ministry,
