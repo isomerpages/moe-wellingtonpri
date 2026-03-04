@@ -1,15 +1,11 @@
 ---
 title: Parenting Workshops
 permalink: /parenting-workshops/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: School Home Partnership
 ---
-<h3><strong>Parenting Workshops</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/For Parents/Ministry_of_Social_and_Family_Development_logo.png">
-</div>
+<h3><strong>Parenting Workshops</strong></h3><a class="isomer-image-wrapper" href="https://www.msf.gov.sg/what-we-do/support-families-and-parents/article/programmes/Parenting"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/For Parents/Ministry_of_Social_and_Family_Development_logo.png"></a>
 <p>MSF has appointed nine Families for Life at Community (FFLC) agencies
 to deliver parenting programmes on a regional basis. FFLCs work closely
 with schools and community partners in their allocated regions to support
@@ -24,5 +20,5 @@ depending on parents’ needs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/ParentingMOE_Logo.jpg">
 </div>
-<p style="text-align: center;"><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/parentingwith.moesg/</a>
+<p><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/parentingwith.moesg/</a>
 </p>
