@@ -9,6 +9,10 @@ orientation matters <a href="https://sites.google.com/view/p1parentswtp" rel="no
 <hr>
 <h3>Administrative Matters</h3>
 <h4>Parents Gateway</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/PG_Icon.jpg">
+</div>
 <p>Parents Gateway (PG) is a mobile app specially designed for parents. The
 app allows parents to receive information and perform a range of administrative
 functions including receiving announcements from school, giving consent
