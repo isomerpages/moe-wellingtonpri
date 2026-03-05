@@ -4,8 +4,9 @@ permalink: /new-p1-parents/
 variant: tiptap
 description: ""
 ---
-<p>New to Primary 1? Find out about our arrival and dismissal gates and other
-orientation matters <a href="https://sites.google.com/view/p1parentswtp" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>New to Primary 1?</p>
+<p>Find out about our arrival and dismissal gates and other Primary 1 first
+day orientation matters <a href="https://sites.google.com/view/p1parentswtp" rel="noopener nofollow" target="_blank">here</a>!</p>
 <hr>
 <h3>Administrative Matters</h3>
 <h4>Parents Gateway</h4>
