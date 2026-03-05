@@ -80,10 +80,14 @@ FSCs located in other areas:
 </p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="3">
 <p>​<a href="https://stayprepared.sg/mymentalhealth/i-need-support-now/" rel="noopener noreferrer nofollow" target="_blank">https://stayprepared.sg/mymentalhealth/i-need-support-now/</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
