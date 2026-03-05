@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Parent Volunteer Scheme.md
       - Calendar.md
       - School Home Partnership/.keep
       - School Home Partnership/School Home Partnership Refreshed Guidelines.md
@@ -13,6 +12,7 @@ collections:
       - School Home Partnership/Families for Life.md
       - School Home Partnership/Schoolbag.md
       - School Home Partnership/Parenting Workshops.md
+      - Curriculum/.keep
       - Curriculum/Student Learning Space (SLS).md
       - Curriculum/Primary 1.md
       - Curriculum/Primary 2.md
@@ -22,15 +22,15 @@ collections:
       - Curriculum/Primary 6.md
       - Curriculum/MOE Sexuality Education in Schools.md
       - Curriculum/PSLE Scoring, DSA, S1 posting, SBB.md
-      - Curriculum/.keep
+      - Character & Wellbeing/.keep
       - Character & Wellbeing/Grow Well.md
       - Character & Wellbeing/Cyber Wellness.md
       - Character & Wellbeing/Useful Contact Information.md
-      - Character & Wellbeing/.keep
+      - Admin & Finance/.keep
       - Admin & Finance/MOE Financial Assistance Scheme.md
       - Admin & Finance/Online Payment for MOE Bill and School Bill.md
       - Admin & Finance/Group Personal Accident (GPA) Insurance.md
       - Admin & Finance/DigitalAccess@Home.md
-      - Admin & Finance/.keep
+      - Parent Volunteer Scheme.md
       - New P1 Parents.md
       - Parent Support Group.md
