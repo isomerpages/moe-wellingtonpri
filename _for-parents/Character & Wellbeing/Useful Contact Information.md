@@ -84,3 +84,99 @@ FSCs located in other areas:
 </table>
 <p>​<a href="https://stayprepared.sg/mymentalhealth/i-need-support-now/" rel="noopener noreferrer nofollow" target="_blank">https://stayprepared.sg/mymentalhealth/i-need-support-now/</a>
 </p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Organisation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Opening Hours</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CARE Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6978 2728</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon - Fri : 10am - 5pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOUCHline
+<br>(By TOUCH Comunity Services)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 377 2252</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon - Fri : 9am - 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fei Yue Community Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://fycs.org/ec2-sg/" rel="noopener noreferrer nofollow" target="_blank">https://fycs.org/ec2-sg/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Live Chat]
+<br>Mon - Fri : 10am - 12pm; 2pm - 5pm
+<br>(Closed on Public Holidays)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Care Corner Mental Health Department (Insight)
+<br>- Mental Health Screening and Basic Emotional Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Telegram: insightersBOT</p>
+<p>Instagram: <a href="https://www.instagram.com/insightccs/" rel="noopener nofollow" target="_blank">insightccs</a>
+</p>
+<p>Email: insight@carecorner.org.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
