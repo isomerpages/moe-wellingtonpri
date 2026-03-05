@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Volunteer Scheme.md
       - Calendar.md
       - School Home Partnership/.keep
       - School Home Partnership/School Home Partnership Refreshed Guidelines.md
