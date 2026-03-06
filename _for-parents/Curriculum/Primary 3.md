@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Curriculum
 ---
-<h3>Resource for P1 Parent</h3>
+<h3>Resource for P3 Parent</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
