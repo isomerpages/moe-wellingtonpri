@@ -29,7 +29,7 @@ third_nav_title: Curriculum
 <p>Booklist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.wellingtonpri.moe.edu.sg/files/Booklist%202026/P1_BOOK_LIST___Final_1.pdf" rel="noopener nofollow" target="_blank">Click here to download</a>
+<p><a href="https://www.wellingtonpri.moe.edu.sg/files/Booklist 2026/P3_BOOK_LIST___Final_1.pdf" rel="noopener nofollow" target="_blank">Click here to download</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
