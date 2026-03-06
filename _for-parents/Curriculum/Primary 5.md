@@ -30,8 +30,7 @@ third_nav_title: Curriculum
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.wellingtonpri.moe.edu.sg/files/Booklist 2026/P5__FDN__BOOK_LIST___Final_1.pdf" rel="noopener nofollow" target="_blank">Primary 5 Foundation</a>
-</p>
-<p><a href="https://www.wellingtonpri.moe.edu.sg/files/Booklist 2026/P5_BOOK_LIST___Final_1.pdf" rel="noopener nofollow" target="_blank">Primary 5 Standard</a>
+<br><a href="https://www.wellingtonpri.moe.edu.sg/files/Booklist 2026/P5_BOOK_LIST___Final_1.pdf" rel="noopener nofollow" target="_blank">Primary 5 Standard</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
