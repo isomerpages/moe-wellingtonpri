@@ -57,7 +57,7 @@ third_nav_title: Curriculum
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>31 January 2026</p>
 </td>
 </tr>
 <tr>
