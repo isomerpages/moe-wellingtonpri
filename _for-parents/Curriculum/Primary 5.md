@@ -43,8 +43,7 @@ third_nav_title: Curriculum
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Parent Townhall/Primary 5/WTP_P5_Townhall_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">WTP P5 Townhall Engagement 2026</a>
-</p>
-<p><a href="/files/Parent Townhall/Primary 5/WTP_P5_Classroom_Briefing_for_parents_2026.pdf" rel="noopener nofollow" target="_blank">WTP P5 Classroom Briefing for Parents 2026</a>
+<br><a href="/files/Parent Townhall/Primary 5/WTP_P5_Classroom_Briefing_for_parents_2026.pdf" rel="noopener nofollow" target="_blank">WTP P5 Classroom Briefing for Parents 2026</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
