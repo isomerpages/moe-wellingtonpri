@@ -42,16 +42,10 @@ third_nav_title: Curriculum
 <p>Townhall Slides</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/files/Parent Townhall/Primary 6/WTP_P6_Townhall_Engagment_2026.pdf" rel="noopener nofollow" target="_blank">WTP P6 Townhall Engagment 2026</a>
 </p>
-</li>
-<li>
 <p><a href="/files/Parent Townhall/Primary 6/WTP_P6_Classroom_Briefing_for_parents_2026.pdf" rel="noopener nofollow" target="_blank">WTP P6 Classroom Briefing for Parents 2026</a>
 </p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>31 January 2026</p>
