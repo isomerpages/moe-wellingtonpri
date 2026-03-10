@@ -57,7 +57,7 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: Useful Links 2
-    url: /useful-links/general/school-information/
+    url: /general-information/
     sublinks:
       - title: General
         url: /general-information/
