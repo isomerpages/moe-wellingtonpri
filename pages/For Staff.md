@@ -13,7 +13,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Useful Links</p>
+<h4>Useful Links</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -100,7 +100,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Intranet Only (Use VPN from Home</p>
+<h4>Intranet Only (Use VPN from Home)</h4>
 </th>
 </tr>
 <tr>
