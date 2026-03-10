@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Parents 2.md
       - General/.keep
       - General/School Information.md
       - General/Calendar.md
