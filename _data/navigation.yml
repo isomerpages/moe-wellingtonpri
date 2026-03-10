@@ -56,7 +56,7 @@ links:
     collection: useful-links
   - title: Contact Us
     url: /contact-us/
-  - title: New menu group
+  - title: Useful Links 2
     url: /useful-links/general/school-information/
     sublinks:
       - title: General
@@ -66,4 +66,4 @@ links:
       - title: For Students
         url: /for-students/student-learning-space/
       - title: For Staff
-        url: /useful-links/for-staff/
+        url: /useful-links/for-staff2/
