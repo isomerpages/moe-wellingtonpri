@@ -51,7 +51,7 @@ third_nav_title: Curriculum
 </p>
 </li>
 <li>
-<p><a href="/files/Under For Parents/Primary 3/WTP_P3_Classroom_Briefing_for_parents_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">WTP P3 Classroom Briefing for parents 2026</a>
+<p><a href="/files/Under For Parents/Primary 3/WTP_P3_Classroom_Briefing_for_parents_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">WTP P3 Classroom Briefing for Parents 2026</a>
 </p>
 </li>
 </ul>
