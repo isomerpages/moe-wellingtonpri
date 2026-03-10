@@ -43,11 +43,11 @@ third_nav_title: Curriculum
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parent Townhall/Primary 3/WTP_P3_and_4_Townhall_Engagement_2026_Part1.pdf" rel="noopener nofollow" target="_blank">WTP P3 and 4 Townhall Engagement 2026_Part1</a>
+<p><a href="/files/Parent Townhall/Primary 3/WTP_P3_and_4_Townhall_Engagement_2026_Part1.pdf" rel="noopener nofollow" target="_blank">WTP P3 and 4 Townhall Engagement 2026_Part 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Parent Townhall/Primary 3/WTP_P3_and_4_Townhall_Engagement_2026_Part2.pdf" rel="noopener nofollow" target="_blank">WTP P3 and 4 Townhall Engagement 2026_Part2</a>
+<p><a href="/files/Parent Townhall/Primary 3/WTP_P3_and_4_Townhall_Engagement_2026_Part2.pdf" rel="noopener nofollow" target="_blank">WTP P3 and 4 Townhall Engagement 2026_Part 2</a>
 </p>
 </li>
 <li>
