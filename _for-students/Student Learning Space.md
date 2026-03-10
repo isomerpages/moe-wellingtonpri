@@ -9,15 +9,15 @@ description: ""
 </div>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space Login</a> 
 <br><a href="https://www.learning.moe.edu.sg/about/overview-of-student-learning-space/" rel="noopener noreferrer nofollow" target="_blank">Overview of Student Learning Space</a> 
-<br><a href="https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to Student Learning Space</a> 
+<br><a href="https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to Student Learning Space</a>
 </p>
 <hr>
 <h5>Login troubleshooting</h5>
-<p><strong>Q1: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/how-to-log-in-student/" rel="noopener noreferrer nofollow" target="_blank">How to Log In?</a></strong>&nbsp;</p>
-<p><strong>Q2: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/" rel="noopener noreferrer nofollow" target="_blank">Reset SLS Password</a></strong>&nbsp;</p>
-<p><strong>Q3: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/forgot-sls-username/" rel="noopener noreferrer nofollow" target="_blank">Forgot SLS Username</a></strong>&nbsp;</p>
-<p><strong>Q4: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/unsuccessful-password-reset-attempts/" rel="noopener noreferrer nofollow" target="_blank">Unsuccessful Password Reset Attempts</a></strong>&nbsp;</p>
-<p><strong>Q5: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/unlock-account/" rel="noopener noreferrer nofollow" target="_blank">Unlock Account</a></strong>&nbsp;</p>
+<p>Q1: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/how-to-log-in-student/" rel="noopener noreferrer nofollow" target="_blank">How to Log In?</a>&nbsp;</p>
+<p>Q2: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/" rel="noopener noreferrer nofollow" target="_blank">Reset SLS Password</a>&nbsp;</p>
+<p>Q3: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/forgot-sls-username/" rel="noopener noreferrer nofollow" target="_blank">Forgot SLS Username</a>&nbsp;</p>
+<p>Q4: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/unsuccessful-password-reset-attempts/" rel="noopener noreferrer nofollow" target="_blank">Unsuccessful Password Reset Attempts</a>&nbsp;</p>
+<p>Q5: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/unlock-account/" rel="noopener noreferrer nofollow" target="_blank">Unlock Account</a>&nbsp;</p>
 <p></p>
 <p></p>
 <table style="minWidth: 50px">
