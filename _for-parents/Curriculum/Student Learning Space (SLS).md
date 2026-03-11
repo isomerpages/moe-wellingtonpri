@@ -26,7 +26,7 @@ iteratively to stay dynamic and responsive.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.wellingtonpri.moe.edu.sg/useful-links/for-students/student-learning-space" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space Troubleshooting Guide</a>
+<p><a href="https://wellingtonpri.moe.edu.sg/for-students/student-learning-space/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space Troubleshooting Guide</a>
 </p>
 </li>
 </ul>
