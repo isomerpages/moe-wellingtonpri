@@ -1,9 +1,16 @@
 ---
 title: Principal's Message
 permalink: /principals-message/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+<style>
+p {
+    text-align: justify;
+    margin-bottom: 20px; /* Adjust the value as needed */
+    }
+    </style>
+		
 <p>Established in 2001, Wellington Primary School has grown from strength
 to strength from its initial enrolment of 303 students and 14 staff, to
 its current more than 1,400 primary students and 250 kindergarteners. Over
@@ -15,6 +22,7 @@ Primary School remains steadfast in our mission to empower every individual,
 nurture talents and groom leaders who have a strong mission to contribute
 meaningfully to the community and nation, as well as in our vision as an
 excellent institution that grows future-ready leaders.</p>
+
 <p>The school’s mission and vision have become ever more pertinent with the
 revolutionary advancement of Artificial Intelligence and increasing dynamism
 of the geopolitical realities. Our students need to <em>feel</em> and <em>be</em> empowered
@@ -27,6 +35,7 @@ and deepening their passions. It would also form the foundation for their
 confidence and competencies to seize opportunities to nurture their talents,
 give back to society and contribute towards leading a stronger community
 to navigate uncertainty.</p>
+
 <p>This means that learning and living in Wellington Primary School focusses
 on holistic education that balances academics with the care and responsibility
 for the community and an unyielding pursuit to develop the competencies
@@ -40,6 +49,7 @@ School also stand by providing diverse learning opportunities both locally
 and globally to develop character, civic, cultural and global literacy
 to develop a global perspective with a local heartbeat in our students.
 &nbsp;&nbsp;</p>
+
 <p>The journey to grow the school community is an ongoing one that I am privileged
 to join, and a collective one that the school walks hand in hand with the
 support of the SAC, parents, alumni and community partners. I am grateful
@@ -50,7 +60,9 @@ through abundantly. With the strong stakeholder and community partnership,
 as well as the deep commitment of staff and students, let us continue to
 strive together to provide the empowering holistic education for our students
 to thrive and make a difference.</p>
+
 <p>We welcome you to our Wellington family as we continue to forge brave
 and innovative pathways in empowering leaders, touching lives and transforming
 futures.</p>
+
 <p>Ms Ng Hui Min</p>

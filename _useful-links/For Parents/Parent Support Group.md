@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /parent-support-group/
+permalink: /parent-support-group-old/
 variant: tiptap
 description: Wellington Parent Support Group (PSG) Form
 third_nav_title: For Parents

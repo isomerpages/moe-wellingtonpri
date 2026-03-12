@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/secondary/s1-posting/how-to-choose" rel="noopener noreferrer nofollow" target="_blank">Selecting Secondary School Guide</a>
+<p><a href="https://www.moe.gov.sg/secondary/s1-posting" rel="noopener noreferrer nofollow" target="_blank">Selecting Secondary School Guide</a>
 </p>
 </li>
 <li>

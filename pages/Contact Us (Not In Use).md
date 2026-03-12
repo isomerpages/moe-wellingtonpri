@@ -1,6 +1,6 @@
 ---
 title: Contact Us (Not In Use)
-permalink: /contact-us/
+permalink: /contact-us-not-in-use/
 description: ""
 variant: tiptap
 ---

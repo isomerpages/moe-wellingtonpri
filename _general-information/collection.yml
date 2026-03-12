@@ -1,0 +1,6 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - General Information.md
+      - Privacy Policy.md

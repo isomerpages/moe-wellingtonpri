@@ -53,6 +53,15 @@ links:
   - title: MK@WL
     url: https://sites.google.com/moe.edu.sg/mkwl/
   - title: Useful Links
-    collection: useful-links
+    url: /general-information/
+    sublinks:
+      - title: General
+        url: /general-information/
+      - title: For Parents
+        url: /calendar/
+      - title: For Students
+        url: /for-students/student-learning-space/
+      - title: For Staff
+        url: /useful-links/for-staff2/
   - title: Contact Us
     url: /contact-us/
