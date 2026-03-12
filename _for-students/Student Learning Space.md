@@ -8,7 +8,7 @@ description: ""
 <img style="width:50%" height="auto" width="100%" src="/images/WTP_SLS.png">
 </div>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space Login</a> 
-<br><a href="https://www.learning.moe.edu.sg/about/overview-of-student-learning-space/" rel="noopener noreferrer nofollow" target="_blank">Overview of Student Learning Space</a> 
+<br><a href="https://www.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Overview of Student Learning Space</a> 
 <br><a href="https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to Student Learning Space</a>
 </p>
 <hr>
