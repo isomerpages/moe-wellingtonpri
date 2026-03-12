@@ -10,6 +10,7 @@ p {
     margin-bottom: 20px; /* Adjust the value as needed */
     }
     </style>
+		
 <p>Established in 2001, Wellington Primary School has grown from strength
 to strength from its initial enrolment of 303 students and 14 staff, to
 its current more than 1,400 primary students and 250 kindergarteners. Over
