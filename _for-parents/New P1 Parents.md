@@ -102,7 +102,8 @@ free textbooks and uniform during the allocated collection period from
 <hr>
 <h4>School Textbooks and Uniform</h4>
 <p>Our appointed vendors are Pacific Bookstores (for textbooks) and My Uniform
-(Asia) Pte Ltd (for uniforms). <a href="/primary-1/" rel="noopener nofollow" target="_blank">Click here for the Primary 1 booklist.</a>.</p>
+(Asia) Pte Ltd (for uniforms). <a href="/primary-1/" rel="noopener nofollow" target="_blank">Click here for the Primary 1 booklist.</a>
+</p>
 <p>Parents are encouraged to place online orders and choose either home delivery
 or self-collection in school. The dates for collection of pre-ordered textbooks
 and/or uniforms are as shown in the table.</p>
