@@ -375,7 +375,7 @@ and fruits.</p>
 <p>School Uniform Measurement Guide:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/School%20uniform%20/School_Uniform_Measurement_Guide_MY_UNIFORM_SHOP__ASIA__PTE__LTD_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Measurement Guide</u></a>
+<p><a href="https://www.wellingtonpri.moe.edu.sg/files/School%20uniform%20/School_Uniform_Measurement_Guide_MY_UNIFORM_SHOP__ASIA__PTE__LTD_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Measurement Guide</u></a>
 </p>
 </td>
 </tr>
@@ -384,7 +384,7 @@ and fruits.</p>
 <p>School Uniform Size Chart:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/School%20uniform%20/School_Uniform_Size_Chart.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Size Chart</u></a>
+<p><a href="https://www.wellingtonpri.moe.edu.sg/files/School%20uniform%20/School_Uniform_Size_Chart.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Size Chart</u></a>
 </p>
 </td>
 </tr>
@@ -393,7 +393,7 @@ and fruits.</p>
 <p>School Uniform Price List:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/School%20uniform%20/school_uniform_price_list.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Price List</u></a>
+<p><a href="https://www.wellingtonpri.moe.edu.sg/files/School%20uniform%20/school_uniform_price_list.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Price List</u></a>
 </p>
 </td>
 </tr>
@@ -495,10 +495,10 @@ and fruits.</p>
 </tbody>
 </table>
 <p><strong>Booking Form</strong>
-<br><a href="https://cms.isomer.gov.sg/files/School_Bus_Booking_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a> to
+<br><a href="https://www.wellingtonpri.moe.edu.sg/files/School_Bus_Booking_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a> to
 access the booking form</p>
 <p><strong>Terms &amp; Conditions</strong>
-<br><a href="https://cms.isomer.gov.sg/files/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf" rel="noopener nofollow" target="_blank"><u>Click here</u></a>&nbsp;to
+<br><a href="https://www.wellingtonpri.moe.edu.sg/files/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf" rel="noopener nofollow" target="_blank"><u>Click here</u></a>&nbsp;to
 read Terms &amp; Conditions Governing The Requests For Services</p>
 <p><strong>Daily School Bus Service</strong>
 </p>
@@ -572,5 +572,5 @@ Promotion Board (HPB) in introducing the&nbsp;<a href="https://www.hpb.gov.sg/sc
 one of the pioneer schools in 2011. We work closely with the canteen vendors
 to ensure their adherence to a set of HPB guidelines to bring wholesome
 meals and healthy snacks that provide optimum nutrition to our students.</p>
-<p><a href="https://cms.isomer.gov.sg/files/Useful%20Links/Canteen_menu_website_03_Jan_2025.pdf" rel="noopener nofollow" target="_blank"><u>Click here</u></a> to
+<p><a href="https://www.wellingtonpri.moe.edu.sg/files/Useful%20Links/Canteen_menu_website_03_Jan_2025.pdf" rel="noopener nofollow" target="_blank"><u>Click here</u></a> to
 view the stall menu.</p>
