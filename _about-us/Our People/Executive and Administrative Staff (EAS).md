@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Woan Ling</p>
+<p>Mr Chan Teck Meng</p>
 </td>
 </tr>
 <tr>
