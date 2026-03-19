@@ -618,13 +618,7 @@ also request a hard copy of the Application Form from the School’s General
 Office.</p>
 </li>
 </ol>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.wellingtonpri.moe.edu.sg/files/Application_for_Canteen_Stall_WellingtonPriSch.pdf" rel="noopener nofollow" target="_blank">https://www.wellingtonpri.moe.edu.sg/files/Application_for_Canteen_Stall_WellingtonPriSch.pdf</a> for
-Individual stallholder</p>
-</li>
-</ul>
-<p>&nbsp;</p>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attach the following documents together with the application form:</p>
