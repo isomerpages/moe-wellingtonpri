@@ -613,13 +613,14 @@ view the stall menu.</p>
 <h4>&nbsp;Application Procedure</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the Application Form. You may also request a hard
-copy of the Application Form from the School’s General Office.</p>
+<p>Download and complete the <a href="/files/Application_for_Canteen_Stall_WellingtonPriSch.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>.
+You may also request a hard copy of the Application Form from the School’s
+General Office.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.wellingtonpri.moe.edu.sg/files/Useful%20Links/Application_for_Canteen_Stall_WellingtonPriSch.pdf" rel="noopener nofollow" target="_blank">Application Form</a> for
+<p><a href="/files/Application_for_Canteen_Stall_WellingtonPriSch.pdf" rel="noopener nofollow" target="_blank">Application Form</a> for
 Individual stallholder</p>
 </li>
 </ul>
