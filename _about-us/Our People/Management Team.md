@@ -423,10 +423,10 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Woan Ling</p>
+<p>Mr Chan Teck Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_woan_ling@moe.edu.sg</p>
+<p>chan_teck_meng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
