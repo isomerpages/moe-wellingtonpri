@@ -375,7 +375,7 @@ and fruits.</p>
 <p>School Uniform Measurement Guide:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/School%20uniform%20/School_Uniform_Measurement_Guide_MY_UNIFORM_SHOP__ASIA__PTE__LTD_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Measurement Guide</u></a>
+<p><a href="https://www.wellingtonpri.moe.edu.sg/files/School%20uniform%20/School_Uniform_Measurement_Guide_MY_UNIFORM_SHOP__ASIA__PTE__LTD_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Measurement Guide</u></a>
 </p>
 </td>
 </tr>
@@ -384,7 +384,7 @@ and fruits.</p>
 <p>School Uniform Size Chart:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/School%20uniform%20/School_Uniform_Size_Chart.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Size Chart</u></a>
+<p><a href="https://www.wellingtonpri.moe.edu.sg/files/School%20uniform%20/School_Uniform_Size_Chart.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Size Chart</u></a>
 </p>
 </td>
 </tr>
@@ -393,7 +393,7 @@ and fruits.</p>
 <p>School Uniform Price List:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/School%20uniform%20/school_uniform_price_list.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Price List</u></a>
+<p><a href="https://www.wellingtonpri.moe.edu.sg/files/School%20uniform%20/school_uniform_price_list.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Price List</u></a>
 </p>
 </td>
 </tr>
@@ -495,10 +495,10 @@ and fruits.</p>
 </tbody>
 </table>
 <p><strong>Booking Form</strong>
-<br><a href="https://cms.isomer.gov.sg/files/School_Bus_Booking_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a> to
+<br><a href="https://www.wellingtonpri.moe.edu.sg/files/School_Bus_Booking_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a> to
 access the booking form</p>
 <p><strong>Terms &amp; Conditions</strong>
-<br><a href="https://cms.isomer.gov.sg/files/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf" rel="noopener nofollow" target="_blank"><u>Click here</u></a>&nbsp;to
+<br><a href="https://www.wellingtonpri.moe.edu.sg/files/TERMS%20AND%20CONDITIONS%20GOVERNING%20THE%20REQUESTS%20FOR%20SERVICES.pdf" rel="noopener nofollow" target="_blank"><u>Click here</u></a>&nbsp;to
 read Terms &amp; Conditions Governing The Requests For Services</p>
 <p><strong>Daily School Bus Service</strong>
 </p>
@@ -572,5 +572,159 @@ Promotion Board (HPB) in introducing the&nbsp;<a href="https://www.hpb.gov.sg/sc
 one of the pioneer schools in 2011. We work closely with the canteen vendors
 to ensure their adherence to a set of HPB guidelines to bring wholesome
 meals and healthy snacks that provide optimum nutrition to our students.</p>
-<p><a href="https://cms.isomer.gov.sg/files/Useful%20Links/Canteen_menu_website_03_Jan_2025.pdf" rel="noopener nofollow" target="_blank"><u>Click here</u></a> to
+<p><a href="https://www.wellingtonpri.moe.edu.sg/files/Useful%20Links/Canteen_menu_website_03_Jan_2025.pdf" rel="noopener nofollow" target="_blank"><u>Click here</u></a> to
 view the stall menu.</p>
+<p></p>
+<h3>School Canteen Advertisement</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Type of Stall</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Requirements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Food Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday 3 April 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Halal Noodle/ Mee</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;Application Procedure</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Download and complete the <a href="/files/ApplicationCanteenStall.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>. You may
+also request a hard copy of the Application Form from the School’s General
+Office.</p>
+</li>
+</ol>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Attach the following documents together with the application form:</p>
+</li>
+</ol>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the NRIC (front and back);</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items; and</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
+etc.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Submit the completed application form and documents by the closing date
+via email OR to the School's General Office.</p>
+<p></p>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Address</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wellington Primary School
+<br>10 Wellington Circle
+<br>Singapore 757702</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Person</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Teck Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Contact</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>+65 6753 3319</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Chan_Teck_Meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chan_Teck_Meng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>How to get to the school?</p>
+</li>
+</ol>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nearest MRT: Sembawang Station (NS11) – 10 minutes walking distance</p>
+</li>
+<li>
+<p>Suggested Bus numbers: 856<strong>, </strong>980<strong>, </strong>882</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>Interested applicants must meet the following criteria:</p>
+</li>
+</ol>
+<p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be a Singapore Citizen or Singapore
+Permanent Resident for stallholder</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide good service and
+quality food with prices determined in consultation with the school</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide cooked food that
+meets the health / nutritional standards set by the Health Promotion Board
+(HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines
+(see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">link</a>)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to maintain a high standard
+of food safety and personal hygiene</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be healthy and fit to operate the
+stall</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Must be in personal attendance at
+the stall</p>
+<p>&nbsp;</p>
+<p>*Shortlisted applicants will be notified for an interview and will be
+required to provide food sampling for the School Canteen Committee at the
+applicant's own expense.</p>
