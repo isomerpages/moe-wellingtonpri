@@ -39,10 +39,10 @@ variant: tiptap
 <p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thanmolie</p>
+<p>Mr Damian Tan Wei Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>thanmolie_do_k_vellasamy@moe.edu.sg</p>
+<p>damian_tan_wei_yi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -124,6 +124,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nina Salina Binte Suandi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nina_salina_suandi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5E</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,17 +153,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ren_weichen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Susie Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>phua_susie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
