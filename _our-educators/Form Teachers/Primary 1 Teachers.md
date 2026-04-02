@@ -48,17 +48,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Lee Ching</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ang_lee_ching_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
