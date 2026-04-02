@@ -102,6 +102,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Hafizah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_hafizah_baharudin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
