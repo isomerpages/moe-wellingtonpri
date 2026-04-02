@@ -179,6 +179,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ai Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan_Ai_Lin_A@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2H</p>
 </td>
 <td rowspan="1" colspan="1">
