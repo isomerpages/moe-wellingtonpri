@@ -149,10 +149,10 @@ variant: tiptap
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek (Pei Jin)</p>
+<p>Ms Lee Sin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>quek_pei_jin@moe.edu.sg</p>
+<p>lee_sin_yi_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -175,6 +175,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sim_chin_mei@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ai Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan_Ai_Lin_A@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

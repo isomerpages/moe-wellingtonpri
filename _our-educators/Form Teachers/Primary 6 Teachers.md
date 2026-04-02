@@ -168,6 +168,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>6E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Susie Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>phua_susie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>6F</p>
 </td>
 <td rowspan="1" colspan="1">
