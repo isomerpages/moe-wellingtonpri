@@ -149,10 +149,10 @@ variant: tiptap
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek (Pei Jin)</p>
+<p>Ms Lee Sin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>quek_pei_jin@moe.edu.sg</p>
+<p>lee_sin_yi_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
