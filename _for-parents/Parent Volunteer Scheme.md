@@ -26,9 +26,9 @@ with the primary school.</p>
 <p>Please visit&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates?pt=2B" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>&nbsp;for
 details.</p>
 <p>Online registration (click&nbsp;<a href="https://go.gov.sg/phase2bparentvolunteer" rel="noopener noreferrer nofollow" target="_blank">link</a>) is now open for
-children born between 2 January 2020 and 1 January 2021 (both dates inclusive).
+children born between 2 January 2021 and 1 January 2022 (both dates inclusive).
 Please go through the&nbsp;<a href="https://www.wellingtonpri.moe.edu.sg/files/Useful%20Links/WTP_2B_Parent_Volunteer_Scheme_T_C_0425.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms &amp; Conditions</a>&nbsp;before
-submitting your application. Last day for registration is 30 June 2025.</p>
+submitting your application. Last day for registration is 30 June 2026.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">Primary One Registration</a>
