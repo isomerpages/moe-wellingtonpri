@@ -23,9 +23,9 @@ sections:
         - title: School Information
           description: General information about school operating hours and more
           linktext: Learn more
-          url: /useful-links/general/school-information/
+          url: /general-information/
         - title: School Calendar
           description: Calendar of upcoming school activities and events
           linktext: Learn more
-          url: /useful-links/general/calendar/
+          url: /calendar/
 ---
