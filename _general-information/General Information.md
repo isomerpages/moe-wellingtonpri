@@ -621,7 +621,7 @@ of the Application Form from the School’s General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Application_for_Canteen_Stall_WellingtonPriSch.pdf" rel="noopener nofollow" target="_blank">Application Form for Individual stallholder</a>
+<p><a href="https://www.wellingtonpri.moe.edu.sg/files/Application_for_Canteen_Stall_WellingtonPriSch.pdf" rel="noopener nofollow" target="_blank">Application Form for Individual stallholder</a>
 </p>
 </li>
 </ul>
