@@ -135,6 +135,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Mazlan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Santhi</p>
 </td>
 </tr>
@@ -202,6 +210,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Science Lab Assistant</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fathanah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Dental Therapists</strong>
 </p>
 </td>
@@ -215,6 +232,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lin Liang Chen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Natasha</p>
 </td>
 </tr>
 <tr>
