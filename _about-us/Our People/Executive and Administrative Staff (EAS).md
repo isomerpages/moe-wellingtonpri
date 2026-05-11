@@ -148,15 +148,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Gardener</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Neo Bock Hoo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>ICT Manager</strong>
 </p>
 </td>
@@ -215,6 +206,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fathanah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gardener</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Bock Hoo</p>
 </td>
 </tr>
 <tr>
