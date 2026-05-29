@@ -1,7 +1,7 @@
 ---
 title: School Canteen Stall Vacancy
 permalink: /canteen-stall-available/
-date: 2026-05-11
+date: 2026-05-28
 layout: post
 description: ""
 image: ""
@@ -34,7 +34,7 @@ variant: tiptap
 <p>Malay Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday 27/5/2026</p>
+<p>Wednesday 17/6/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal Noodle/ Mee</p>
