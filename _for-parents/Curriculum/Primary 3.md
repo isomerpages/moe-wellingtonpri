@@ -52,7 +52,7 @@ third_nav_title: Curriculum
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Parent Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Parent Townhall/Primary 3/The_Refreshed_Approach_Parent_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">The Refreshed Approach Parent Engagement</a>
