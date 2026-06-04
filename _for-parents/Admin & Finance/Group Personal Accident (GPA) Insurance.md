@@ -44,6 +44,6 @@ Plan for Students can also be found at the below weblink.</p>
 <p>Income’s website
 <br><a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
-<p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet 2025</a>
+<p><a href="/files/Product_Fact_Sheet_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet</a>
 </p>
 <p></p>
