@@ -186,14 +186,24 @@ are required to be in their PE attire or CCA uniform if any.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1 to 4</p>
+<p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.35 am to 10.00 am</p>
+<p>8.35 am to 9 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In their own classroom. Students are to pack a healthy snack such as buns
-and fruits.</p>
+<p>In the canteen. Students may buy food from the canteen stalls.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3 and 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.05 am to 9.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In the canteen. Students may buy food from the canteen stalls.</p>
 </td>
 </tr>
 <tr>
@@ -205,6 +215,18 @@ and fruits.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In the canteen. Students may buy food from the canteen stalls.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.35 am to 10.00 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In their own classroom. Students are to pack a healthy snack such as buns
+and fruits.</p>
 </td>
 </tr>
 <tr>
