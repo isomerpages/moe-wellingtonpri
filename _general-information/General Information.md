@@ -166,8 +166,9 @@ lessons will continue on every Friday from 7.45 am to 9.45 am. All students
 are required to be in their PE attire or CCA uniform if any.</p>
 <h3>Snack Break &amp; Lunch Time</h3>
 <h3>Snack Time</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -178,6 +179,9 @@ are required to be in their PE attire or CCA uniform if any.</p>
 <p>Level</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -186,58 +190,87 @@ are required to be in their PE attire or CCA uniform if any.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.35 am to 10.00 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In their own classroom.
+<br>Students are to pack a healthy snack such as buns and fruits.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.35 am to 9 am</p>
+<p>Monday to Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In the canteen. Students may buy food from the canteen stalls.</p>
+<p>8.35 am to 9.00 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In the canteen.
+<br>Students may buy food from the canteen stalls or pack their own snack.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3 and 4</p>
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.35 am to 10.00 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In their own classroom.
+<br>Students are to pack a healthy snack such as buns and fruits.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Primary 3 and Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday to Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.05 am to 9.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In the canteen. Students may buy food from the canteen stalls.</p>
+<p>In the canteen.
+<br>Students may buy food from the canteen stalls or pack their own snack.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 5 and 6</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.35 am to 10.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In the canteen. Students may buy food from the canteen stalls.</p>
+<p>In their own classroom.
+<br>Students are to pack a healthy snack such as buns and fruits.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1</p>
+<p>Primary 5 and Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.35 am to 10.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In their own classroom. Students are to pack a healthy snack such as buns
-and fruits.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>In the canteen.
+<br>Students may buy food from the canteen stalls or pack their own snack.</p>
 </td>
 </tr>
 </tbody>
