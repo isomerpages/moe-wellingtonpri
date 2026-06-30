@@ -657,7 +657,7 @@ view the stall menu.</p>
 <p>Malay Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday 17/6/2026</p>
+<p>Wednesday 15/7/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal Noodle/ Mee</p>
