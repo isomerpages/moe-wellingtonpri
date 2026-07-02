@@ -322,7 +322,7 @@ year.</p>
 <p>P1 Attentiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shantiny</p>
+<p>Ms Amanda Ang</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +330,7 @@ year.</p>
 <p>P1 Benevolence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lallitha</p>
+<p>Ms Nina Salina</p>
 </td>
 </tr>
 <tr>
@@ -338,7 +338,7 @@ year.</p>
 <p>P1 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Qiu (Carolyn)</p>
+<p>Mdm Siti Aishah</p>
 </td>
 </tr>
 <tr>
@@ -346,7 +346,7 @@ year.</p>
 <p>P1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek Pei Jin</p>
+<p>Mr Paul Tan</p>
 </td>
 </tr>
 <tr>
@@ -354,7 +354,7 @@ year.</p>
 <p>P1 Enthusiasm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Qu Hongwei</p>
+<p>Ms Nur Natasha</p>
 </td>
 </tr>
 <tr>
@@ -362,7 +362,7 @@ year.</p>
 <p>P1 Forgiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zee Wan Teng</p>
+<p>Mrs Neo (Elaine)</p>
 </td>
 </tr>
 <tr>
@@ -370,7 +370,7 @@ year.</p>
 <p>P1 Generosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shariffa Diyana</p>
+<p>Ms Nuruzzulfaa</p>
 </td>
 </tr>
 <tr>
@@ -378,7 +378,7 @@ year.</p>
 <p>P1 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ida</p>
+<p>Mdm Teo</p>
 </td>
 </tr>
 <tr>
@@ -410,7 +410,7 @@ year.</p>
 <p>P2 Attentiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee (June)</p>
+<p>Ms Tan Yu Yun</p>
 </td>
 </tr>
 <tr>
@@ -418,7 +418,7 @@ year.</p>
 <p>P2 Benevolence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sabrina</p>
+<p>Ms Lallitha</p>
 </td>
 </tr>
 <tr>
@@ -426,7 +426,7 @@ year.</p>
 <p>P2 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Chai Yee</p>
+<p>Ms Qiu (Carolyn)</p>
 </td>
 </tr>
 <tr>
@@ -434,7 +434,7 @@ year.</p>
 <p>P2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zang Xiaowen</p>
+<p>Ms Nur Hafizah</p>
 </td>
 </tr>
 <tr>
@@ -442,7 +442,7 @@ year.</p>
 <p>P2 Enthusiasm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rahaini</p>
+<p>Ms Joy Ng</p>
 </td>
 </tr>
 <tr>
@@ -450,7 +450,7 @@ year.</p>
 <p>P2 Forgiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ramesh (Meera)</p>
+<p>Ms Zee (Wan Teng)</p>
 </td>
 </tr>
 <tr>
@@ -458,7 +458,7 @@ year.</p>
 <p>P2 Generosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Wai Fong</p>
+<p>Ms Lee Sin Yi</p>
 </td>
 </tr>
 <tr>
@@ -466,7 +466,7 @@ year.</p>
 <p>P2 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Stella</p>
+<p>Ms Nur Sabrina</p>
 </td>
 </tr>
 <tr>
